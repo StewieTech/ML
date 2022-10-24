@@ -1,0 +1,14 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "My First Server :D",
+  "main": "servenr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Errol Stewart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
