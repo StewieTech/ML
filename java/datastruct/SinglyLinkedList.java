@@ -3,6 +3,7 @@ import java.util.NoSuchElementException;
 /**
  * Your implementation of a Singly-Linked List.
  */
+
 public class SinglyLinkedList<T> {
 
     /*
@@ -26,7 +27,21 @@ public class SinglyLinkedList<T> {
      */
     public void addToFront(T data) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        if (data == null) {
+            throw new IllegalArgumentException("Cannot add null data to front of list");
+        }
+        SinglyLinkedListNode<T> newNode = new SinglyLinkedListNode<>(data);
+        newNode.setNext(head);
+        head = newNode;
+
+        if (size == 0) {
+            tail = head;
+        }
+
+        size++;
+
     }
+ 
 
     /**
      * Adds the element to the back of the list.
@@ -35,12 +50,32 @@ public class SinglyLinkedList<T> {
      *
      * @param data the data to add to the back of the list
      * @throws java.lang.IllegalArgumentException if data is null
+     * FIX BELOW
      */
     public void addToBack(T data) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        if (data == null) {
+            throw new IllegalArgumentException("cannot add null data to back of list");
+        };
+
+        SinglyLinkedListNode<T> newNode = new SinglyLinkedListNode<>(data);
+
+        if (size == 0) {
+            head = newNode;
+            tail = newNode;
+        } else {
+            tail.setNext(newNode);
+            tail = newNode;
+        }
+        size++;
     }
 
+    
+    
+
+
     /**
+     * FIX ABOVE
      * Removes and returns the first data of the list.
      *
      * Method should run in O(1) time.
@@ -50,7 +85,20 @@ public class SinglyLinkedList<T> {
      */
     public T removeFromFront() {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        if (size == 0) {
+            throw new NoSuchElementException("Cannot remove from empy list");
+        }
+        T data = head.getData();
+        head = head.getNext();
+        size --;
+
+        if (size == 0) {
+            tail = null;
+        }
+        return data;
     }
+
+    
 
     /**
      * Removes and returns the last data of the list.
@@ -62,6 +110,27 @@ public class SinglyLinkedList<T> {
      */
     public T removeFromBack() {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        if (size == 0) {
+            throw new NoSuchElementException("Cannot remove from from back list");
+        }
+
+        T data;
+        if (size ==1 ) {
+            data = head.getData();
+            head = null;
+            tail = null;
+        }
+        else {
+            SinglyLinkedListNode<T> current = head;
+            while (current.getNext() !=tail) {
+                current = current.getNext();
+            }
+            data = tail.getData();
+            current.setNext(null);
+            tail = current;
+        }
+        size --;
+        return data;
     }
 
     /**
