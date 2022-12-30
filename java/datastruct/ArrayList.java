@@ -105,7 +105,7 @@ public class ArrayList<T> {
         
         T removedElement = backingArray[0];
 
-        for (int i = 0; i < size; i++) {
+        for (int i = 0; i < size - 1; i++) {
             backingArray[i] = backingArray[i + 1];
         }
         backingArray[size - 1] = null;
