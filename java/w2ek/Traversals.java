@@ -8,7 +8,7 @@ import java.util.LinkedList;
 
 /**
  * Your implementation of the pre-order, in-order, and post-order
- * traversals of a tree.
+ * traversals of a tree. okay
  */
 public class Traversals<T extends Comparable<? super T>> {
 
