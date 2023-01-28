@@ -44,10 +44,13 @@ public class MinHeap<T extends Comparable<? super T>> {
             throw new IllegalArgumentException("The data is Null !!!") ;
         }
 
-        if (size == backingArray.length -1) {
-            T[] newArray = (T[]) new Comparable[backingArray.length * 2];
-            System.arraycopy(backingArray, 0, newArray, 0, backingArray.length);
-            backingArray = newArray ;
+        if (size + 1 == backingArray.length) {
+            T[] newArray = (T[]) new Object[backingArray.length * 2];
+            // System.arraycopy(backingArray, 0, newArray, 0, backingArray.length);
+            // backingArray = newArray ;
+            for ( int i = 1 ; i < backingArray.length ; i ++ ) {
+                newArray[i] = backingArray[i];
+            }
         }
 
         size++ ; 
@@ -77,7 +80,36 @@ public class MinHeap<T extends Comparable<? super T>> {
      */
     public T remove() {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
-        if (data == null)
+        if (size == 0) {
+            throw new NoSuchElementException("Can't remove nothing baby!");
+        }
+
+        T min =  backingArray[1];
+        backingArray[1] = backingArray[size];
+        backingArray[size] = null ;
+        size --;
+
+        int index = 1;
+        while (index * 2 <= size ) {
+            int child = index * 2 ;
+            if (child < size && backingArray[child].compareTo(backingArray[child + 1]) > 0 ) {
+                child++ ;
+            } 
+            if (backingArray[index].compareTo(backingArray[child]) >0) {
+                T temp = backingArray[index];
+                backingArray[index] = backingArray[child];
+                backingArray[child] = temp ;
+                index = child ; 
+            } else {
+                break ;
+            }
+        }
+
+        return min ; 
+
+
+
+
     }
 
     /**
