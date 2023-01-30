@@ -1,3 +1,3 @@
-answer = 288 % 9
+answer = 92 % 7
 
 print(answer)
