@@ -1,5 +1,4 @@
 package w3ek;
-
 /**
  * Your implementation of the AVL tree rotations.
  */
@@ -31,7 +30,18 @@ public class AVL<T extends Comparable<? super T>> {
      */
     public void updateHeightAndBF(AVLNode<T> currentNode) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        int leftHeight = -1;
+        int rightHeight = -1;
+        if (currentNode.getLeft() != null) {
+            leftHeight = currentNode.getLeft().getHeight();
     }
+            if (currentNode.getRight() != null) {
+                rightHeight = currentNode.getRight().getHeight();
+            }
+                currentNode.setHeight(Math.max(leftHeight, rightHeight) + 1);
+                currentNode.setBalanceFactor(leftHeight - rightHeight);
+    }
+                
 
     /**
      * Method that rotates a current node to the left. After saving the
@@ -56,6 +66,12 @@ public class AVL<T extends Comparable<? super T>> {
      */
     public AVLNode<T> rotateLeft(AVLNode<T> currentNode) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        AVLNode<T> rightChild = currentNode.getRight();
+        currentNode.setRight(rightChild.getLeft());
+        rightChild.setLeft(currentNode);
+        updateHeightAndBF(currentNode);
+        updateHeightAndBF( rightChild);
+        return rightChild;
     }
 
     /**
@@ -81,6 +97,12 @@ public class AVL<T extends Comparable<? super T>> {
      */
     public AVLNode<T> rotateRight(AVLNode<T> currentNode) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        AVLNode<T> leftChild = currentNode.getLeft();
+        currentNode.setLeft(leftChild.getRight() );
+        leftChild.setRight( currentNode);
+        updateHeightAndBF(currentNode);
+        updateHeightAndBF(leftChild);
+        return leftChild ;
     }
 
     /**
@@ -105,17 +127,30 @@ public class AVL<T extends Comparable<? super T>> {
      */
     public AVLNode<T> balance(AVLNode<T> currentNode) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        
 
         /* First, we update the height and balance factor of the current node. */
         updateHeightAndBF(currentNode);
+      
 
-        if ( /* Condition for a right heavy tree. */ ) {
-            if ( /* Condition for a right-left rotation. */ ) {
+        if ( /* Condition for a right heavy tree. */ 
+            currentNode.getBalanceFactor() > -1
+        ) {
+            if ( /* Condition for a right-left rotation. */ 
+                currentNode.getRight().getBalanceFactor() > 0 
+            
+            ) {
                 currentNode.setRight(rotateRight(currentNode.getRight()));
             }
             currentNode = rotateLeft(currentNode);
-        } else if ( /* Condition for a left heavy tree. */ ) {
-            if ( /* Condition for a left-right rotation. */ ) {
+        } else if ( /* Condition for a left heavy tree. */ 
+            currentNode.getBalanceFactor() < 1
+        
+        ) {
+            if ( /* Condition for a left-right rotation. */ 
+                currentNode.getLeft().getBalanceFactor() < 0
+            
+            ) {
                 currentNode.setLeft(rotateLeft(currentNode.getLeft()));
             }
             currentNode = rotateRight(currentNode);
