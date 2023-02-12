@@ -44,6 +44,7 @@ public class AVL<T extends Comparable<? super T>> {
                 
 
     /**
+     * comment
      * Method that rotates a current node to the left. After saving the
      * current's right node to a variable, the right node's left subtree will
      * become the current node's right subtree. The current node will become
