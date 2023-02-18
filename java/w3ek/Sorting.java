@@ -1,136 +1,85 @@
-package w3ek;
-
 import java.util.Comparator;
+import java.util.List;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
- * Your implementation of various iterative sorting algorithms.
+ * Your implementation of various divide & conquer sorting algorithms.
  */
+
 public class Sorting {
 
-
-
     /**
-     * Implement bubble sort.
+     * Implement merge sort.
      *
      * It should be:
-     * in-place
+     * out-of-place
      * stable
-     * adaptive
-     *
-     * Have a worst case running time of: O(n^2)
-     * And a best case running time of: O(n)
-     *
-     * NOTE: You should implement bubble sort with the last swap optimization.
-     *
-     * You may assume that the passed in array and comparator
-     * are both valid and will never be null.
-     *
-     * @param <T>        Data type to sort.
-     * @param arr        The array that must be sorted after the method runs.
-     * @param comparator The Comparator used to compare the data in arr.
-     */
-    public static <T> void bubbleSort(T[] arr, Comparator<T> comparator) {
-        // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
-    //     boolean swapped;
-    //     int n = arr.length;
-    //     do {
-    //         swapped = false;
-    //     for (int i = 0; i < n ; i ++) {
-    //         if (comparator.compare(arr[i], arr[i +1]) > 0) {
-    //             T temp = arr[i];
-    //             arr[i] = arr[i + 1];
-    //             arr[i + 1] = temp ; 
-    //             swapped = true ; 
-
-    //         }
-    //     }
-    //     n -- ;
-    // } while (swapped);
-    boolean isSwapped = true;
-    int lastUnsorted = arr.length - 1;
-    while(isSwapped) {
-        isSwapped = false;
-        for (int i = 0; i < lastUnsorted; i++) {
-            if (comparator.compare(arr[i],arr[i+1]) >0)  {
-                swap(arr, i, i + 1);
-                isSwapped = true;
-            }
-        }
-        lastUnsorted--;
-    }
-
-    }
-    
-        private static <T> void swap(T[] arr, int i, int j) {
-        T temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-}
-
-
-    /**
-     * Implement selection sort.
-     *
-     * It should be:
-     * in-place
-     * unstable
      * not adaptive
      *
-     * Have a worst case running time of: O(n^2)
-     * And a best case running time of: O(n^2)
+     * Have a worst case running time of: O(n log n)
+     * And a best case running time of: O(n log n)
      *
-     * You may assume that the passed in array and comparator
-     * are both valid and will never be null.
+     * You can create more arrays to run merge sort, but at the end, everything
+     * should be merged back into the original T[] which was passed in.
+     *
+     * When splitting the array, if there is an odd number of elements, put the
+     * extra data on the right side.
+     *
+     * Hint: You may need to create a helper method that merges two arrays
+     * back into the original T[] array. If two data are equal when merging,
+     * think about which subarray you should pull from first.
+     *
+     * You may assume that the passed in array and comparator are both valid
+     * and will not be null.
      *
      * @param <T>        Data type to sort.
-     * @param arr        The array that must be sorted after the method runs.
+     * @param arr        The array to be sorted.
      * @param comparator The Comparator used to compare the data in arr.
      */
-    public static <T> void selectionSort(T[] arr, Comparator<T> comparator) {
+    public static <T> void mergeSort(T[] arr, Comparator<T> comparator) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
-        for (int i = 0; i < arr.length -1 ; i++) {
-            int minIndex = i;
-            for(int j = i + 1; j < arr.length; j ++) {
-                if (comparator.compare(arr[j], arr[minIndex]) <0) {
-                    minIndex = j;
-                }
-            }
-            if (minIndex != i) {
-                swap(arr, i, minIndex);
-            }
+        if (arr == null || arr.length <= 1) {
+            return;
         }
-    }
-    
 
+        int mid = arr.length / 2;
+        T[] left = (T[]) new Object[mid];
+        T[] right = (T[]) new Object[arr.length - mid];
+        
+    }
 
     /**
-     * Implement insertion sort.
+     * Implement LSD (least significant digit) radix sort.
      *
      * It should be:
-     * in-place
+     * out-of-place
      * stable
-     * adaptive
+     * not adaptive
      *
-     * Have a worst case running time of: O(n^2)
-     * And a best case running time of: O(n)
+     * Have a worst case running time of: O(kn)
+     * And a best case running time of: O(kn)
      *
-     * You may assume that the passed in array and comparator
-     * are both valid and will never be null.
+     * Feel free to make an initial O(n) passthrough of the array to
+     * determine k, the number of iterations you need.
      *
-     * @param <T>        Data type to sort.
-     * @param arr        The array that must be sorted after the method runs.
-     * @param comparator The Comparator used to compare the data in arr.
+     * At no point should you find yourself needing a way to exponentiate a
+     * number; any such method would be non-O(1). Think about how how you can
+     * get each power of BASE naturally and efficiently as the algorithm
+     * progresses through each digit.
+     *
+     * You may use an ArrayList or LinkedList if you wish, but it should only
+     * be used inside radix sort and any radix sort helpers. Do NOT use these
+     * classes with merge sort. However, be sure the List implementation you
+     * choose allows for stability while being as efficient as possible.
+     *
+     * Do NOT use anything from the Math class except Math.abs().
+     *
+     * You may assume that the passed in array is valid and will not be null.
+     *
+     * @param arr The array to be sorted.
      */
-    public static <T> void insertionSort(T[] arr, Comparator<T> comparator) {
+    public static void lsdRadixSort(int[] arr) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
-        for (int i = 1; i < arr.length; i++) {
-            int j = i - 1;
-            while (j >= 0 && comparator.compare(arr[j],arr[i] ) > 0) {
-                arr[j+1] = arr[j];
-                j--;
-            }
-            arr[j + 1] = arr[i];
-        }
     }
 }
-
