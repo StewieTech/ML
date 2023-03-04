@@ -1,4 +1,4 @@
-package w4ek;
+package w4ek.helper;
 
 import java.util.Comparator;
 

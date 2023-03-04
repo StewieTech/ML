@@ -1,10 +1,14 @@
 package w4ek;
+import w4ek.helper.CharacterComparator;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+
+
 
 /**
  * Your implementations of the Boyer Moore string searching algorithm.
@@ -28,7 +32,12 @@ public class PatternMatching {
      */
     public static List<Integer> boyerMoore(CharSequence pattern, CharSequence text, CharacterComparator comparator) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
+        
         List<Integer> matches = new ArrayList<>();
+        if (pattern.length() == 0 || text.length() < pattern.length()) {
+            return matches;
+        }
+
         Map<Character, Integer> lastTable = buildLastTable(pattern);
         int patternLength = pattern.length();
         int textLength = text.length();
@@ -95,5 +104,11 @@ public class PatternMatching {
         }
 
         return lastTable;
+    }
+    public static void main(String[] args) {
+        String text = "aaaaaaaaaabaaa";
+        String pattern = "baaa";
+        List<Integer> matches = boyerMoore(pattern, text, new CharacterComparator());
+        System.out.println(matches);
     }
 }
