@@ -2,6 +2,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.ArrayList;
 
 /**
  * Your implementation of various divide & conquer sorting algorithms.
@@ -112,51 +113,68 @@ public class Sorting {
             return;
         }
     
-        final int BASE = 10;
-        int maxNum = Math.abs(arr[0]);
+        // Find the maximum value in the array
+        int max = Math.abs(arr[0]);
         for (int i = 1; i < arr.length; i++) {
-            if (Math.abs(arr[i]) > maxNum) {
-                maxNum = Math.abs(arr[i]);
-            }
+            max = Math.max(max, Math.abs(arr[i]));
         }
     
+        // Count the number of digits in the maximum value
         int numDigits = 0;
-        while (maxNum > 0) {
+        while (max > 0) {
             numDigits++;
-            maxNum /= BASE;
+            max /= 10;
         }
     
-        int[] counters = new int[BASE];
-        int[] output = new int[arr.length];
+        // Create buckets for each digit (positive and negative)
+        List<List<Integer>> posBuckets = new ArrayList<>(10);
+        List<List<Integer>> negBuckets = new ArrayList<>(10);
+        for (int i = 0; i < 10; i++) {
+            posBuckets.add(new LinkedList<>());
+            negBuckets.add(new LinkedList<>());
+        }
     
-        for (int digit = 0; digit < numDigits; digit++) {
-            // Initialize counters
-            for (int i = 0; i < BASE; i++) {
-                counters[i] = 0;
-            }
-    
-            // Count the occurrence of each digit
+        // Sort each digit from least significant to most significant
+        for (int d = 1; d <= numDigits; d++) {
+            // Place each value in the appropriate bucket
             for (int i = 0; i < arr.length; i++) {
-                int digitValue = (int) (arr[i] / Math.pow(BASE, digit)) % BASE;
-                counters[digitValue]++;
+                int digit = getDigit(arr[i], d);
+                if (arr[i] >= 0) {
+                    posBuckets.get(digit).add(arr[i]);
+                } else {
+                    negBuckets.get(digit).add(arr[i]);
+                }
             }
     
-            // Calculate the cumulative count for each digit
-            for (int i = 1; i < BASE; i++) {
-                counters[i] += counters[i - 1];
+            // Copy the values back into the original array
+            int arrIndex = 0;
+    
+            // Copy negative values in reverse order (for stability)
+            for (int i = negBuckets.size() - 1; i >= 0; i--) {
+                for (int j = negBuckets.get(i).size() - 1; j >= 0; j--) {
+                    arr[arrIndex++] = negBuckets.get(i).get(j);
+                }
+                negBuckets.get(i).clear();
             }
     
-            // Populate the output array
-            for (int i = arr.length - 1; i >= 0; i--) {
-                int digitValue = (int) (arr[i] / Math.pow(BASE, digit)) % BASE;
-                output[--counters[digitValue]] = arr[i];
-            }
-    
-            // Copy the output array back to the original array
-            for (int i = 0; i < arr.length; i++) {
-                arr[i] = output[i];
+            // Copy positive values
+            for (int i = 0; i < posBuckets.size(); i++) {
+                for (int j = 0; j < posBuckets.get(i).size(); j++) {
+                    arr[arrIndex++] = posBuckets.get(i).get(j);
+                }
+                posBuckets.get(i).clear();
             }
         }
     }
+    
+    /**
+     * Returns the d-th digit of the given value, counting from the least
+     * significant digit (d = 1). If the value has fewer than d digits, returns 0.
+     */
+    private static int getDigit(int value, int d) {
+        int divisor = (int) Math.pow(10, d - 1);
+        return (Math.abs(value) / divisor) % 10;
+    }
+
     
     }
