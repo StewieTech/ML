@@ -1,3 +1,5 @@
+package w4ek.GraphT;
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -11,6 +13,8 @@ import java.util.Set;
  * Your implementation of various graph traversal algorithms.
  */
 public class GraphAlgorithms {
+
+    
 
     /**
      * Performs a breadth first search (bfs) on the input graph, starting at
@@ -41,27 +45,32 @@ public class GraphAlgorithms {
     public static <T> List<Vertex<T>> bfs(Vertex<T> start, Graph<T> graph) {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
         List<Vertex<T>> visited = new ArrayList<>();
-        Queue<Vertex<T>> queue = new LinkedList<>();
+        Queue<Vertex<T>> queue = new ArrayDeque<>();
         Set<Vertex<T>> seen = new HashSet<>();
 
         queue.offer(start);
+        seen.add(start);
 
         while (!queue.isEmpty()) {
             Vertex<T> current = queue.poll();
+            visited.add(current);
 
-            if (!seen.contains(current)) {
-                seen.add(current);
-                visited.add(current);
+            // if (!seen.contains(current)) {
+            //     seen.add(current);
+            //     visited.add(current);
 
-                for (Vertex<T> neighbor : graph.getAdjList().get(current)) {
+                for (VertexDistance<T> vd : graph.getAdjList().get(current)) {
+                    Vertex<T> neighbor = vd.getVertex();
                     if (!seen.contains(neighbor)) {
                         queue.offer(neighbor) ; 
+                        seen.add(neighbor);
                     }
                 }
             }
+            return visited;
         }
-        return visited;
-    }
+
+    
 
     /**
      * Performs a depth first search (dfs) on the input graph, starting at
@@ -102,7 +111,8 @@ public class GraphAlgorithms {
         private static <T> void dfsHelper(Vertex<T> vertex, Graph<T> graph, List<Vertex<T>> visited, Set<Vertex<T>> marked) {
             visited.add(vertex);
             marked.add(vertex);
-            for (Vertex<T> neighbor : graph.getAdjList(vertex)) {
+            for (VertexDistance<T> vd : graph.getAdjList().get(vertex)) {
+                Vertex<T> neighbor = vd.getVertex();
                 if (!marked.contains(neighbor)) {
                     dfsHelper(neighbor, graph, visited, marked);
                 }
@@ -111,4 +121,7 @@ public class GraphAlgorithms {
 
 
 
+        
 }
+
+
