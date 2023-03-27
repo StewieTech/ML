@@ -52,24 +52,36 @@ public class GraphAlgorithms {
         // WRITE YOUR CODE HERE (DO NOT MODIFY METHOD HEADER)!
         Set<Vertex<T>> visited = new HashSet<>();
         Set<Edge<T>> mst = new HashSet<>();
-        Queue<VertexDistance<T>> pq = new PriorityQueue<>();
+        PriorityQueue<Edge<T>> pq = new PriorityQueue<>();
+
         visited.add(start);
-        pq.addAll(graph.getAdjList().get(start));
+        for (VertexDistance<T> vd: graph.getAdjList().get(start)) {
+            pq.offer(new Edge<>(start, vd.getVertex(), vd.getDistance()));
+        }
 
-        while (!pq.isEmpty()) {
-            VertexDistance<T> curr = pq.remove();
-            if (!visited.contains(curr.getVertex())) {
-                visited.add(curr.getVertex());
-                mst.add(new Edge<>(start, curr.getVertex(), curr.getDistance()));
-                mst.add(new Edge<>(curr.getVertex(), start, curr.getDistance()));
-                pq.addAll(graph.getAdjList().get(curr.getVertex()));
-
+        while (!pq.isEmpty() && visited.size() < graph.getVertices().size()) {
+            Edge<T> edge = pq.poll();
+            if (!visited.contains(edge.getV())) {
+                mst.add(edge);
+                mst.add(new Edge<>(edge.getV(), edge.getU(), edge.getWeight()));
+                visited.add(edge.getV());
+                for (VertexDistance<T> vd: graph.getAdjList().get(edge.getV())) {
+                    Vertex<T> adjacent = vd.getVertex();
+                    if (!visited.contains(adjacent)) {
+                        pq.offer(new Edge<>(edge.getV(), adjacent, vd.getDistance()));
+                    }
+                }
             }
         }
-    
-    if (visited.size() != graph.getVertices().size()) {
-        return null;
-    }
-    return mst;
+        if (visited.size() < graph.getVertices().size()) {
+            return null;
+
+        } else {
+            return mst;
+        }
+
+
+
+  
 }
 }
