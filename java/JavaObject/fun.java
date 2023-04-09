@@ -1,7 +1,12 @@
 
-public static void main(String[] args) {
+public class fun {
 
-for (int i = 50; i > 0; i -= 10) {
-    System.out.print(i);
- }
+    public static void main(String[] args) {
+        
+        int i = 0;
+        while (i < 10) {
+           System.out.print(i);
+           i--;
+        }
+    }
 }
