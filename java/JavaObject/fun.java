@@ -1,12 +1,20 @@
 
+
 public class fun {
 
     public static void main(String[] args) {
-        
-        int i = 0;
-        while (i < 10) {
-           System.out.print(i);
-           i--;
+        String funnyStr = "south, long island";
+
+        public static String change(String input) {
+
+            funnyStr.replace("!"," ");
+            funnyStr.replace("the beach","");
+            funnyStr.replace(", long", "");
+            funnyStr.replace("wal","roc");
+            funnyStr.toUpperCase();
+            System.out.println(funnyStr);
+            return input;
+        }
+            
         }
     }
-}
