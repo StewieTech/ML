@@ -4,25 +4,35 @@ public class Fly {
     private double mass;
     private double speed;
 
+    private static final int initialMass = 5;
+    private static final int initialSpeed = 10;
+
+    public Fly() {
+        this(initialMass) ;
+    }
+
     public Fly(double mass, double speed) {
         this.mass = mass;
         this.speed=speed;
     }
     
     public Fly(double mass) {
-        this(mass,10);
+        this(mass,initialSpeed);
     }
 
-    public Fly() {
-        this(5,10);
-    }
+    // public Fly() {
+    //     this(5,10);
+    // }
 
     public double getMass() {
         return mass;
     }
 
     public void setMass(double mass) {
-        this.mass = mass;
+        if (mass >= 0) {
+            this.mass = mass;
+        }
+        
     }
 
     public double getSpeed() {
@@ -30,7 +40,10 @@ public class Fly {
     }
 
     public void setSpeed(double speed) {
-        this.speed = speed;
+        if (speed >= 0) {
+            this.speed = speed;
+        }
+
     }
 
 
@@ -45,16 +58,31 @@ public class Fly {
         }
     }
 
-    public void grow(int addedMass) {
-        this.mass = mass + addedMass;
+    // public void grow(int addedMass) {
+    //     this.mass = mass + addedMass;
 
-        if (mass < 20 && 20 - mass > 0) {
-            this.speed = (20 - mass) + speed ;
-        } else if (mass >= 20) {
-            this.speed = ((20 - mass) * -0.5) ;
+    //     if (mass < 20 && 20 - mass > 0) {
+    //         this.speed = (20 - mass) + speed ;
+    //     } else if (mass >= 20) {
+    //         this.speed = ((20 - mass) * -0.5) ;
+    //     }
+
+    // }
+
+    public void grow(int addedMass) {
+        if (mass>= 20) {
+            speed -= 0.5 * addedMass ;
+        } else if (mass + addedMass < 20) {
+            speed+= addedMass;
+        } else {
+            int before = 20 - (int) mass;
+            int after = (int) mass + addedMass - 20;
+            speed += before - 0.5 * after ;
         }
+        mass += addedMass ;
 
     }
+
     public boolean isDead() {
         if (mass == 0) {
             return true ;
