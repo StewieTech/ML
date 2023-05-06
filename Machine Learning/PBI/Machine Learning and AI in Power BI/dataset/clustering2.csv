@@ -1,0 +1,3421 @@
+﻿Cluster,Attribute,Country,GDP,Índice
+Cluster 0,2000,Algeria,0.0349,864
+Cluster 0,2000,Angola,0.0191,18
+Cluster 0,2000,Antigua and Barbuda,0.0448,108
+Cluster 0,2000,Azerbaijan,0.0389,162
+Cluster 0,2000,"Bahamas, The",0.0403,306
+Cluster 0,2000,Bahrain,0.0356,288
+Cluster 0,2000,Bangladesh,0.02,252
+Cluster 0,2000,Belarus,0.0547,342
+Cluster 0,2000,Belize,0.0414,360
+Cluster 0,2000,Benin,0.0423,216
+Cluster 0,2000,Bhutan,0.0431,450
+Cluster 0,2000,Bolivia,0.044000000000000004,378
+Cluster 0,2000,Botswana,0.0583,468
+Cluster 0,2000,Brunei Darussalam,0.0254,432
+Cluster 0,2000,Burkina Faso,0.0332,234
+Cluster 0,2000,Cabo Verde,0.0443,684
+Cluster 0,2000,Cameroon,0.0398,594
+Cluster 0,2000,Central African Republic,0.0443,486
+Cluster 0,2000,Chad,0.0546,2970
+Cluster 0,2000,China,0.0447,558
+Cluster 0,2000,"Congo, Dem. Rep.",0.0157,612
+Cluster 0,2000,"Congo, Rep.",0.0169,630
+Cluster 0,2000,Cote d'Ivoire,0.055999999999999994,576
+Cluster 0,2000,Djibouti,0.0413,792
+Cluster 0,2000,Dominica,0.0524,810
+Cluster 0,2000,Dominican Republic,0.0488,846
+Cluster 0,2000,Ecuador,0.0332,882
+Cluster 0,2000,"Egypt, Arab Rep.",0.0492,900
+Cluster 0,2000,Equatorial Guinea,0.0232,1188
+Cluster 0,2000,Eritrea,0.0446,918
+Cluster 0,2000,Estonia,0.0516,954
+Cluster 0,2000,Ethiopia,0.0437,972
+Cluster 0,2000,Fiji,0.0372,1008
+Cluster 0,2000,Gabon,0.0291,1062
+Cluster 0,2000,"Gambia, The",0.0269,1152
+Cluster 0,2000,Ghana,0.0284,1116
+Cluster 0,2000,Grenada,0.0532,1224
+Cluster 0,2000,Guinea,0.0347,1134
+Cluster 0,2000,Guyana,0.0389,1260
+Cluster 0,2000,India,0.0403,1368
+Cluster 0,2000,Indonesia,0.0191,1350
+Cluster 0,2000,"Iran, Islamic Rep.",0.0474,1404
+Cluster 0,2000,Iraq,0.032,1422
+Cluster 0,2000,Jamaica,0.0577,1494
+Cluster 0,2000,Kazakhstan,0.0416,1548
+Cluster 0,2000,Kenya,0.0464,1566
+Cluster 0,2000,"Korea, Rep.",0.04,1656
+Cluster 0,2000,Kuwait,0.0251,1674
+Cluster 0,2000,Lao PDR,0.0428,1692
+Cluster 0,2000,Late-demographic dividend,0.0535,1800
+Cluster 0,2000,Latvia,0.0545,1854
+Cluster 0,2000,Madagascar,0.0523,1926
+Cluster 0,2000,Malaysia,0.0256,2160
+Cluster 0,2000,Mali,0.0556,2016
+Cluster 0,2000,Mauritania,0.0465,2106
+Cluster 0,2000,Mauritius,0.028999999999999998,2124
+Cluster 0,2000,Mexico,0.0445,1962
+Cluster 0,2000,Monaco,0.0173,1890
+Cluster 0,2000,Mongolia,0.0487,2070
+Cluster 0,2000,Morocco,0.0398,1872
+Cluster 0,2000,Mozambique,0.0393,2088
+Cluster 0,2000,Myanmar,0.0184,2052
+Cluster 0,2000,Nepal,0.0357,2286
+Cluster 0,2000,Nigeria,0.032,2214
+Cluster 0,2000,Oman,0.0306,2340
+Cluster 0,2000,Pacific island small states,0.051,2538
+Cluster 0,2000,Pakistan,0.0289,2358
+Cluster 0,2000,Papua New Guinea,0.0198,2448
+Cluster 0,2000,Paraguay,0.055,2520
+Cluster 0,2000,Peru,0.0455,2394
+Cluster 0,2000,Philippines,0.0315,2412
+Cluster 0,2000,Pre-demographic dividend,0.037000000000000005,2484
+Cluster 0,2000,Qatar,0.0201,2574
+Cluster 0,2000,Romania,0.0421,2592
+Cluster 0,2000,Russian Federation,0.0502,2610
+Cluster 0,2000,Samoa,0.044000000000000004,3348
+Cluster 0,2000,San Marino,0.0528,2790
+Cluster 0,2000,Saudi Arabia,0.0421,2664
+Cluster 0,2000,Senegal,0.0357,2700
+Cluster 0,2000,Seychelles,0.0461,2952
+Cluster 0,2000,Singapore,0.0335,2718
+Cluster 0,2000,South Asia,0.0373,2646
+Cluster 0,2000,Sri Lanka,0.0425,1764
+Cluster 0,2000,St. Kitts and Nevis,0.0467,1638
+Cluster 0,2000,St. Lucia,0.0543,1746
+Cluster 0,2000,St. Vincent and the Grenadines,0.043,3276
+Cluster 0,2000,Sub-Saharan Africa,0.0511,2826
+Cluster 0,2000,Sudan,0.0361,2682
+Cluster 0,2000,Suriname,0.0628,2862
+Cluster 0,2000,Tajikistan,0.0426,3024
+Cluster 0,2000,Tanzania,0.034,3168
+Cluster 0,2000,Thailand,0.031,3006
+Cluster 0,2000,Timor-Leste,0.0217,3060
+Cluster 0,2000,Togo,0.0331,2988
+Cluster 0,2000,Tonga,0.0293,3078
+Cluster 0,2000,Trinidad and Tobago,0.0423,3096
+Cluster 0,2000,Tunisia,0.0505,3114
+Cluster 0,2000,Turkey,0.0462,3132
+Cluster 0,2000,United Arab Emirates,0.0237,54
+Cluster 0,2000,Uzbekistan,0.0536,3258
+Cluster 0,2000,Vanuatu,0.0331,3330
+Cluster 0,2000,Vietnam,0.0485,3312
+Cluster 0,2000,"Yemen, Rep.",0.0467,3366
+Cluster 0,2000,Zambia,0.0715,3402
+Cluster 0,2001,Algeria,0.0384,865
+Cluster 0,2001,Angola,0.0448,19
+Cluster 0,2001,Antigua and Barbuda,0.0528,109
+Cluster 0,2001,Azerbaijan,0.0367,163
+Cluster 0,2001,"Bahamas, The",0.0401,307
+Cluster 0,2001,Bahrain,0.0368,289
+Cluster 0,2001,Bangladesh,0.0199,253
+Cluster 0,2001,Belarus,0.059000000000000004,343
+Cluster 0,2001,Belize,0.047,361
+Cluster 0,2001,Benin,0.0443,217
+Cluster 0,2001,Bhutan,0.0485,451
+Cluster 0,2001,Bolivia,0.0483,379
+Cluster 0,2001,Botswana,0.0616,469
+Cluster 0,2001,Brunei Darussalam,0.0254,433
+Cluster 0,2001,Burkina Faso,0.0325,235
+Cluster 0,2001,Cabo Verde,0.0475,685
+Cluster 0,2001,Cameroon,0.0418,595
+Cluster 0,2001,Central African Republic,0.0391,487
+Cluster 0,2001,Chad,0.0529,2971
+Cluster 0,2001,China,0.0422,559
+Cluster 0,2001,"Congo, Dem. Rep.",0.0273,613
+Cluster 0,2001,"Congo, Rep.",0.0238,631
+Cluster 0,2001,Cote d'Ivoire,0.0479,577
+Cluster 0,2001,Djibouti,0.0394,793
+Cluster 0,2001,Dominica,0.0534,811
+Cluster 0,2001,Dominican Republic,0.0488,847
+Cluster 0,2001,Ecuador,0.0374,883
+Cluster 0,2001,"Egypt, Arab Rep.",0.054000000000000006,901
+Cluster 0,2001,Equatorial Guinea,0.023,1189
+Cluster 0,2001,Eritrea,0.0458,919
+Cluster 0,2001,Estonia,0.0479,955
+Cluster 0,2001,Ethiopia,0.0472,973
+Cluster 0,2001,Fiji,0.0316,1009
+Cluster 0,2001,Gabon,0.0315,1063
+Cluster 0,2001,"Gambia, The",0.0245,1153
+Cluster 0,2001,Ghana,0.0322,1117
+Cluster 0,2001,Grenada,0.0558,1225
+Cluster 0,2001,Guinea,0.0362,1135
+Cluster 0,2001,Guyana,0.0402,1261
+Cluster 0,2001,India,0.0426,1369
+Cluster 0,2001,Indonesia,0.0217,1351
+Cluster 0,2001,"Iran, Islamic Rep.",0.0511,1405
+Cluster 0,2001,Iraq,0.0336,1423
+Cluster 0,2001,Jamaica,0.0527,1495
+Cluster 0,2001,Kazakhstan,0.0347,1549
+Cluster 0,2001,Kenya,0.048,1567
+Cluster 0,2001,"Korea, Rep.",0.0458,1657
+Cluster 0,2001,Kuwait,0.0361,1675
+Cluster 0,2001,Lao PDR,0.0429,1693
+Cluster 0,2001,Late-demographic dividend,0.0527,1801
+Cluster 0,2001,Latvia,0.0578,1855
+Cluster 0,2001,Madagascar,0.0558,1927
+Cluster 0,2001,Malaysia,0.0273,2161
+Cluster 0,2001,Mali,0.0517,2017
+Cluster 0,2001,Mauritania,0.0482,2107
+Cluster 0,2001,Mauritius,0.0296,2125
+Cluster 0,2001,Mexico,0.0482,1963
+Cluster 0,2001,Monaco,0.0176,1891
+Cluster 0,2001,Mongolia,0.0432,2071
+Cluster 0,2001,Morocco,0.0413,1873
+Cluster 0,2001,Mozambique,0.0507,2089
+Cluster 0,2001,Myanmar,0.0184,2053
+Cluster 0,2001,Nepal,0.0435,2287
+Cluster 0,2001,Nigeria,0.0319,2215
+Cluster 0,2001,Oman,0.0308,2341
+Cluster 0,2001,Pacific island small states,0.0506,2539
+Cluster 0,2001,Pakistan,0.0271,2359
+Cluster 0,2001,Papua New Guinea,0.0226,2449
+Cluster 0,2001,Paraguay,0.0504,2521
+Cluster 0,2001,Peru,0.0496,2395
+Cluster 0,2001,Philippines,0.0295,2413
+Cluster 0,2001,Pre-demographic dividend,0.0406,2485
+Cluster 0,2001,Qatar,0.0231,2575
+Cluster 0,2001,Romania,0.0438,2593
+Cluster 0,2001,Russian Federation,0.0525,2611
+Cluster 0,2001,Samoa,0.0393,3349
+Cluster 0,2001,San Marino,0.0512,2791
+Cluster 0,2001,Saudi Arabia,0.0446,2665
+Cluster 0,2001,Senegal,0.0387,2701
+Cluster 0,2001,Seychelles,0.0539,2953
+Cluster 0,2001,Singapore,0.0318,2719
+Cluster 0,2001,South Asia,0.039,2647
+Cluster 0,2001,Sri Lanka,0.0419,1765
+Cluster 0,2001,St. Kitts and Nevis,0.0424,1639
+Cluster 0,2001,St. Lucia,0.0572,1747
+Cluster 0,2001,St. Vincent and the Grenadines,0.043,3277
+Cluster 0,2001,Sub-Saharan Africa,0.0526,2827
+Cluster 0,2001,Sudan,0.0336,2683
+Cluster 0,2001,Suriname,0.040999999999999995,2863
+Cluster 0,2001,Tajikistan,0.0458,3025
+Cluster 0,2001,Tanzania,0.0419,3169
+Cluster 0,2001,Thailand,0.0303,3007
+Cluster 0,2001,Timor-Leste,0.0206,3061
+Cluster 0,2001,Togo,0.0342,2989
+Cluster 0,2001,Tonga,0.0334,3079
+Cluster 0,2001,Trinidad and Tobago,0.0403,3097
+Cluster 0,2001,Tunisia,0.051,3115
+Cluster 0,2001,Turkey,0.0492,3133
+Cluster 0,2001,United Arab Emirates,0.0248,55
+Cluster 0,2001,Uzbekistan,0.0546,3259
+Cluster 0,2001,Vanuatu,0.0339,3331
+Cluster 0,2001,Vietnam,0.0573,3313
+Cluster 0,2001,"Yemen, Rep.",0.0495,3367
+Cluster 0,2001,Zambia,0.0655,3403
+Cluster 0,2002,Algeria,0.0373,866
+Cluster 0,2002,Angola,0.0333,20
+Cluster 0,2002,Antigua and Barbuda,0.0543,110
+Cluster 0,2002,Azerbaijan,0.0368,164
+Cluster 0,2002,"Bahamas, The",0.0415,308
+Cluster 0,2002,Bahrain,0.0385,290
+Cluster 0,2002,Bangladesh,0.0215,254
+Cluster 0,2002,Belarus,0.0581,344
+Cluster 0,2002,Belize,0.045,362
+Cluster 0,2002,Benin,0.0415,218
+Cluster 0,2002,Bhutan,0.0445,452
+Cluster 0,2002,Bolivia,0.049,380
+Cluster 0,2002,Botswana,0.0642,470
+Cluster 0,2002,Brunei Darussalam,0.0253,434
+Cluster 0,2002,Burkina Faso,0.0334,236
+Cluster 0,2002,Cabo Verde,0.0476,686
+Cluster 0,2002,Cameroon,0.0435,596
+Cluster 0,2002,Central African Republic,0.0427,488
+Cluster 0,2002,Chad,0.0727,2972
+Cluster 0,2002,China,0.0435,560
+Cluster 0,2002,"Congo, Dem. Rep.",0.0268,614
+Cluster 0,2002,"Congo, Rep.",0.0188,632
+Cluster 0,2002,Cote d'Ivoire,0.044000000000000004,578
+Cluster 0,2002,Djibouti,0.0504,794
+Cluster 0,2002,Dominica,0.0544,812
+Cluster 0,2002,Dominican Republic,0.0499,848
+Cluster 0,2002,Ecuador,0.0446,884
+Cluster 0,2002,"Egypt, Arab Rep.",0.0551,902
+Cluster 0,2002,Equatorial Guinea,0.0242,1190
+Cluster 0,2002,Eritrea,0.0518,920
+Cluster 0,2002,Estonia,0.0473,956
+Cluster 0,2002,Ethiopia,0.0471,974
+Cluster 0,2002,Fiji,0.0325,1010
+Cluster 0,2002,Gabon,0.0333,1064
+Cluster 0,2002,"Gambia, The",0.0235,1154
+Cluster 0,2002,Ghana,0.0283,1118
+Cluster 0,2002,Grenada,0.0597,1226
+Cluster 0,2002,Guinea,0.0405,1136
+Cluster 0,2002,Guyana,0.0419,1262
+Cluster 0,2002,India,0.0424,1370
+Cluster 0,2002,Indonesia,0.0203,1352
+Cluster 0,2002,"Iran, Islamic Rep.",0.0476,1406
+Cluster 0,2002,Iraq,0.0324,1424
+Cluster 0,2002,Jamaica,0.0485,1496
+Cluster 0,2002,Kazakhstan,0.0361,1550
+Cluster 0,2002,Kenya,0.0496,1568
+Cluster 0,2002,"Korea, Rep.",0.0432,1658
+Cluster 0,2002,Kuwait,0.0357,1676
+Cluster 0,2002,Lao PDR,0.037000000000000005,1694
+Cluster 0,2002,Late-demographic dividend,0.0531,1802
+Cluster 0,2002,Latvia,0.0577,1856
+Cluster 0,2002,Madagascar,0.0577,1928
+Cluster 0,2002,Malaysia,0.0272,2162
+Cluster 0,2002,Mali,0.05,2018
+Cluster 0,2002,Mauritania,0.0537,2108
+Cluster 0,2002,Mauritius,0.0323,2126
+Cluster 0,2002,Mexico,0.0507,1964
+Cluster 0,2002,Monaco,0.0179,1892
+Cluster 0,2002,Mongolia,0.0443,2072
+Cluster 0,2002,Morocco,0.0443,1874
+Cluster 0,2002,Mozambique,0.0507,2090
+Cluster 0,2002,Myanmar,0.0209,2054
+Cluster 0,2002,Nepal,0.0449,2288
+Cluster 0,2002,Nigeria,0.0249,2216
+Cluster 0,2002,Oman,0.0318,2342
+Cluster 0,2002,Pacific island small states,0.0535,2540
+Cluster 0,2002,Pakistan,0.0283,2360
+Cluster 0,2002,Papua New Guinea,0.0266,2450
+Cluster 0,2002,Paraguay,0.0419,2522
+Cluster 0,2002,Peru,0.0517,2396
+Cluster 0,2002,Philippines,0.0273,2414
+Cluster 0,2002,Pre-demographic dividend,0.0381,2486
+Cluster 0,2002,Qatar,0.0246,2576
+Cluster 0,2002,Romania,0.0458,2594
+Cluster 0,2002,Russian Federation,0.0553,2612
+Cluster 0,2002,Samoa,0.0464,3350
+Cluster 0,2002,San Marino,0.0497,2792
+Cluster 0,2002,Saudi Arabia,0.0425,2666
+Cluster 0,2002,Senegal,0.0408,2702
+Cluster 0,2002,Seychelles,0.0456,2954
+Cluster 0,2002,Singapore,0.0338,2720
+Cluster 0,2002,South Asia,0.0396,2648
+Cluster 0,2002,Sri Lanka,0.0417,1766
+Cluster 0,2002,St. Kitts and Nevis,0.0431,1640
+Cluster 0,2002,St. Lucia,0.0602,1748
+Cluster 0,2002,St. Vincent and the Grenadines,0.0431,3278
+Cluster 0,2002,Sub-Saharan Africa,0.0473,2828
+Cluster 0,2002,Sudan,0.033,2684
+Cluster 0,2002,Suriname,0.0571,2864
+Cluster 0,2002,Tajikistan,0.0444,3026
+Cluster 0,2002,Tanzania,0.0466,3170
+Cluster 0,2002,Thailand,0.0333,3008
+Cluster 0,2002,Timor-Leste,0.0188,3062
+Cluster 0,2002,Togo,0.0345,2990
+Cluster 0,2002,Tonga,0.0353,3080
+Cluster 0,2002,Trinidad and Tobago,0.0472,3098
+Cluster 0,2002,Tunisia,0.0537,3116
+Cluster 0,2002,Turkey,0.051,3134
+Cluster 0,2002,United Arab Emirates,0.0272,56
+Cluster 0,2002,Uzbekistan,0.0534,3260
+Cluster 0,2002,Vanuatu,0.039,3332
+Cluster 0,2002,Vietnam,0.0457,3314
+Cluster 0,2002,"Yemen, Rep.",0.0483,3368
+Cluster 0,2002,Zambia,0.0679,3404
+Cluster 0,2003,Algeria,0.036000000000000004,867
+Cluster 0,2003,Angola,0.0355,21
+Cluster 0,2003,Antigua and Barbuda,0.0581,111
+Cluster 0,2003,Azerbaijan,0.0595,165
+Cluster 0,2003,"Bahamas, The",0.0436,309
+Cluster 0,2003,Bahrain,0.0399,291
+Cluster 0,2003,Bangladesh,0.0219,255
+Cluster 0,2003,Belarus,0.0597,345
+Cluster 0,2003,Belize,0.0476,363
+Cluster 0,2003,Benin,0.0415,219
+Cluster 0,2003,Bhutan,0.0401,453
+Cluster 0,2003,Bolivia,0.052000000000000005,381
+Cluster 0,2003,Botswana,0.0618,471
+Cluster 0,2003,Brunei Darussalam,0.026000000000000002,435
+Cluster 0,2003,Burkina Faso,0.0354,237
+Cluster 0,2003,Cabo Verde,0.045,687
+Cluster 0,2003,Cameroon,0.0441,597
+Cluster 0,2003,Central African Republic,0.0461,489
+Cluster 0,2003,Chad,0.0551,2973
+Cluster 0,2003,China,0.0438,561
+Cluster 0,2003,"Congo, Dem. Rep.",0.0384,615
+Cluster 0,2003,"Congo, Rep.",0.0212,633
+Cluster 0,2003,Cote d'Ivoire,0.0454,579
+Cluster 0,2003,Djibouti,0.0558,795
+Cluster 0,2003,Dominica,0.0534,813
+Cluster 0,2003,Dominican Republic,0.0439,849
+Cluster 0,2003,Ecuador,0.0542,885
+Cluster 0,2003,"Egypt, Arab Rep.",0.0522,903
+Cluster 0,2003,Equatorial Guinea,0.0198,1191
+Cluster 0,2003,Eritrea,0.0568,921
+Cluster 0,2003,Estonia,0.0488,957
+Cluster 0,2003,Ethiopia,0.049,975
+Cluster 0,2003,Fiji,0.0324,1011
+Cluster 0,2003,Gabon,0.0354,1065
+Cluster 0,2003,"Gambia, The",0.0234,1155
+Cluster 0,2003,Ghana,0.0285,1119
+Cluster 0,2003,Grenada,0.0542,1227
+Cluster 0,2003,Guinea,0.0355,1137
+Cluster 0,2003,Guyana,0.0428,1263
+Cluster 0,2003,India,0.0401,1371
+Cluster 0,2003,Indonesia,0.023,1353
+Cluster 0,2003,"Iran, Islamic Rep.",0.0513,1407
+Cluster 0,2003,Iraq,0.0299,1425
+Cluster 0,2003,Jamaica,0.0455,1497
+Cluster 0,2003,Kazakhstan,0.0372,1551
+Cluster 0,2003,Kenya,0.0517,1569
+Cluster 0,2003,"Korea, Rep.",0.046,1659
+Cluster 0,2003,Kuwait,0.0323,1677
+Cluster 0,2003,Lao PDR,0.0448,1695
+Cluster 0,2003,Late-demographic dividend,0.0523,1803
+Cluster 0,2003,Latvia,0.0549,1857
+Cluster 0,2003,Madagascar,0.0551,1929
+Cluster 0,2003,Malaysia,0.0298,2163
+Cluster 0,2003,Mali,0.0519,2019
+Cluster 0,2003,Mauritania,0.0529,2109
+Cluster 0,2003,Mauritius,0.0322,2127
+Cluster 0,2003,Mexico,0.0581,1965
+Cluster 0,2003,Monaco,0.0208,1893
+Cluster 0,2003,Mongolia,0.0351,2073
+Cluster 0,2003,Morocco,0.0455,1875
+Cluster 0,2003,Mozambique,0.053,2091
+Cluster 0,2003,Myanmar,0.0205,2055
+Cluster 0,2003,Nepal,0.044000000000000004,2289
+Cluster 0,2003,Nigeria,0.0505,2217
+Cluster 0,2003,Oman,0.0317,2343
+Cluster 0,2003,Pacific island small states,0.0491,2541
+Cluster 0,2003,Pakistan,0.0243,2361
+Cluster 0,2003,Papua New Guinea,0.0241,2451
+Cluster 0,2003,Paraguay,0.043,2523
+Cluster 0,2003,Peru,0.0511,2397
+Cluster 0,2003,Philippines,0.0319,2415
+Cluster 0,2003,Pre-demographic dividend,0.0491,2487
+Cluster 0,2003,Qatar,0.0353,2577
+Cluster 0,2003,Romania,0.0537,2595
+Cluster 0,2003,Russian Federation,0.0517,2613
+Cluster 0,2003,Samoa,0.0429,3351
+Cluster 0,2003,San Marino,0.0438,2793
+Cluster 0,2003,Saudi Arabia,0.0398,2667
+Cluster 0,2003,Senegal,0.0433,2703
+Cluster 0,2003,Seychelles,0.0536,2955
+Cluster 0,2003,Singapore,0.0363,2721
+Cluster 0,2003,South Asia,0.0373,2649
+Cluster 0,2003,Sri Lanka,0.0377,1767
+Cluster 0,2003,St. Kitts and Nevis,0.0459,1641
+Cluster 0,2003,St. Lucia,0.0585,1749
+Cluster 0,2003,St. Vincent and the Grenadines,0.0418,3279
+Cluster 0,2003,Sub-Saharan Africa,0.0559,2829
+Cluster 0,2003,Sudan,0.0389,2685
+Cluster 0,2003,Suriname,0.0523,2865
+Cluster 0,2003,Tajikistan,0.047,3027
+Cluster 0,2003,Tanzania,0.0533,3171
+Cluster 0,2003,Thailand,0.0324,3009
+Cluster 0,2003,Timor-Leste,0.0256,3063
+Cluster 0,2003,Togo,0.035,2991
+Cluster 0,2003,Tonga,0.0348,3081
+Cluster 0,2003,Trinidad and Tobago,0.0419,3099
+Cluster 0,2003,Tunisia,0.0546,3117
+Cluster 0,2003,Turkey,0.0506,3135
+Cluster 0,2003,United Arab Emirates,0.0265,57
+Cluster 0,2003,Uzbekistan,0.0544,3261
+Cluster 0,2003,Vanuatu,0.0351,3333
+Cluster 0,2003,Vietnam,0.0466,3315
+Cluster 0,2003,"Yemen, Rep.",0.0576,3369
+Cluster 0,2003,Zambia,0.0719,3405
+Cluster 0,2004,Algeria,0.0354,868
+Cluster 0,2004,Angola,0.0397,22
+Cluster 0,2004,Antigua and Barbuda,0.0526,112
+Cluster 0,2004,Azerbaijan,0.0719,166
+Cluster 0,2004,"Bahamas, The",0.0466,310
+Cluster 0,2004,Bahrain,0.0347,292
+Cluster 0,2004,Bangladesh,0.0221,256
+Cluster 0,2004,Belarus,0.0593,346
+Cluster 0,2004,Belize,0.0456,364
+Cluster 0,2004,Benin,0.042,220
+Cluster 0,2004,Bhutan,0.0447,454
+Cluster 0,2004,Bolivia,0.0486,382
+Cluster 0,2004,Botswana,0.057999999999999996,472
+Cluster 0,2004,Brunei Darussalam,0.0255,436
+Cluster 0,2004,Burkina Faso,0.0474,238
+Cluster 0,2004,Cabo Verde,0.0438,688
+Cluster 0,2004,Cameroon,0.0405,598
+Cluster 0,2004,Central African Republic,0.042,490
+Cluster 0,2004,Chad,0.055,2974
+Cluster 0,2004,China,0.0426,562
+Cluster 0,2004,"Congo, Dem. Rep.",0.0444,616
+Cluster 0,2004,"Congo, Rep.",0.0211,634
+Cluster 0,2004,Cote d'Ivoire,0.0515,580
+Cluster 0,2004,Djibouti,0.0467,796
+Cluster 0,2004,Dominica,0.0513,814
+Cluster 0,2004,Dominican Republic,0.0429,850
+Cluster 0,2004,Ecuador,0.0555,886
+Cluster 0,2004,"Egypt, Arab Rep.",0.0486,904
+Cluster 0,2004,Equatorial Guinea,0.0175,1192
+Cluster 0,2004,Eritrea,0.0543,922
+Cluster 0,2004,Estonia,0.0516,958
+Cluster 0,2004,Ethiopia,0.0431,976
+Cluster 0,2004,Fiji,0.0355,1012
+Cluster 0,2004,Gabon,0.0333,1066
+Cluster 0,2004,"Gambia, The",0.0252,1156
+Cluster 0,2004,Ghana,0.0294,1120
+Cluster 0,2004,Grenada,0.0531,1228
+Cluster 0,2004,Guinea,0.0329,1138
+Cluster 0,2004,Guyana,0.0486,1264
+Cluster 0,2004,India,0.0396,1372
+Cluster 0,2004,Indonesia,0.0217,1354
+Cluster 0,2004,"Iran, Islamic Rep.",0.0519,1408
+Cluster 0,2004,Iraq,0.0384,1426
+Cluster 0,2004,Jamaica,0.0526,1498
+Cluster 0,2004,Kazakhstan,0.0398,1552
+Cluster 0,2004,Kenya,0.0534,1570
+Cluster 0,2004,"Korea, Rep.",0.0458,1660
+Cluster 0,2004,Kuwait,0.0276,1678
+Cluster 0,2004,Lao PDR,0.0354,1696
+Cluster 0,2004,Late-demographic dividend,0.0513,1804
+Cluster 0,2004,Latvia,0.0623,1858
+Cluster 0,2004,Madagascar,0.0613,1930
+Cluster 0,2004,Malaysia,0.0292,2164
+Cluster 0,2004,Mali,0.0531,2020
+Cluster 0,2004,Mauritania,0.0478,2110
+Cluster 0,2004,Mauritius,0.0336,2128
+Cluster 0,2004,Mexico,0.0595,1966
+Cluster 0,2004,Monaco,0.0213,1894
+Cluster 0,2004,Mongolia,0.0357,2074
+Cluster 0,2004,Morocco,0.0473,1876
+Cluster 0,2004,Mozambique,0.0504,2092
+Cluster 0,2004,Myanmar,0.0213,2056
+Cluster 0,2004,Nepal,0.0462,2290
+Cluster 0,2004,Nigeria,0.0463,2218
+Cluster 0,2004,Oman,0.0298,2344
+Cluster 0,2004,Pacific island small states,0.0535,2542
+Cluster 0,2004,Pakistan,0.0235,2362
+Cluster 0,2004,Papua New Guinea,0.0259,2452
+Cluster 0,2004,Paraguay,0.0423,2524
+Cluster 0,2004,Peru,0.0479,2398
+Cluster 0,2004,Philippines,0.0317,2416
+Cluster 0,2004,Pre-demographic dividend,0.0481,2488
+Cluster 0,2004,Qatar,0.0307,2578
+Cluster 0,2004,Romania,0.0548,2596
+Cluster 0,2004,Russian Federation,0.0476,2614
+Cluster 0,2004,Samoa,0.0465,3352
+Cluster 0,2004,San Marino,0.0491,2794
+Cluster 0,2004,Saudi Arabia,0.0358,2668
+Cluster 0,2004,Senegal,0.0452,2704
+Cluster 0,2004,Seychelles,0.052000000000000005,2956
+Cluster 0,2004,Singapore,0.0317,2722
+Cluster 0,2004,South Asia,0.0371,2650
+Cluster 0,2004,Sri Lanka,0.0418,1768
+Cluster 0,2004,St. Kitts and Nevis,0.043,1642
+Cluster 0,2004,St. Lucia,0.0532,1750
+Cluster 0,2004,St. Vincent and the Grenadines,0.0407,3280
+Cluster 0,2004,Sub-Saharan Africa,0.0558,2830
+Cluster 0,2004,Sudan,0.0416,2686
+Cluster 0,2004,Suriname,0.0585,2866
+Cluster 0,2004,Tajikistan,0.048,3028
+Cluster 0,2004,Tanzania,0.0575,3172
+Cluster 0,2004,Thailand,0.0314,3010
+Cluster 0,2004,Timor-Leste,0.0174,3064
+Cluster 0,2004,Togo,0.0369,2992
+Cluster 0,2004,Tonga,0.0447,3082
+Cluster 0,2004,Trinidad and Tobago,0.0431,3100
+Cluster 0,2004,Tunisia,0.0545,3118
+Cluster 0,2004,Turkey,0.0496,3136
+Cluster 0,2004,United Arab Emirates,0.0246,58
+Cluster 0,2004,Uzbekistan,0.0507,3262
+Cluster 0,2004,Vanuatu,0.0354,3334
+Cluster 0,2004,Vietnam,0.0482,3316
+Cluster 0,2004,"Yemen, Rep.",0.0551,3370
+Cluster 0,2004,Zambia,0.0705,3406
+Cluster 0,2005,Algeria,0.0324,869
+Cluster 0,2005,Angola,0.0285,23
+Cluster 0,2005,Antigua and Barbuda,0.0497,113
+Cluster 0,2005,Azerbaijan,0.0744,167
+Cluster 0,2005,"Bahamas, The",0.0465,311
+Cluster 0,2005,Bahrain,0.0318,293
+Cluster 0,2005,Bangladesh,0.0228,257
+Cluster 0,2005,Belarus,0.0628,347
+Cluster 0,2005,Belize,0.0469,365
+Cluster 0,2005,Benin,0.0401,221
+Cluster 0,2005,Bhutan,0.0402,455
+Cluster 0,2005,Bolivia,0.0507,383
+Cluster 0,2005,Botswana,0.0503,473
+Cluster 0,2005,Brunei Darussalam,0.0223,437
+Cluster 0,2005,Burkina Faso,0.0444,239
+Cluster 0,2005,Cabo Verde,0.0427,689
+Cluster 0,2005,Cameroon,0.0414,599
+Cluster 0,2005,Central African Republic,0.0476,491
+Cluster 0,2005,Chad,0.0484,2975
+Cluster 0,2005,China,0.0414,563
+Cluster 0,2005,"Congo, Dem. Rep.",0.0427,617
+Cluster 0,2005,"Congo, Rep.",0.0188,635
+Cluster 0,2005,Cote d'Ivoire,0.0529,581
+Cluster 0,2005,Djibouti,0.0453,797
+Cluster 0,2005,Dominica,0.0523,815
+Cluster 0,2005,Dominican Republic,0.0435,851
+Cluster 0,2005,Ecuador,0.0558,887
+Cluster 0,2005,"Egypt, Arab Rep.",0.0492,905
+Cluster 0,2005,Equatorial Guinea,0.0151,1193
+Cluster 0,2005,Eritrea,0.0531,923
+Cluster 0,2005,Estonia,0.0509,959
+Cluster 0,2005,Ethiopia,0.040999999999999995,977
+Cluster 0,2005,Fiji,0.0356,1013
+Cluster 0,2005,Gabon,0.0293,1067
+Cluster 0,2005,"Gambia, The",0.0284,1157
+Cluster 0,2005,Ghana,0.0383,1121
+Cluster 0,2005,Grenada,0.0545,1229
+Cluster 0,2005,Guinea,0.0309,1139
+Cluster 0,2005,Guyana,0.0519,1265
+Cluster 0,2005,India,0.0379,1373
+Cluster 0,2005,Indonesia,0.0258,1355
+Cluster 0,2005,"Iran, Islamic Rep.",0.0531,1409
+Cluster 0,2005,Iraq,0.028999999999999998,1427
+Cluster 0,2005,Jamaica,0.0444,1499
+Cluster 0,2005,Kazakhstan,0.039,1553
+Cluster 0,2005,Kenya,0.0531,1571
+Cluster 0,2005,"Korea, Rep.",0.0484,1661
+Cluster 0,2005,Kuwait,0.0238,1679
+Cluster 0,2005,Lao PDR,0.0334,1697
+Cluster 0,2005,Late-demographic dividend,0.051,1805
+Cluster 0,2005,Latvia,0.0586,1859
+Cluster 0,2005,Madagascar,0.0601,1931
+Cluster 0,2005,Malaysia,0.0284,2165
+Cluster 0,2005,Mali,0.0505,2021
+Cluster 0,2005,Mauritania,0.0458,2111
+Cluster 0,2005,Mauritius,0.0357,2129
+Cluster 0,2005,Mexico,0.0584,1967
+Cluster 0,2005,Monaco,0.0212,1895
+Cluster 0,2005,Mongolia,0.0376,2075
+Cluster 0,2005,Morocco,0.0476,1877
+Cluster 0,2005,Mozambique,0.0644,2093
+Cluster 0,2005,Myanmar,0.0201,2057
+Cluster 0,2005,Nepal,0.0451,2291
+Cluster 0,2005,Nigeria,0.0447,2219
+Cluster 0,2005,Oman,0.0259,2345
+Cluster 0,2005,Pacific island small states,0.0576,2543
+Cluster 0,2005,Pakistan,0.0271,2363
+Cluster 0,2005,Papua New Guinea,0.0246,2453
+Cluster 0,2005,Paraguay,0.0408,2525
+Cluster 0,2005,Peru,0.0454,2399
+Cluster 0,2005,Philippines,0.039,2417
+Cluster 0,2005,Pre-demographic dividend,0.0454,2489
+Cluster 0,2005,Qatar,0.0257,2579
+Cluster 0,2005,Romania,0.0553,2597
+Cluster 0,2005,Russian Federation,0.0477,2615
+Cluster 0,2005,Samoa,0.0476,3353
+Cluster 0,2005,San Marino,0.0493,2795
+Cluster 0,2005,Saudi Arabia,0.0342,2669
+Cluster 0,2005,Senegal,0.0367,2705
+Cluster 0,2005,Seychelles,0.0498,2957
+Cluster 0,2005,Singapore,0.0304,2723
+Cluster 0,2005,South Asia,0.0363,2651
+Cluster 0,2005,Sri Lanka,0.0401,1769
+Cluster 0,2005,St. Kitts and Nevis,0.0448,1643
+Cluster 0,2005,St. Lucia,0.0543,1751
+Cluster 0,2005,St. Vincent and the Grenadines,0.0404,3281
+Cluster 0,2005,Sub-Saharan Africa,0.054000000000000006,2831
+Cluster 0,2005,Sudan,0.0409,2687
+Cluster 0,2005,Suriname,0.0561,2867
+Cluster 0,2005,Tajikistan,0.0521,3029
+Cluster 0,2005,Tanzania,0.0641,3173
+Cluster 0,2005,Thailand,0.0316,3011
+Cluster 0,2005,Timor-Leste,0.0134,3065
+Cluster 0,2005,Togo,0.0397,2993
+Cluster 0,2005,Tonga,0.0416,3083
+Cluster 0,2005,Trinidad and Tobago,0.0443,3101
+Cluster 0,2005,Tunisia,0.054000000000000006,3119
+Cluster 0,2005,Turkey,0.0494,3137
+Cluster 0,2005,United Arab Emirates,0.0232,59
+Cluster 0,2005,Uzbekistan,0.0504,3263
+Cluster 0,2005,Vanuatu,0.0331,3335
+Cluster 0,2005,Vietnam,0.051,3317
+Cluster 0,2005,"Yemen, Rep.",0.0521,3371
+Cluster 0,2005,Zambia,0.0686,3407
+Cluster 0,2006,Algeria,0.0336,870
+Cluster 0,2006,Angola,0.0269,24
+Cluster 0,2006,Antigua and Barbuda,0.0467,114
+Cluster 0,2006,Azerbaijan,0.0576,168
+Cluster 0,2006,"Bahamas, The",0.0539,312
+Cluster 0,2006,Bahrain,0.0306,294
+Cluster 0,2006,Bangladesh,0.0232,258
+Cluster 0,2006,Belarus,0.0576,348
+Cluster 0,2006,Belize,0.046,366
+Cluster 0,2006,Benin,0.0406,222
+Cluster 0,2006,Bhutan,0.0429,456
+Cluster 0,2006,Bolivia,0.0482,384
+Cluster 0,2006,Botswana,0.0477,474
+Cluster 0,2006,Brunei Darussalam,0.019,438
+Cluster 0,2006,Burkina Faso,0.0509,240
+Cluster 0,2006,Cabo Verde,0.0449,690
+Cluster 0,2006,Cameroon,0.040999999999999995,600
+Cluster 0,2006,Central African Republic,0.0446,492
+Cluster 0,2006,Chad,0.0487,2976
+Cluster 0,2006,China,0.0392,564
+Cluster 0,2006,"Congo, Dem. Rep.",0.0446,618
+Cluster 0,2006,"Congo, Rep.",0.0178,636
+Cluster 0,2006,Cote d'Ivoire,0.0576,582
+Cluster 0,2006,Djibouti,0.0489,798
+Cluster 0,2006,Dominica,0.0523,816
+Cluster 0,2006,Dominican Republic,0.0399,852
+Cluster 0,2006,Ecuador,0.0569,888
+Cluster 0,2006,"Egypt, Arab Rep.",0.0484,906
+Cluster 0,2006,Equatorial Guinea,0.0152,1194
+Cluster 0,2006,Eritrea,0.0531,924
+Cluster 0,2006,Estonia,0.0478,960
+Cluster 0,2006,Ethiopia,0.0446,978
+Cluster 0,2006,Fiji,0.0366,1014
+Cluster 0,2006,Gabon,0.0315,1068
+Cluster 0,2006,"Gambia, The",0.0334,1158
+Cluster 0,2006,Ghana,0.0381,1122
+Cluster 0,2006,Grenada,0.0604,1230
+Cluster 0,2006,Guinea,0.0295,1140
+Cluster 0,2006,Guyana,0.0502,1266
+Cluster 0,2006,India,0.0363,1374
+Cluster 0,2006,Indonesia,0.0267,1356
+Cluster 0,2006,"Iran, Islamic Rep.",0.052000000000000005,1410
+Cluster 0,2006,Iraq,0.0242,1428
+Cluster 0,2006,Jamaica,0.0448,1500
+Cluster 0,2006,Kazakhstan,0.034,1554
+Cluster 0,2006,Kenya,0.0587,1572
+Cluster 0,2006,"Korea, Rep.",0.0518,1662
+Cluster 0,2006,Kuwait,0.0225,1680
+Cluster 0,2006,Lao PDR,0.0293,1698
+Cluster 0,2006,Late-demographic dividend,0.0503,1806
+Cluster 0,2006,Latvia,0.0574,1860
+Cluster 0,2006,Madagascar,0.0589,1932
+Cluster 0,2006,Malaysia,0.0317,2166
+Cluster 0,2006,Mali,0.0532,2022
+Cluster 0,2006,Mauritania,0.0348,2112
+Cluster 0,2006,Mauritius,0.0365,2130
+Cluster 0,2006,Mexico,0.0566,1968
+Cluster 0,2006,Monaco,0.0202,1896
+Cluster 0,2006,Mongolia,0.0375,2076
+Cluster 0,2006,Morocco,0.0494,1878
+Cluster 0,2006,Mozambique,0.0616,2094
+Cluster 0,2006,Myanmar,0.0194,2058
+Cluster 0,2006,Nepal,0.0404,2292
+Cluster 0,2006,Nigeria,0.0426,2220
+Cluster 0,2006,Oman,0.0231,2346
+Cluster 0,2006,Pacific island small states,0.0552,2544
+Cluster 0,2006,Pakistan,0.0301,2364
+Cluster 0,2006,Papua New Guinea,0.0244,2454
+Cluster 0,2006,Paraguay,0.0423,2526
+Cluster 0,2006,Peru,0.0452,2400
+Cluster 0,2006,Philippines,0.0395,2418
+Cluster 0,2006,Pre-demographic dividend,0.0445,2490
+Cluster 0,2006,Qatar,0.022000000000000002,2580
+Cluster 0,2006,Romania,0.0507,2598
+Cluster 0,2006,Russian Federation,0.0477,2616
+Cluster 0,2006,Samoa,0.0502,3354
+Cluster 0,2006,San Marino,0.0499,2796
+Cluster 0,2006,Saudi Arabia,0.0362,2670
+Cluster 0,2006,Senegal,0.0371,2706
+Cluster 0,2006,Seychelles,0.0468,2958
+Cluster 0,2006,Singapore,0.0295,2724
+Cluster 0,2006,South Asia,0.0354,2652
+Cluster 0,2006,Sri Lanka,0.0398,1770
+Cluster 0,2006,St. Kitts and Nevis,0.0488,1644
+Cluster 0,2006,St. Lucia,0.0573,1752
+Cluster 0,2006,St. Vincent and the Grenadines,0.0385,3282
+Cluster 0,2006,Sub-Saharan Africa,0.0526,2832
+Cluster 0,2006,Sudan,0.0489,2688
+Cluster 0,2006,Suriname,0.0627,2868
+Cluster 0,2006,Tajikistan,0.0503,3030
+Cluster 0,2006,Tanzania,0.0771,3174
+Cluster 0,2006,Thailand,0.031,3012
+Cluster 0,2006,Timor-Leste,0.0103,3066
+Cluster 0,2006,Togo,0.0416,2994
+Cluster 0,2006,Tonga,0.0551,3084
+Cluster 0,2006,Trinidad and Tobago,0.0415,3102
+Cluster 0,2006,Tunisia,0.0538,3120
+Cluster 0,2006,Turkey,0.0519,3138
+Cluster 0,2006,United Arab Emirates,0.0233,60
+Cluster 0,2006,Uzbekistan,0.0509,3264
+Cluster 0,2006,Vanuatu,0.0332,3336
+Cluster 0,2006,Vietnam,0.0539,3318
+Cluster 0,2006,"Yemen, Rep.",0.0553,3372
+Cluster 0,2006,Zambia,0.0587,3408
+Cluster 0,2007,Algeria,0.0382,871
+Cluster 0,2007,Angola,0.0297,25
+Cluster 0,2007,Antigua and Barbuda,0.0471,115
+Cluster 0,2007,Azerbaijan,0.0466,169
+Cluster 0,2007,"Bahamas, The",0.0553,313
+Cluster 0,2007,Bahrain,0.033,295
+Cluster 0,2007,Bangladesh,0.0239,259
+Cluster 0,2007,Belarus,0.0589,349
+Cluster 0,2007,Belize,0.0504,367
+Cluster 0,2007,Benin,0.0395,223
+Cluster 0,2007,Bhutan,0.0403,457
+Cluster 0,2007,Bolivia,0.0489,385
+Cluster 0,2007,Botswana,0.0533,475
+Cluster 0,2007,Brunei Darussalam,0.0194,439
+Cluster 0,2007,Burkina Faso,0.0589,241
+Cluster 0,2007,Cabo Verde,0.0419,691
+Cluster 0,2007,Cameroon,0.0416,601
+Cluster 0,2007,Central African Republic,0.0477,493
+Cluster 0,2007,Chad,0.0434,2977
+Cluster 0,2007,China,0.0366,565
+Cluster 0,2007,"Congo, Dem. Rep.",0.0444,619
+Cluster 0,2007,"Congo, Rep.",0.0224,637
+Cluster 0,2007,Cote d'Ivoire,0.0629,583
+Cluster 0,2007,Djibouti,0.0479,799
+Cluster 0,2007,Dominica,0.0536,817
+Cluster 0,2007,Dominican Republic,0.0421,853
+Cluster 0,2007,Ecuador,0.0586,889
+Cluster 0,2007,"Egypt, Arab Rep.",0.0444,907
+Cluster 0,2007,Equatorial Guinea,0.0157,1195
+Cluster 0,2007,Eritrea,0.0409,925
+Cluster 0,2007,Estonia,0.0503,961
+Cluster 0,2007,Ethiopia,0.05,979
+Cluster 0,2007,Fiji,0.0373,1015
+Cluster 0,2007,Gabon,0.0315,1069
+Cluster 0,2007,"Gambia, The",0.0359,1159
+Cluster 0,2007,Ghana,0.0396,1123
+Cluster 0,2007,Grenada,0.0591,1231
+Cluster 0,2007,Guinea,0.0305,1141
+Cluster 0,2007,Guyana,0.0518,1267
+Cluster 0,2007,India,0.0352,1375
+Cluster 0,2007,Indonesia,0.0288,1357
+Cluster 0,2007,"Iran, Islamic Rep.",0.0504,1411
+Cluster 0,2007,Iraq,0.0311,1429
+Cluster 0,2007,Jamaica,0.0512,1501
+Cluster 0,2007,Kazakhstan,0.027000000000000003,1555
+Cluster 0,2007,Kenya,0.06,1573
+Cluster 0,2007,"Korea, Rep.",0.0538,1663
+Cluster 0,2007,Kuwait,0.0213,1681
+Cluster 0,2007,Lao PDR,0.0315,1699
+Cluster 0,2007,Late-demographic dividend,0.0494,1807
+Cluster 0,2007,Latvia,0.0577,1861
+Cluster 0,2007,Madagascar,0.0521,1933
+Cluster 0,2007,Malaysia,0.0312,2167
+Cluster 0,2007,Mali,0.0511,2023
+Cluster 0,2007,Mauritania,0.0372,2113
+Cluster 0,2007,Mauritius,0.0357,2131
+Cluster 0,2007,Mexico,0.0577,1969
+Cluster 0,2007,Monaco,0.0179,1897
+Cluster 0,2007,Mongolia,0.0408,2077
+Cluster 0,2007,Morocco,0.0542,1879
+Cluster 0,2007,Mozambique,0.0546,2095
+Cluster 0,2007,Myanmar,0.0173,2059
+Cluster 0,2007,Nepal,0.0419,2293
+Cluster 0,2007,Nigeria,0.0391,2221
+Cluster 0,2007,Oman,0.0243,2347
+Cluster 0,2007,Pacific island small states,0.0537,2545
+Cluster 0,2007,Pakistan,0.0314,2365
+Cluster 0,2007,Papua New Guinea,0.0242,2455
+Cluster 0,2007,Paraguay,0.0418,2527
+Cluster 0,2007,Peru,0.044000000000000004,2401
+Cluster 0,2007,Philippines,0.0392,2419
+Cluster 0,2007,Pre-demographic dividend,0.044000000000000004,2491
+Cluster 0,2007,Qatar,0.0197,2581
+Cluster 0,2007,Romania,0.0502,2599
+Cluster 0,2007,Russian Federation,0.0475,2617
+Cluster 0,2007,Samoa,0.0487,3355
+Cluster 0,2007,San Marino,0.0514,2797
+Cluster 0,2007,Saudi Arabia,0.0356,2671
+Cluster 0,2007,Senegal,0.0334,2707
+Cluster 0,2007,Seychelles,0.0409,2959
+Cluster 0,2007,Singapore,0.0285,2725
+Cluster 0,2007,South Asia,0.0348,2653
+Cluster 0,2007,Sri Lanka,0.0395,1771
+Cluster 0,2007,St. Kitts and Nevis,0.0457,1645
+Cluster 0,2007,St. Lucia,0.0576,1753
+Cluster 0,2007,St. Vincent and the Grenadines,0.0418,3283
+Cluster 0,2007,Sub-Saharan Africa,0.0513,2833
+Cluster 0,2007,Sudan,0.0566,2689
+Cluster 0,2007,Suriname,0.0559,2869
+Cluster 0,2007,Tajikistan,0.0554,3031
+Cluster 0,2007,Tanzania,0.0698,3175
+Cluster 0,2007,Thailand,0.0319,3013
+Cluster 0,2007,Timor-Leste,0.0106,3067
+Cluster 0,2007,Togo,0.0443,2995
+Cluster 0,2007,Tonga,0.046,3085
+Cluster 0,2007,Trinidad and Tobago,0.0415,3103
+Cluster 0,2007,Tunisia,0.0543,3121
+Cluster 0,2007,Turkey,0.0528,3139
+Cluster 0,2007,United Arab Emirates,0.0257,61
+Cluster 0,2007,Uzbekistan,0.0495,3265
+Cluster 0,2007,Vanuatu,0.0305,3337
+Cluster 0,2007,Vietnam,0.0546,3319
+Cluster 0,2007,"Yemen, Rep.",0.0582,3373
+Cluster 0,2007,Zambia,0.0435,3409
+Cluster 0,2008,Algeria,0.042,872
+Cluster 0,2008,Angola,0.0332,26
+Cluster 0,2008,Antigua and Barbuda,0.0439,116
+Cluster 0,2008,Azerbaijan,0.0405,170
+Cluster 0,2008,"Bahamas, The",0.0579,314
+Cluster 0,2008,Bahrain,0.0329,296
+Cluster 0,2008,Bangladesh,0.0235,260
+Cluster 0,2008,Belarus,0.0547,350
+Cluster 0,2008,Belize,0.0506,368
+Cluster 0,2008,Benin,0.0368,224
+Cluster 0,2008,Bhutan,0.033,458
+Cluster 0,2008,Bolivia,0.0475,386
+Cluster 0,2008,Botswana,0.0578,476
+Cluster 0,2008,Brunei Darussalam,0.0187,440
+Cluster 0,2008,Burkina Faso,0.0523,242
+Cluster 0,2008,Cabo Verde,0.0358,692
+Cluster 0,2008,Cameroon,0.044000000000000004,602
+Cluster 0,2008,Central African Republic,0.0402,494
+Cluster 0,2008,Chad,0.0406,2978
+Cluster 0,2008,China,0.0388,566
+Cluster 0,2008,"Congo, Dem. Rep.",0.0514,620
+Cluster 0,2008,"Congo, Rep.",0.0255,638
+Cluster 0,2008,Cote d'Ivoire,0.0631,584
+Cluster 0,2008,Djibouti,0.0448,800
+Cluster 0,2008,Dominica,0.0547,818
+Cluster 0,2008,Dominican Republic,0.0473,854
+Cluster 0,2008,Ecuador,0.0582,890
+Cluster 0,2008,"Egypt, Arab Rep.",0.0447,908
+Cluster 0,2008,Equatorial Guinea,0.0183,1196
+Cluster 0,2008,Eritrea,0.039,926
+Cluster 0,2008,Estonia,0.0575,962
+Cluster 0,2008,Ethiopia,0.0428,980
+Cluster 0,2008,Fiji,0.0345,1016
+Cluster 0,2008,Gabon,0.0279,1070
+Cluster 0,2008,"Gambia, The",0.0354,1160
+Cluster 0,2008,Ghana,0.0414,1124
+Cluster 0,2008,Grenada,0.0582,1232
+Cluster 0,2008,Guinea,0.0289,1142
+Cluster 0,2008,Guyana,0.0489,1268
+Cluster 0,2008,India,0.0351,1376
+Cluster 0,2008,Indonesia,0.0261,1358
+Cluster 0,2008,"Iran, Islamic Rep.",0.0528,1412
+Cluster 0,2008,Iraq,0.0304,1430
+Cluster 0,2008,Jamaica,0.0544,1502
+Cluster 0,2008,Kazakhstan,0.0305,1556
+Cluster 0,2008,Kenya,0.0605,1574
+Cluster 0,2008,"Korea, Rep.",0.0568,1664
+Cluster 0,2008,Kuwait,0.0193,1682
+Cluster 0,2008,Lao PDR,0.0277,1700
+Cluster 0,2008,Late-demographic dividend,0.0504,1808
+Cluster 0,2008,Latvia,0.0563,1862
+Cluster 0,2008,Madagascar,0.0472,1934
+Cluster 0,2008,Malaysia,0.0308,2168
+Cluster 0,2008,Mali,0.0493,2024
+Cluster 0,2008,Mauritania,0.0389,2114
+Cluster 0,2008,Mauritius,0.0399,2132
+Cluster 0,2008,Mexico,0.057,1970
+Cluster 0,2008,Monaco,0.0192,1898
+Cluster 0,2008,Mongolia,0.0456,2078
+Cluster 0,2008,Morocco,0.053,1880
+Cluster 0,2008,Mozambique,0.0457,2096
+Cluster 0,2008,Myanmar,0.0194,2060
+Cluster 0,2008,Nepal,0.0435,2294
+Cluster 0,2008,Nigeria,0.037000000000000005,2222
+Cluster 0,2008,Oman,0.0201,2348
+Cluster 0,2008,Pacific island small states,0.053,2546
+Cluster 0,2008,Pakistan,0.0292,2366
+Cluster 0,2008,Papua New Guinea,0.0214,2456
+Cluster 0,2008,Paraguay,0.0416,2528
+Cluster 0,2008,Peru,0.0444,2402
+Cluster 0,2008,Philippines,0.0403,2420
+Cluster 0,2008,Pre-demographic dividend,0.0418,2492
+Cluster 0,2008,Qatar,0.016,2582
+Cluster 0,2008,Romania,0.0502,2600
+Cluster 0,2008,Russian Federation,0.0491,2618
+Cluster 0,2008,Samoa,0.0466,3356
+Cluster 0,2008,San Marino,0.0545,2798
+Cluster 0,2008,Saudi Arabia,0.0297,2672
+Cluster 0,2008,Senegal,0.0347,2708
+Cluster 0,2008,Seychelles,0.0399,2960
+Cluster 0,2008,Singapore,0.0322,2726
+Cluster 0,2008,South Asia,0.0345,2654
+Cluster 0,2008,Sri Lanka,0.0398,1772
+Cluster 0,2008,St. Kitts and Nevis,0.052000000000000005,1646
+Cluster 0,2008,St. Lucia,0.0564,1754
+Cluster 0,2008,St. Vincent and the Grenadines,0.0409,3284
+Cluster 0,2008,Sub-Saharan Africa,0.0491,2834
+Cluster 0,2008,Sudan,0.0542,2690
+Cluster 0,2008,Suriname,0.0508,2870
+Cluster 0,2008,Tajikistan,0.0591,3032
+Cluster 0,2008,Tanzania,0.0564,3176
+Cluster 0,2008,Thailand,0.0346,3014
+Cluster 0,2008,Timor-Leste,0.0103,3068
+Cluster 0,2008,Togo,0.0444,2996
+Cluster 0,2008,Tonga,0.0613,3086
+Cluster 0,2008,Trinidad and Tobago,0.0366,3104
+Cluster 0,2008,Tunisia,0.0542,3122
+Cluster 0,2008,Turkey,0.0526,3140
+Cluster 0,2008,United Arab Emirates,0.0293,62
+Cluster 0,2008,Uzbekistan,0.0507,3266
+Cluster 0,2008,Vanuatu,0.0305,3338
+Cluster 0,2008,Vietnam,0.0515,3320
+Cluster 0,2008,"Yemen, Rep.",0.0576,3374
+Cluster 0,2008,Zambia,0.0401,3410
+Cluster 0,2009,Algeria,0.0536,873
+Cluster 0,2009,Angola,0.0384,27
+Cluster 0,2009,Antigua and Barbuda,0.044000000000000004,117
+Cluster 0,2009,Azerbaijan,0.052000000000000005,171
+Cluster 0,2009,"Bahamas, The",0.0594,315
+Cluster 0,2009,Bahrain,0.0406,297
+Cluster 0,2009,Bangladesh,0.024,261
+Cluster 0,2009,Belarus,0.0539,351
+Cluster 0,2009,Belize,0.057999999999999996,369
+Cluster 0,2009,Benin,0.0386,225
+Cluster 0,2009,Bhutan,0.0346,459
+Cluster 0,2009,Bolivia,0.0541,387
+Cluster 0,2009,Botswana,0.0653,477
+Cluster 0,2009,Brunei Darussalam,0.0239,441
+Cluster 0,2009,Burkina Faso,0.0572,243
+Cluster 0,2009,Cabo Verde,0.0388,693
+Cluster 0,2009,Cameroon,0.0433,603
+Cluster 0,2009,Central African Republic,0.0435,495
+Cluster 0,2009,Chad,0.0444,2979
+Cluster 0,2009,China,0.0432,567
+Cluster 0,2009,"Congo, Dem. Rep.",0.0464,621
+Cluster 0,2009,"Congo, Rep.",0.0222,639
+Cluster 0,2009,Cote d'Ivoire,0.0618,585
+Cluster 0,2009,Djibouti,0.0451,801
+Cluster 0,2009,Dominica,0.0561,819
+Cluster 0,2009,Dominican Republic,0.0509,855
+Cluster 0,2009,Ecuador,0.0644,891
+Cluster 0,2009,"Egypt, Arab Rep.",0.0438,909
+Cluster 0,2009,Equatorial Guinea,0.0184,1197
+Cluster 0,2009,Eritrea,0.0435,927
+Cluster 0,2009,Estonia,0.0654,963
+Cluster 0,2009,Ethiopia,0.0465,981
+Cluster 0,2009,Fiji,0.0383,1017
+Cluster 0,2009,Gabon,0.0384,1071
+Cluster 0,2009,"Gambia, The",0.035,1161
+Cluster 0,2009,Ghana,0.0462,1125
+Cluster 0,2009,Grenada,0.0608,1233
+Cluster 0,2009,Guinea,0.0297,1143
+Cluster 0,2009,Guyana,0.0521,1269
+Cluster 0,2009,India,0.0349,1377
+Cluster 0,2009,Indonesia,0.0268,1359
+Cluster 0,2009,"Iran, Islamic Rep.",0.0656,1413
+Cluster 0,2009,Iraq,0.0377,1431
+Cluster 0,2009,Jamaica,0.0479,1503
+Cluster 0,2009,Kazakhstan,0.035,1557
+Cluster 0,2009,Kenya,0.0603,1575
+Cluster 0,2009,"Korea, Rep.",0.0609,1665
+Cluster 0,2009,Kuwait,0.0387,1683
+Cluster 0,2009,Lao PDR,0.0346,1701
+Cluster 0,2009,Late-demographic dividend,0.0549,1809
+Cluster 0,2009,Latvia,0.0615,1863
+Cluster 0,2009,Madagascar,0.0501,1935
+Cluster 0,2009,Malaysia,0.0332,2169
+Cluster 0,2009,Mali,0.0509,2025
+Cluster 0,2009,Mauritania,0.0401,2115
+Cluster 0,2009,Mauritius,0.0423,2133
+Cluster 0,2009,Mexico,0.0613,1971
+Cluster 0,2009,Monaco,0.0228,1899
+Cluster 0,2009,Mongolia,0.0446,2079
+Cluster 0,2009,Morocco,0.0584,1881
+Cluster 0,2009,Mozambique,0.0496,2097
+Cluster 0,2009,Myanmar,0.0205,2061
+Cluster 0,2009,Nepal,0.0445,2295
+Cluster 0,2009,Nigeria,0.0358,2223
+Cluster 0,2009,Oman,0.0283,2349
+Cluster 0,2009,Pacific island small states,0.0561,2547
+Cluster 0,2009,Pakistan,0.0261,2367
+Cluster 0,2009,Papua New Guinea,0.0233,2457
+Cluster 0,2009,Paraguay,0.0447,2529
+Cluster 0,2009,Peru,0.0496,2403
+Cluster 0,2009,Philippines,0.0435,2421
+Cluster 0,2009,Pre-demographic dividend,0.0449,2493
+Cluster 0,2009,Qatar,0.0215,2583
+Cluster 0,2009,Romania,0.0528,2601
+Cluster 0,2009,Russian Federation,0.0565,2619
+Cluster 0,2009,Samoa,0.0541,3357
+Cluster 0,2009,San Marino,0.0628,2799
+Cluster 0,2009,Saudi Arabia,0.0429,2673
+Cluster 0,2009,Senegal,0.038,2709
+Cluster 0,2009,Seychelles,0.0388,2961
+Cluster 0,2009,Singapore,0.0343,2727
+Cluster 0,2009,South Asia,0.0341,2655
+Cluster 0,2009,Sri Lanka,0.0419,1773
+Cluster 0,2009,St. Kitts and Nevis,0.0534,1647
+Cluster 0,2009,St. Lucia,0.0574,1755
+Cluster 0,2009,St. Vincent and the Grenadines,0.0433,3285
+Cluster 0,2009,Sub-Saharan Africa,0.0529,2835
+Cluster 0,2009,Sudan,0.0639,2691
+Cluster 0,2009,Suriname,0.0533,2871
+Cluster 0,2009,Tajikistan,0.0586,3033
+Cluster 0,2009,Tanzania,0.0514,3177
+Cluster 0,2009,Thailand,0.0362,3015
+Cluster 0,2009,Timor-Leste,0.0166,3069
+Cluster 0,2009,Togo,0.0496,2997
+Cluster 0,2009,Tonga,0.0388,3087
+Cluster 0,2009,Trinidad and Tobago,0.0549,3105
+Cluster 0,2009,Tunisia,0.0567,3123
+Cluster 0,2009,Turkey,0.0553,3141
+Cluster 0,2009,United Arab Emirates,0.0405,63
+Cluster 0,2009,Uzbekistan,0.0534,3267
+Cluster 0,2009,Vanuatu,0.0316,3339
+Cluster 0,2009,Vietnam,0.0529,3321
+Cluster 0,2009,"Yemen, Rep.",0.0599,3375
+Cluster 0,2009,Zambia,0.0443,3411
+Cluster 0,2010,Algeria,0.0512,874
+Cluster 0,2010,Angola,0.027000000000000003,28
+Cluster 0,2010,Antigua and Barbuda,0.0519,118
+Cluster 0,2010,Azerbaijan,0.0477,172
+Cluster 0,2010,"Bahamas, The",0.0592,316
+Cluster 0,2010,Bahrain,0.0384,298
+Cluster 0,2010,Bangladesh,0.025,262
+Cluster 0,2010,Belarus,0.0566,352
+Cluster 0,2010,Belize,0.0576,370
+Cluster 0,2010,Benin,0.0409,226
+Cluster 0,2010,Bhutan,0.0347,460
+Cluster 0,2010,Bolivia,0.0547,388
+Cluster 0,2010,Botswana,0.0619,478
+Cluster 0,2010,Brunei Darussalam,0.0228,442
+Cluster 0,2010,Burkina Faso,0.0589,244
+Cluster 0,2010,Cabo Verde,0.0448,694
+Cluster 0,2010,Cameroon,0.045,604
+Cluster 0,2010,Central African Republic,0.0374,496
+Cluster 0,2010,Chad,0.0406,2980
+Cluster 0,2010,China,0.0421,568
+Cluster 0,2010,"Congo, Dem. Rep.",0.0402,622
+Cluster 0,2010,"Congo, Rep.",0.0198,640
+Cluster 0,2010,Cote d'Ivoire,0.061,586
+Cluster 0,2010,Djibouti,0.043,802
+Cluster 0,2010,Dominica,0.0557,820
+Cluster 0,2010,Dominican Republic,0.0558,856
+Cluster 0,2010,Ecuador,0.0712,892
+Cluster 0,2010,"Egypt, Arab Rep.",0.0415,910
+Cluster 0,2010,Equatorial Guinea,0.0182,1198
+Cluster 0,2010,Eritrea,0.0346,928
+Cluster 0,2010,Estonia,0.0633,964
+Cluster 0,2010,Ethiopia,0.0547,982
+Cluster 0,2010,Fiji,0.037000000000000005,1018
+Cluster 0,2010,Gabon,0.0248,1072
+Cluster 0,2010,"Gambia, The",0.0335,1162
+Cluster 0,2010,Ghana,0.0461,1126
+Cluster 0,2010,Grenada,0.0619,1234
+Cluster 0,2010,Guinea,0.0302,1144
+Cluster 0,2010,Guyana,0.0546,1270
+Cluster 0,2010,India,0.0327,1378
+Cluster 0,2010,Indonesia,0.0296,1360
+Cluster 0,2010,"Iran, Islamic Rep.",0.0675,1414
+Cluster 0,2010,Iraq,0.0323,1432
+Cluster 0,2010,Jamaica,0.0501,1504
+Cluster 0,2010,Kazakhstan,0.0274,1558
+Cluster 0,2010,Kenya,0.0612,1576
+Cluster 0,2010,"Korea, Rep.",0.0622,1666
+Cluster 0,2010,Kuwait,0.0276,1684
+Cluster 0,2010,Lao PDR,0.0291,1702
+Cluster 0,2010,Late-demographic dividend,0.0526,1810
+Cluster 0,2010,Latvia,0.0615,1864
+Cluster 0,2010,Madagascar,0.0532,1936
+Cluster 0,2010,Malaysia,0.0323,2170
+Cluster 0,2010,Mali,0.0461,2026
+Cluster 0,2010,Mauritania,0.0342,2116
+Cluster 0,2010,Mauritius,0.0458,2134
+Cluster 0,2010,Mexico,0.0598,1972
+Cluster 0,2010,Monaco,0.0233,1900
+Cluster 0,2010,Mongolia,0.0374,2080
+Cluster 0,2010,Morocco,0.0586,1882
+Cluster 0,2010,Mozambique,0.0512,2098
+Cluster 0,2010,Myanmar,0.0183,2062
+Cluster 0,2010,Nepal,0.0497,2296
+Cluster 0,2010,Nigeria,0.033,2224
+Cluster 0,2010,Oman,0.0282,2350
+Cluster 0,2010,Pacific island small states,0.0549,2548
+Cluster 0,2010,Pakistan,0.026000000000000002,2368
+Cluster 0,2010,Papua New Guinea,0.0211,2458
+Cluster 0,2010,Paraguay,0.0462,2530
+Cluster 0,2010,Peru,0.0472,2404
+Cluster 0,2010,Philippines,0.0431,2422
+Cluster 0,2010,Pre-demographic dividend,0.0405,2494
+Cluster 0,2010,Qatar,0.0179,2584
+Cluster 0,2010,Romania,0.0577,2602
+Cluster 0,2010,Russian Federation,0.0497,2620
+Cluster 0,2010,Samoa,0.0549,3358
+Cluster 0,2010,San Marino,0.0662,2800
+Cluster 0,2010,Saudi Arabia,0.0365,2674
+Cluster 0,2010,Senegal,0.04,2710
+Cluster 0,2010,Seychelles,0.0483,2962
+Cluster 0,2010,Singapore,0.0325,2728
+Cluster 0,2010,South Asia,0.0325,2656
+Cluster 0,2010,Sri Lanka,0.0387,1774
+Cluster 0,2010,St. Kitts and Nevis,0.053,1648
+Cluster 0,2010,St. Lucia,0.0535,1756
+Cluster 0,2010,St. Vincent and the Grenadines,0.0455,3286
+Cluster 0,2010,Sub-Saharan Africa,0.0522,2836
+Cluster 0,2010,Sudan,0.0506,2692
+Cluster 0,2010,Suriname,0.0503,2872
+Cluster 0,2010,Tajikistan,0.0574,3034
+Cluster 0,2010,Tanzania,0.053,3178
+Cluster 0,2010,Thailand,0.0339,3016
+Cluster 0,2010,Timor-Leste,0.0143,3070
+Cluster 0,2010,Togo,0.059000000000000004,2998
+Cluster 0,2010,Tonga,0.0474,3088
+Cluster 0,2010,Trinidad and Tobago,0.0508,3106
+Cluster 0,2010,Tunisia,0.0588,3124
+Cluster 0,2010,Turkey,0.0505,3142
+Cluster 0,2010,United Arab Emirates,0.0388,64
+Cluster 0,2010,Uzbekistan,0.055999999999999994,3268
+Cluster 0,2010,Vanuatu,0.0338,3340
+Cluster 0,2010,Vietnam,0.0597,3322
+Cluster 0,2010,"Yemen, Rep.",0.0516,3376
+Cluster 0,2010,Zambia,0.0372,3412
+Cluster 0,2011,Algeria,0.0527,875
+Cluster 0,2011,Angola,0.0265,29
+Cluster 0,2011,Antigua and Barbuda,0.053,119
+Cluster 0,2011,Azerbaijan,0.0451,173
+Cluster 0,2011,"Bahamas, The",0.0605,317
+Cluster 0,2011,Bahrain,0.0358,299
+Cluster 0,2011,Bangladesh,0.0257,263
+Cluster 0,2011,Belarus,0.0487,353
+Cluster 0,2011,Belize,0.0563,371
+Cluster 0,2011,Benin,0.0422,227
+Cluster 0,2011,Bhutan,0.0327,461
+Cluster 0,2011,Bolivia,0.0549,389
+Cluster 0,2011,Botswana,0.0578,479
+Cluster 0,2011,Brunei Darussalam,0.0186,443
+Cluster 0,2011,Burkina Faso,0.0523,245
+Cluster 0,2011,Cabo Verde,0.0431,695
+Cluster 0,2011,Cameroon,0.034,605
+Cluster 0,2011,Central African Republic,0.0382,497
+Cluster 0,2011,Chad,0.0391,2981
+Cluster 0,2011,China,0.0433,569
+Cluster 0,2011,"Congo, Dem. Rep.",0.0343,623
+Cluster 0,2011,"Congo, Rep.",0.0185,641
+Cluster 0,2011,Cote d'Ivoire,0.0608,587
+Cluster 0,2011,Djibouti,0.0474,803
+Cluster 0,2011,Dominica,0.0533,821
+Cluster 0,2011,Dominican Republic,0.0567,857
+Cluster 0,2011,Ecuador,0.0787,893
+Cluster 0,2011,"Egypt, Arab Rep.",0.0436,911
+Cluster 0,2011,Equatorial Guinea,0.0155,1199
+Cluster 0,2011,Eritrea,0.0415,929
+Cluster 0,2011,Estonia,0.0582,965
+Cluster 0,2011,Ethiopia,0.0447,983
+Cluster 0,2011,Fiji,0.034,1019
+Cluster 0,2011,Gabon,0.0256,1073
+Cluster 0,2011,"Gambia, The",0.0401,1163
+Cluster 0,2011,Ghana,0.0467,1127
+Cluster 0,2011,Grenada,0.0621,1235
+Cluster 0,2011,Guinea,0.0379,1145
+Cluster 0,2011,Guyana,0.0517,1271
+Cluster 0,2011,India,0.0325,1379
+Cluster 0,2011,Indonesia,0.0296,1361
+Cluster 0,2011,"Iran, Islamic Rep.",0.0661,1415
+Cluster 0,2011,Iraq,0.0279,1433
+Cluster 0,2011,Jamaica,0.0493,1505
+Cluster 0,2011,Kazakhstan,0.0269,1559
+Cluster 0,2011,Kenya,0.0581,1577
+Cluster 0,2011,"Korea, Rep.",0.0629,1667
+Cluster 0,2011,Kuwait,0.0262,1685
+Cluster 0,2011,Lao PDR,0.0194,1703
+Cluster 0,2011,Late-demographic dividend,0.0518,1811
+Cluster 0,2011,Latvia,0.0557,1865
+Cluster 0,2011,Madagascar,0.0519,1937
+Cluster 0,2011,Malaysia,0.0339,2171
+Cluster 0,2011,Mali,0.0395,2027
+Cluster 0,2011,Mauritania,0.0324,2117
+Cluster 0,2011,Mauritius,0.0431,2135
+Cluster 0,2011,Mexico,0.057,1973
+Cluster 0,2011,Monaco,0.0218,1901
+Cluster 0,2011,Mongolia,0.0359,2081
+Cluster 0,2011,Morocco,0.0573,1883
+Cluster 0,2011,Mozambique,0.0448,2099
+Cluster 0,2011,Myanmar,0.0178,2063
+Cluster 0,2011,Nepal,0.0508,2297
+Cluster 0,2011,Nigeria,0.0332,2225
+Cluster 0,2011,Oman,0.0255,2351
+Cluster 0,2011,Pacific island small states,0.0516,2549
+Cluster 0,2011,Pakistan,0.0234,2369
+Cluster 0,2011,Papua New Guinea,0.0229,2459
+Cluster 0,2011,Paraguay,0.0505,2531
+Cluster 0,2011,Peru,0.0462,2405
+Cluster 0,2011,Philippines,0.0421,2423
+Cluster 0,2011,Pre-demographic dividend,0.0383,2495
+Cluster 0,2011,Qatar,0.016,2585
+Cluster 0,2011,Romania,0.047,2603
+Cluster 0,2011,Russian Federation,0.048,2621
+Cluster 0,2011,Samoa,0.0542,3359
+Cluster 0,2011,San Marino,0.0744,2801
+Cluster 0,2011,Saudi Arabia,0.0371,2675
+Cluster 0,2011,Senegal,0.0419,2711
+Cluster 0,2011,Seychelles,0.048,2963
+Cluster 0,2011,Singapore,0.0319,2729
+Cluster 0,2011,South Asia,0.032,2657
+Cluster 0,2011,Sri Lanka,0.0372,1775
+Cluster 0,2011,St. Kitts and Nevis,0.0527,1649
+Cluster 0,2011,St. Lucia,0.0561,1757
+Cluster 0,2011,St. Vincent and the Grenadines,0.0447,3287
+Cluster 0,2011,Sub-Saharan Africa,0.0508,2837
+Cluster 0,2011,Sudan,0.0562,2693
+Cluster 0,2011,Suriname,0.0472,2873
+Cluster 0,2011,Tajikistan,0.0586,3035
+Cluster 0,2011,Tanzania,0.0513,3179
+Cluster 0,2011,Thailand,0.0357,3017
+Cluster 0,2011,Timor-Leste,0.0126,3071
+Cluster 0,2011,Togo,0.06,2999
+Cluster 0,2011,Tonga,0.0386,3089
+Cluster 0,2011,Trinidad and Tobago,0.0472,3107
+Cluster 0,2011,Tunisia,0.0643,3125
+Cluster 0,2011,Turkey,0.0469,3143
+Cluster 0,2011,United Arab Emirates,0.0367,65
+Cluster 0,2011,Uzbekistan,0.0568,3269
+Cluster 0,2011,Vanuatu,0.035,3341
+Cluster 0,2011,Vietnam,0.0587,3323
+Cluster 0,2011,"Yemen, Rep.",0.0477,3377
+Cluster 0,2011,Zambia,0.0346,3413
+Cluster 0,2012,Algeria,0.06,876
+Cluster 0,2012,Angola,0.024,30
+Cluster 0,2012,Antigua and Barbuda,0.0519,120
+Cluster 0,2012,Azerbaijan,0.049,174
+Cluster 0,2012,"Bahamas, The",0.0605,318
+Cluster 0,2012,Bahrain,0.0411,300
+Cluster 0,2012,Bangladesh,0.0257,264
+Cluster 0,2012,Belarus,0.0525,354
+Cluster 0,2012,Belize,0.0537,372
+Cluster 0,2012,Benin,0.0467,228
+Cluster 0,2012,Bhutan,0.0353,462
+Cluster 0,2012,Bolivia,0.0537,390
+Cluster 0,2012,Botswana,0.0614,480
+Cluster 0,2012,Brunei Darussalam,0.0185,444
+Cluster 0,2012,Burkina Faso,0.0518,246
+Cluster 0,2012,Cabo Verde,0.0513,696
+Cluster 0,2012,Cameroon,0.0454,606
+Cluster 0,2012,Central African Republic,0.0387,498
+Cluster 0,2012,Chad,0.0386,2982
+Cluster 0,2012,China,0.0455,570
+Cluster 0,2012,"Congo, Dem. Rep.",0.0357,624
+Cluster 0,2012,"Congo, Rep.",0.0247,642
+Cluster 0,2012,Cote d'Ivoire,0.0612,588
+Cluster 0,2012,Djibouti,0.0463,804
+Cluster 0,2012,Dominica,0.0583,822
+Cluster 0,2012,Dominican Republic,0.0589,858
+Cluster 0,2012,Ecuador,0.0848,894
+Cluster 0,2012,"Egypt, Arab Rep.",0.0455,912
+Cluster 0,2012,Equatorial Guinea,0.0126,1200
+Cluster 0,2012,Eritrea,0.0294,930
+Cluster 0,2012,Estonia,0.0583,966
+Cluster 0,2012,Ethiopia,0.0454,984
+Cluster 0,2012,Fiji,0.0354,1020
+Cluster 0,2012,Gabon,0.0242,1074
+Cluster 0,2012,"Gambia, The",0.0392,1164
+Cluster 0,2012,Ghana,0.0412,1128
+Cluster 0,2012,Grenada,0.0594,1236
+Cluster 0,2012,Guinea,0.035,1146
+Cluster 0,2012,Guyana,0.0489,1272
+Cluster 0,2012,India,0.0333,1380
+Cluster 0,2012,Indonesia,0.028999999999999998,1362
+Cluster 0,2012,"Iran, Islamic Rep.",0.0664,1416
+Cluster 0,2012,Iraq,0.0269,1434
+Cluster 0,2012,Jamaica,0.0499,1506
+Cluster 0,2012,Kazakhstan,0.0306,1560
+Cluster 0,2012,Kenya,0.0561,1578
+Cluster 0,2012,"Korea, Rep.",0.0644,1668
+Cluster 0,2012,Kuwait,0.0257,1686
+Cluster 0,2012,Lao PDR,0.0208,1704
+Cluster 0,2012,Late-demographic dividend,0.0522,1812
+Cluster 0,2012,Latvia,0.0542,1866
+Cluster 0,2012,Madagascar,0.0441,1938
+Cluster 0,2012,Malaysia,0.0355,2172
+Cluster 0,2012,Mali,0.0368,2028
+Cluster 0,2012,Mauritania,0.0342,2118
+Cluster 0,2012,Mauritius,0.0428,2136
+Cluster 0,2012,Mexico,0.0584,1974
+Cluster 0,2012,Monaco,0.0223,1902
+Cluster 0,2012,Mongolia,0.0385,2082
+Cluster 0,2012,Morocco,0.0575,1884
+Cluster 0,2012,Mozambique,0.0522,2100
+Cluster 0,2012,Myanmar,0.0232,2064
+Cluster 0,2012,Nepal,0.0517,2298
+Cluster 0,2012,Nigeria,0.0336,2226
+Cluster 0,2012,Oman,0.0255,2352
+Cluster 0,2012,Pacific island small states,0.0507,2550
+Cluster 0,2012,Pakistan,0.0236,2370
+Cluster 0,2012,Papua New Guinea,0.0267,2460
+Cluster 0,2012,Paraguay,0.0654,2532
+Cluster 0,2012,Peru,0.0476,2406
+Cluster 0,2012,Philippines,0.0437,2424
+Cluster 0,2012,Pre-demographic dividend,0.0378,2496
+Cluster 0,2012,Qatar,0.0175,2586
+Cluster 0,2012,Romania,0.0472,2604
+Cluster 0,2012,Russian Federation,0.0495,2622
+Cluster 0,2012,Samoa,0.0482,3360
+Cluster 0,2012,San Marino,0.0801,2802
+Cluster 0,2012,Saudi Arabia,0.0402,2676
+Cluster 0,2012,Senegal,0.0423,2712
+Cluster 0,2012,Seychelles,0.0573,2964
+Cluster 0,2012,Singapore,0.0337,2730
+Cluster 0,2012,South Asia,0.0325,2658
+Cluster 0,2012,Sri Lanka,0.034,1776
+Cluster 0,2012,St. Kitts and Nevis,0.0517,1650
+Cluster 0,2012,St. Lucia,0.0558,1758
+Cluster 0,2012,St. Vincent and the Grenadines,0.0469,3288
+Cluster 0,2012,Sub-Saharan Africa,0.0501,2838
+Cluster 0,2012,Sudan,0.0569,2694
+Cluster 0,2012,Suriname,0.0459,2874
+Cluster 0,2012,Tajikistan,0.0598,3036
+Cluster 0,2012,Tanzania,0.0502,3180
+Cluster 0,2012,Thailand,0.0352,3018
+Cluster 0,2012,Timor-Leste,0.0122,3072
+Cluster 0,2012,Togo,0.0614,3000
+Cluster 0,2012,Tonga,0.0506,3090
+Cluster 0,2012,Trinidad and Tobago,0.0488,3108
+Cluster 0,2012,Tunisia,0.0661,3126
+Cluster 0,2012,Turkey,0.0448,3144
+Cluster 0,2012,United Arab Emirates,0.0343,66
+Cluster 0,2012,Uzbekistan,0.0606,3270
+Cluster 0,2012,Vanuatu,0.0377,3342
+Cluster 0,2012,Vietnam,0.0628,3324
+Cluster 0,2012,"Yemen, Rep.",0.052000000000000005,3378
+Cluster 0,2012,Zambia,0.0393,3414
+Cluster 0,2013,Algeria,0.0604,877
+Cluster 0,2013,Angola,0.0273,31
+Cluster 0,2013,Antigua and Barbuda,0.0542,121
+Cluster 0,2013,Azerbaijan,0.0505,175
+Cluster 0,2013,"Bahamas, The",0.0602,319
+Cluster 0,2013,Bahrain,0.0431,301
+Cluster 0,2013,Bangladesh,0.025,265
+Cluster 0,2013,Belarus,0.057,355
+Cluster 0,2013,Belize,0.057,373
+Cluster 0,2013,Benin,0.0391,229
+Cluster 0,2013,Bhutan,0.0362,463
+Cluster 0,2013,Bolivia,0.0574,391
+Cluster 0,2013,Botswana,0.0622,481
+Cluster 0,2013,Brunei Darussalam,0.019,445
+Cluster 0,2013,Burkina Faso,0.0626,247
+Cluster 0,2013,Cabo Verde,0.0529,697
+Cluster 0,2013,Cameroon,0.045,607
+Cluster 0,2013,Central African Republic,0.0484,499
+Cluster 0,2013,Chad,0.0407,2983
+Cluster 0,2013,China,0.0471,571
+Cluster 0,2013,"Congo, Dem. Rep.",0.0357,625
+Cluster 0,2013,"Congo, Rep.",0.0249,643
+Cluster 0,2013,Cote d'Ivoire,0.0514,589
+Cluster 0,2013,Djibouti,0.040999999999999995,805
+Cluster 0,2013,Dominica,0.053,823
+Cluster 0,2013,Dominican Republic,0.0576,859
+Cluster 0,2013,Ecuador,0.0856,895
+Cluster 0,2013,"Egypt, Arab Rep.",0.0465,913
+Cluster 0,2013,Equatorial Guinea,0.0188,1201
+Cluster 0,2013,Eritrea,0.0283,931
+Cluster 0,2013,Estonia,0.0601,967
+Cluster 0,2013,Ethiopia,0.0408,985
+Cluster 0,2013,Fiji,0.0347,1021
+Cluster 0,2013,Gabon,0.0284,1075
+Cluster 0,2013,"Gambia, The",0.0406,1165
+Cluster 0,2013,Ghana,0.0462,1129
+Cluster 0,2013,Grenada,0.0568,1237
+Cluster 0,2013,Guinea,0.0346,1147
+Cluster 0,2013,Guyana,0.0505,1273
+Cluster 0,2013,India,0.0375,1381
+Cluster 0,2013,Indonesia,0.0296,1363
+Cluster 0,2013,"Iran, Islamic Rep.",0.0599,1417
+Cluster 0,2013,Iraq,0.0282,1435
+Cluster 0,2013,Jamaica,0.0524,1507
+Cluster 0,2013,Kazakhstan,0.0287,1561
+Cluster 0,2013,Kenya,0.0552,1579
+Cluster 0,2013,"Korea, Rep.",0.0658,1669
+Cluster 0,2013,Kuwait,0.0259,1687
+Cluster 0,2013,Lao PDR,0.024,1705
+Cluster 0,2013,Late-demographic dividend,0.0535,1813
+Cluster 0,2013,Latvia,0.054000000000000006,1867
+Cluster 0,2013,Madagascar,0.0423,1939
+Cluster 0,2013,Malaysia,0.0357,2173
+Cluster 0,2013,Mali,0.0397,2029
+Cluster 0,2013,Mauritania,0.0369,2119
+Cluster 0,2013,Mauritius,0.0468,2137
+Cluster 0,2013,Mexico,0.0594,1975
+Cluster 0,2013,Monaco,0.0215,1903
+Cluster 0,2013,Mongolia,0.0407,2083
+Cluster 0,2013,Morocco,0.0569,1885
+Cluster 0,2013,Mozambique,0.0542,2101
+Cluster 0,2013,Myanmar,0.0305,2065
+Cluster 0,2013,Nepal,0.0532,2299
+Cluster 0,2013,Nigeria,0.0342,2227
+Cluster 0,2013,Oman,0.0279,2353
+Cluster 0,2013,Pacific island small states,0.0516,2551
+Cluster 0,2013,Pakistan,0.026000000000000002,2371
+Cluster 0,2013,Papua New Guinea,0.03,2461
+Cluster 0,2013,Paraguay,0.0607,2533
+Cluster 0,2013,Peru,0.047,2407
+Cluster 0,2013,Philippines,0.0446,2425
+Cluster 0,2013,Pre-demographic dividend,0.0395,2497
+Cluster 0,2013,Qatar,0.0208,2587
+Cluster 0,2013,Romania,0.0519,2605
+Cluster 0,2013,Russian Federation,0.0509,2623
+Cluster 0,2013,Samoa,0.0617,3361
+Cluster 0,2013,San Marino,0.0773,2803
+Cluster 0,2013,Saudi Arabia,0.0447,2677
+Cluster 0,2013,Senegal,0.0437,2713
+Cluster 0,2013,Seychelles,0.0451,2965
+Cluster 0,2013,Singapore,0.0371,2731
+Cluster 0,2013,South Asia,0.0362,2659
+Cluster 0,2013,Sri Lanka,0.0383,1777
+Cluster 0,2013,St. Kitts and Nevis,0.052000000000000005,1651
+Cluster 0,2013,St. Lucia,0.0578,1759
+Cluster 0,2013,St. Vincent and the Grenadines,0.0457,3289
+Cluster 0,2013,Sub-Saharan Africa,0.0499,2839
+Cluster 0,2013,Sudan,0.0696,2695
+Cluster 0,2013,Suriname,0.048,2875
+Cluster 0,2013,Tajikistan,0.0653,3037
+Cluster 0,2013,Tanzania,0.0465,3181
+Cluster 0,2013,Thailand,0.0345,3019
+Cluster 0,2013,Timor-Leste,0.0171,3073
+Cluster 0,2013,Togo,0.063,3001
+Cluster 0,2013,Tonga,0.0418,3091
+Cluster 0,2013,Trinidad and Tobago,0.0504,3109
+Cluster 0,2013,Tunisia,0.0686,3127
+Cluster 0,2013,Turkey,0.044000000000000004,3145
+Cluster 0,2013,United Arab Emirates,0.0359,67
+Cluster 0,2013,Uzbekistan,0.0604,3271
+Cluster 0,2013,Vanuatu,0.0415,3343
+Cluster 0,2013,Vietnam,0.0634,3325
+Cluster 0,2013,"Yemen, Rep.",0.0496,3379
+Cluster 0,2013,Zambia,0.0469,3415
+Cluster 0,2014,Algeria,0.0655,878
+Cluster 0,2014,Angola,0.0243,32
+Cluster 0,2014,Antigua and Barbuda,0.0525,122
+Cluster 0,2014,Azerbaijan,0.0547,176
+Cluster 0,2014,"Bahamas, The",0.0589,320
+Cluster 0,2014,Bahrain,0.0441,302
+Cluster 0,2014,Bangladesh,0.025,266
+Cluster 0,2014,Belarus,0.0539,356
+Cluster 0,2014,Belize,0.0567,374
+Cluster 0,2014,Benin,0.0365,230
+Cluster 0,2014,Bhutan,0.0347,464
+Cluster 0,2014,Bolivia,0.0596,392
+Cluster 0,2014,Botswana,0.055999999999999994,482
+Cluster 0,2014,Brunei Darussalam,0.0191,446
+Cluster 0,2014,Burkina Faso,0.0562,248
+Cluster 0,2014,Cabo Verde,0.0533,698
+Cluster 0,2014,Cameroon,0.0453,608
+Cluster 0,2014,Central African Republic,0.0485,500
+Cluster 0,2014,Chad,0.0427,2984
+Cluster 0,2014,China,0.0477,572
+Cluster 0,2014,"Congo, Dem. Rep.",0.0398,626
+Cluster 0,2014,"Congo, Rep.",0.0251,644
+Cluster 0,2014,Cote d'Ivoire,0.0516,590
+Cluster 0,2014,Djibouti,0.0414,806
+Cluster 0,2014,Dominica,0.0546,824
+Cluster 0,2014,Dominican Republic,0.0585,860
+Cluster 0,2014,Ecuador,0.0862,896
+Cluster 0,2014,"Egypt, Arab Rep.",0.0469,914
+Cluster 0,2014,Equatorial Guinea,0.0219,1202
+Cluster 0,2014,Eritrea,0.0282,932
+Cluster 0,2014,Estonia,0.0612,968
+Cluster 0,2014,Ethiopia,0.0403,986
+Cluster 0,2014,Fiji,0.0365,1022
+Cluster 0,2014,Gabon,0.0253,1076
+Cluster 0,2014,"Gambia, The",0.0346,1166
+Cluster 0,2014,Ghana,0.040999999999999995,1130
+Cluster 0,2014,Grenada,0.0472,1238
+Cluster 0,2014,Guinea,0.0478,1148
+Cluster 0,2014,Guyana,0.0514,1274
+Cluster 0,2014,India,0.0362,1382
+Cluster 0,2014,Indonesia,0.0312,1364
+Cluster 0,2014,"Iran, Islamic Rep.",0.0691,1418
+Cluster 0,2014,Iraq,0.027999999999999997,1436
+Cluster 0,2014,Jamaica,0.0523,1508
+Cluster 0,2014,Kazakhstan,0.0271,1562
+Cluster 0,2014,Kenya,0.0546,1580
+Cluster 0,2014,"Korea, Rep.",0.0682,1670
+Cluster 0,2014,Kuwait,0.032,1688
+Cluster 0,2014,Lao PDR,0.023,1706
+Cluster 0,2014,Late-demographic dividend,0.0542,1814
+Cluster 0,2014,Latvia,0.0547,1868
+Cluster 0,2014,Madagascar,0.0508,1940
+Cluster 0,2014,Malaysia,0.0377,2174
+Cluster 0,2014,Mali,0.0448,2030
+Cluster 0,2014,Mauritania,0.0428,2120
+Cluster 0,2014,Mauritius,0.0549,2138
+Cluster 0,2014,Mexico,0.0563,1976
+Cluster 0,2014,Monaco,0.0209,1904
+Cluster 0,2014,Mongolia,0.0419,2084
+Cluster 0,2014,Morocco,0.053,1886
+Cluster 0,2014,Mozambique,0.0597,2102
+Cluster 0,2014,Myanmar,0.0415,2066
+Cluster 0,2014,Nepal,0.0577,2300
+Cluster 0,2014,Nigeria,0.0335,2228
+Cluster 0,2014,Oman,0.0353,2354
+Cluster 0,2014,Pacific island small states,0.0519,2552
+Cluster 0,2014,Pakistan,0.0272,2372
+Cluster 0,2014,Papua New Guinea,0.0329,2462
+Cluster 0,2014,Paraguay,0.0665,2534
+Cluster 0,2014,Peru,0.05,2408
+Cluster 0,2014,Philippines,0.0413,2426
+Cluster 0,2014,Pre-demographic dividend,0.0386,2498
+Cluster 0,2014,Qatar,0.0242,2588
+Cluster 0,2014,Romania,0.0503,2606
+Cluster 0,2014,Russian Federation,0.0519,2624
+Cluster 0,2014,Samoa,0.0623,3362
+Cluster 0,2014,San Marino,0.0757,2804
+Cluster 0,2014,Saudi Arabia,0.0523,2678
+Cluster 0,2014,Senegal,0.044000000000000004,2714
+Cluster 0,2014,Seychelles,0.0474,2966
+Cluster 0,2014,Singapore,0.0389,2732
+Cluster 0,2014,South Asia,0.0353,2660
+Cluster 0,2014,Sri Lanka,0.0361,1778
+Cluster 0,2014,St. Kitts and Nevis,0.0485,1652
+Cluster 0,2014,St. Lucia,0.0496,1760
+Cluster 0,2014,St. Vincent and the Grenadines,0.044000000000000004,3290
+Cluster 0,2014,Sub-Saharan Africa,0.0486,2840
+Cluster 0,2014,Sudan,0.0568,2696
+Cluster 0,2014,Suriname,0.0484,2876
+Cluster 0,2014,Tajikistan,0.0667,3038
+Cluster 0,2014,Tanzania,0.0401,3182
+Cluster 0,2014,Thailand,0.0368,3020
+Cluster 0,2014,Timor-Leste,0.0236,3074
+Cluster 0,2014,Togo,0.0636,3002
+Cluster 0,2014,Tonga,0.0511,3092
+Cluster 0,2014,Trinidad and Tobago,0.0523,3110
+Cluster 0,2014,Tunisia,0.0681,3128
+Cluster 0,2014,Turkey,0.0435,3146
+Cluster 0,2014,United Arab Emirates,0.0363,68
+Cluster 0,2014,Uzbekistan,0.0568,3272
+Cluster 0,2014,Vanuatu,0.0346,3344
+Cluster 0,2014,Vietnam,0.0578,3326
+Cluster 0,2014,"Yemen, Rep.",0.0484,3380
+Cluster 0,2014,Zambia,0.0383,3416
+Cluster 0,2015,Algeria,0.0698,879
+Cluster 0,2015,Angola,0.0261,33
+Cluster 0,2015,Antigua and Barbuda,0.047,123
+Cluster 0,2015,Azerbaijan,0.0671,177
+Cluster 0,2015,"Bahamas, The",0.0571,321
+Cluster 0,2015,Bahrain,0.0498,303
+Cluster 0,2015,Bangladesh,0.0246,267
+Cluster 0,2015,Belarus,0.0607,357
+Cluster 0,2015,Belize,0.059000000000000004,375
+Cluster 0,2015,Benin,0.0399,231
+Cluster 0,2015,Bhutan,0.0366,465
+Cluster 0,2015,Bolivia,0.0662,393
+Cluster 0,2015,Botswana,0.0573,483
+Cluster 0,2015,Brunei Darussalam,0.0239,447
+Cluster 0,2015,Burkina Faso,0.0583,249
+Cluster 0,2015,Cabo Verde,0.0482,699
+Cluster 0,2015,Cameroon,0.047,609
+Cluster 0,2015,Central African Republic,0.0631,501
+Cluster 0,2015,Chad,0.0452,2985
+Cluster 0,2015,China,0.0489,573
+Cluster 0,2015,"Congo, Dem. Rep.",0.0394,627
+Cluster 0,2015,"Congo, Rep.",0.0342,645
+Cluster 0,2015,Cote d'Ivoire,0.0442,591
+Cluster 0,2015,Djibouti,0.0439,807
+Cluster 0,2015,Dominica,0.0541,825
+Cluster 0,2015,Dominican Republic,0.0598,861
+Cluster 0,2015,Ecuador,0.0859,897
+Cluster 0,2015,"Egypt, Arab Rep.",0.0534,915
+Cluster 0,2015,Equatorial Guinea,0.0292,1203
+Cluster 0,2015,Eritrea,0.0286,933
+Cluster 0,2015,Estonia,0.0639,969
+Cluster 0,2015,Ethiopia,0.0394,987
+Cluster 0,2015,Fiji,0.0357,1023
+Cluster 0,2015,Gabon,0.0266,1077
+Cluster 0,2015,"Gambia, The",0.031,1167
+Cluster 0,2015,Ghana,0.0462,1131
+Cluster 0,2015,Grenada,0.0472,1239
+Cluster 0,2015,Guinea,0.0581,1149
+Cluster 0,2015,Guyana,0.0452,1275
+Cluster 0,2015,India,0.036000000000000004,1383
+Cluster 0,2015,Indonesia,0.0301,1365
+Cluster 0,2015,"Iran, Islamic Rep.",0.0776,1419
+Cluster 0,2015,Iraq,0.0314,1437
+Cluster 0,2015,Jamaica,0.0566,1509
+Cluster 0,2015,Kazakhstan,0.0305,1563
+Cluster 0,2015,Kenya,0.0522,1581
+Cluster 0,2015,"Korea, Rep.",0.0705,1671
+Cluster 0,2015,Kuwait,0.0401,1689
+Cluster 0,2015,Lao PDR,0.0245,1707
+Cluster 0,2015,Late-demographic dividend,0.0544,1815
+Cluster 0,2015,Latvia,0.0571,1869
+Cluster 0,2015,Madagascar,0.0572,1941
+Cluster 0,2015,Malaysia,0.0389,2175
+Cluster 0,2015,Mali,0.0411,2031
+Cluster 0,2015,Mauritania,0.0474,2121
+Cluster 0,2015,Mauritius,0.057,2139
+Cluster 0,2015,Mexico,0.057999999999999996,1977
+Cluster 0,2015,Monaco,0.0203,1905
+Cluster 0,2015,Mongolia,0.0424,2085
+Cluster 0,2015,Morocco,0.0507,1887
+Cluster 0,2015,Mozambique,0.0527,2103
+Cluster 0,2015,Myanmar,0.052000000000000005,2067
+Cluster 0,2015,Nepal,0.0622,2301
+Cluster 0,2015,Nigeria,0.0358,2229
+Cluster 0,2015,Oman,0.043,2355
+Cluster 0,2015,Pacific island small states,0.0516,2553
+Cluster 0,2015,Pakistan,0.0269,2373
+Cluster 0,2015,Papua New Guinea,0.0191,2463
+Cluster 0,2015,Paraguay,0.0675,2535
+Cluster 0,2015,Peru,0.0503,2409
+Cluster 0,2015,Philippines,0.0432,2427
+Cluster 0,2015,Pre-demographic dividend,0.0425,2499
+Cluster 0,2015,Qatar,0.0312,2589
+Cluster 0,2015,Romania,0.0494,2607
+Cluster 0,2015,Russian Federation,0.053,2625
+Cluster 0,2015,Samoa,0.0567,3363
+Cluster 0,2015,San Marino,0.0735,2805
+Cluster 0,2015,Saudi Arabia,0.06,2679
+Cluster 0,2015,Senegal,0.0438,2715
+Cluster 0,2015,Seychelles,0.0459,2967
+Cluster 0,2015,Singapore,0.042,2733
+Cluster 0,2015,South Asia,0.0351,2661
+Cluster 0,2015,Sri Lanka,0.0389,1779
+Cluster 0,2015,St. Kitts and Nevis,0.0492,1653
+Cluster 0,2015,St. Lucia,0.048,1761
+Cluster 0,2015,St. Vincent and the Grenadines,0.0426,3291
+Cluster 0,2015,Sub-Saharan Africa,0.0517,2841
+Cluster 0,2015,Sudan,0.0718,2697
+Cluster 0,2015,Suriname,0.0622,2877
+Cluster 0,2015,Tajikistan,0.0691,3039
+Cluster 0,2015,Tanzania,0.0365,3183
+Cluster 0,2015,Thailand,0.0367,3021
+Cluster 0,2015,Timor-Leste,0.0349,3075
+Cluster 0,2015,Togo,0.0625,3003
+Cluster 0,2015,Tonga,0.0465,3093
+Cluster 0,2015,Trinidad and Tobago,0.0604,3111
+Cluster 0,2015,Tunisia,0.0701,3129
+Cluster 0,2015,Turkey,0.0414,3147
+Cluster 0,2015,United Arab Emirates,0.0358,69
+Cluster 0,2015,Uzbekistan,0.061,3273
+Cluster 0,2015,Vanuatu,0.0416,3345
+Cluster 0,2015,Vietnam,0.0565,3327
+Cluster 0,2015,"Yemen, Rep.",0.0423,3381
+Cluster 0,2015,Zambia,0.0444,3417
+Cluster 0,2016,Algeria,0.066,880
+Cluster 0,2016,Angola,0.0271,34
+Cluster 0,2016,Antigua and Barbuda,0.0436,124
+Cluster 0,2016,Azerbaijan,0.0666,178
+Cluster 0,2016,"Bahamas, The",0.0607,322
+Cluster 0,2016,Bahrain,0.0486,304
+Cluster 0,2016,Bangladesh,0.0231,268
+Cluster 0,2016,Belarus,0.0591,358
+Cluster 0,2016,Belize,0.061,376
+Cluster 0,2016,Benin,0.0386,232
+Cluster 0,2016,Bhutan,0.0349,466
+Cluster 0,2016,Bolivia,0.0685,394
+Cluster 0,2016,Botswana,0.0556,484
+Cluster 0,2016,Brunei Darussalam,0.0255,448
+Cluster 0,2016,Burkina Faso,0.0701,250
+Cluster 0,2016,Cabo Verde,0.0484,700
+Cluster 0,2016,Cameroon,0.0468,610
+Cluster 0,2016,Central African Republic,0.0428,502
+Cluster 0,2016,Chad,0.0496,2986
+Cluster 0,2016,China,0.0498,574
+Cluster 0,2016,"Congo, Dem. Rep.",0.0389,628
+Cluster 0,2016,"Congo, Rep.",0.0349,646
+Cluster 0,2016,Cote d'Ivoire,0.0454,592
+Cluster 0,2016,Djibouti,0.0375,808
+Cluster 0,2016,Dominica,0.0521,826
+Cluster 0,2016,Dominican Republic,0.061,862
+Cluster 0,2016,Ecuador,0.083,898
+Cluster 0,2016,"Egypt, Arab Rep.",0.0536,916
+Cluster 0,2016,Equatorial Guinea,0.0316,1204
+Cluster 0,2016,Eritrea,0.0291,934
+Cluster 0,2016,Estonia,0.065,970
+Cluster 0,2016,Ethiopia,0.0385,988
+Cluster 0,2016,Fiji,0.0353,1024
+Cluster 0,2016,Gabon,0.0311,1078
+Cluster 0,2016,"Gambia, The",0.0296,1168
+Cluster 0,2016,Ghana,0.0346,1132
+Cluster 0,2016,Grenada,0.0469,1240
+Cluster 0,2016,Guinea,0.0534,1150
+Cluster 0,2016,Guyana,0.0514,1276
+Cluster 0,2016,India,0.0351,1384
+Cluster 0,2016,Indonesia,0.0312,1366
+Cluster 0,2016,"Iran, Islamic Rep.",0.0886,1420
+Cluster 0,2016,Iraq,0.0327,1438
+Cluster 0,2016,Jamaica,0.0573,1510
+Cluster 0,2016,Kazakhstan,0.0343,1564
+Cluster 0,2016,Kenya,0.0502,1582
+Cluster 0,2016,"Korea, Rep.",0.0733,1672
+Cluster 0,2016,Kuwait,0.0397,1690
+Cluster 0,2016,Lao PDR,0.0236,1708
+Cluster 0,2016,Late-demographic dividend,0.0555,1816
+Cluster 0,2016,Latvia,0.0621,1870
+Cluster 0,2016,Madagascar,0.0612,1942
+Cluster 0,2016,Malaysia,0.038,2176
+Cluster 0,2016,Mali,0.0378,2032
+Cluster 0,2016,Mauritania,0.0413,2122
+Cluster 0,2016,Mauritius,0.0571,2140
+Cluster 0,2016,Mexico,0.0562,1978
+Cluster 0,2016,Monaco,0.0175,1906
+Cluster 0,2016,Mongolia,0.0442,2086
+Cluster 0,2016,Morocco,0.0524,1888
+Cluster 0,2016,Mozambique,0.0515,2104
+Cluster 0,2016,Myanmar,0.0477,2068
+Cluster 0,2016,Nepal,0.0628,2302
+Cluster 0,2016,Nigeria,0.0365,2230
+Cluster 0,2016,Oman,0.0433,2356
+Cluster 0,2016,Pacific island small states,0.0518,2554
+Cluster 0,2016,Pakistan,0.0286,2374
+Cluster 0,2016,Papua New Guinea,0.0254,2464
+Cluster 0,2016,Paraguay,0.0673,2536
+Cluster 0,2016,Peru,0.0506,2410
+Cluster 0,2016,Philippines,0.0441,2428
+Cluster 0,2016,Pre-demographic dividend,0.0429,2500
+Cluster 0,2016,Qatar,0.0305,2590
+Cluster 0,2016,Romania,0.0499,2608
+Cluster 0,2016,Russian Federation,0.0527,2626
+Cluster 0,2016,Samoa,0.0553,3364
+Cluster 0,2016,San Marino,0.0683,2806
+Cluster 0,2016,Saudi Arabia,0.0584,2680
+Cluster 0,2016,Senegal,0.0427,2716
+Cluster 0,2016,Seychelles,0.0518,2968
+Cluster 0,2016,Singapore,0.0442,2734
+Cluster 0,2016,South Asia,0.0345,2662
+Cluster 0,2016,Sri Lanka,0.0389,1780
+Cluster 0,2016,St. Kitts and Nevis,0.0498,1654
+Cluster 0,2016,St. Lucia,0.052000000000000005,1762
+Cluster 0,2016,St. Vincent and the Grenadines,0.0435,3292
+Cluster 0,2016,Sub-Saharan Africa,0.0513,2842
+Cluster 0,2016,Sudan,0.064,2698
+Cluster 0,2016,Suriname,0.0628,2878
+Cluster 0,2016,Tajikistan,0.07,3040
+Cluster 0,2016,Tanzania,0.0396,3184
+Cluster 0,2016,Thailand,0.0376,3022
+Cluster 0,2016,Timor-Leste,0.0402,3076
+Cluster 0,2016,Togo,0.0658,3004
+Cluster 0,2016,Tonga,0.0518,3094
+Cluster 0,2016,Trinidad and Tobago,0.0687,3112
+Cluster 0,2016,Tunisia,0.07,3130
+Cluster 0,2016,Turkey,0.0431,3148
+Cluster 0,2016,United Arab Emirates,0.034,70
+Cluster 0,2016,Uzbekistan,0.0631,3274
+Cluster 0,2016,Vanuatu,0.037000000000000005,3346
+Cluster 0,2016,Vietnam,0.0566,3328
+Cluster 0,2016,"Yemen, Rep.",0.0468,3382
+Cluster 0,2016,Zambia,0.0448,3418
+Cluster 0,2017,Algeria,0.0637,881
+Cluster 0,2017,Angola,0.0279,35
+Cluster 0,2017,Antigua and Barbuda,0.0453,125
+Cluster 0,2017,Azerbaijan,0.0665,179
+Cluster 0,2017,"Bahamas, The",0.0576,323
+Cluster 0,2017,Bahrain,0.0475,305
+Cluster 0,2017,Bangladesh,0.0227,269
+Cluster 0,2017,Belarus,0.0593,359
+Cluster 0,2017,Belize,0.0564,377
+Cluster 0,2017,Benin,0.0372,233
+Cluster 0,2017,Bhutan,0.0319,467
+Cluster 0,2017,Bolivia,0.0644,395
+Cluster 0,2017,Botswana,0.0613,485
+Cluster 0,2017,Brunei Darussalam,0.0237,449
+Cluster 0,2017,Burkina Faso,0.0692,251
+Cluster 0,2017,Cabo Verde,0.0517,701
+Cluster 0,2017,Cameroon,0.0467,611
+Cluster 0,2017,Central African Republic,0.0582,503
+Cluster 0,2017,Chad,0.0449,2987
+Cluster 0,2017,China,0.0515,575
+Cluster 0,2017,"Congo, Dem. Rep.",0.0398,629
+Cluster 0,2017,"Congo, Rep.",0.0293,647
+Cluster 0,2017,Cote d'Ivoire,0.0445,593
+Cluster 0,2017,Djibouti,0.0332,809
+Cluster 0,2017,Dominica,0.0588,827
+Cluster 0,2017,Dominican Republic,0.0614,863
+Cluster 0,2017,Ecuador,0.0826,899
+Cluster 0,2017,"Egypt, Arab Rep.",0.0529,917
+Cluster 0,2017,Equatorial Guinea,0.0311,1205
+Cluster 0,2017,Eritrea,0.0287,935
+Cluster 0,2017,Estonia,0.0643,971
+Cluster 0,2017,Ethiopia,0.035,989
+Cluster 0,2017,Fiji,0.035,1025
+Cluster 0,2017,Gabon,0.0278,1079
+Cluster 0,2017,"Gambia, The",0.0328,1169
+Cluster 0,2017,Ghana,0.0326,1133
+Cluster 0,2017,Grenada,0.0476,1241
+Cluster 0,2017,Guinea,0.0412,1151
+Cluster 0,2017,Guyana,0.0495,1277
+Cluster 0,2017,India,0.0353,1385
+Cluster 0,2017,Indonesia,0.0299,1367
+Cluster 0,2017,"Iran, Islamic Rep.",0.0866,1421
+Cluster 0,2017,Iraq,0.0417,1439
+Cluster 0,2017,Jamaica,0.0599,1511
+Cluster 0,2017,Kazakhstan,0.0313,1565
+Cluster 0,2017,Kenya,0.048,1583
+Cluster 0,2017,"Korea, Rep.",0.076,1673
+Cluster 0,2017,Kuwait,0.0529,1691
+Cluster 0,2017,Lao PDR,0.0253,1709
+Cluster 0,2017,Late-demographic dividend,0.057,1817
+Cluster 0,2017,Latvia,0.0596,1871
+Cluster 0,2017,Madagascar,0.055,1943
+Cluster 0,2017,Malaysia,0.0386,2177
+Cluster 0,2017,Mali,0.0379,2033
+Cluster 0,2017,Mauritania,0.044000000000000004,2123
+Cluster 0,2017,Mauritius,0.0572,2141
+Cluster 0,2017,Mexico,0.0552,1979
+Cluster 0,2017,Monaco,0.0177,1907
+Cluster 0,2017,Mongolia,0.04,2087
+Cluster 0,2017,Morocco,0.0525,1889
+Cluster 0,2017,Mozambique,0.0494,2105
+Cluster 0,2017,Myanmar,0.0466,2069
+Cluster 0,2017,Nepal,0.0555,2303
+Cluster 0,2017,Nigeria,0.0376,2231
+Cluster 0,2017,Oman,0.0385,2357
+Cluster 0,2017,Pacific island small states,0.05,2555
+Cluster 0,2017,Pakistan,0.028999999999999998,2375
+Cluster 0,2017,Papua New Guinea,0.0247,2465
+Cluster 0,2017,Paraguay,0.0665,2537
+Cluster 0,2017,Peru,0.05,2411
+Cluster 0,2017,Philippines,0.0445,2429
+Cluster 0,2017,Pre-demographic dividend,0.0446,2501
+Cluster 0,2017,Qatar,0.0261,2591
+Cluster 0,2017,Romania,0.0516,2609
+Cluster 0,2017,Russian Federation,0.0534,2627
+Cluster 0,2017,Samoa,0.0548,3365
+Cluster 0,2017,San Marino,0.0736,2807
+Cluster 0,2017,Saudi Arabia,0.0523,2681
+Cluster 0,2017,Senegal,0.0413,2717
+Cluster 0,2017,Seychelles,0.0501,2969
+Cluster 0,2017,Singapore,0.0444,2735
+Cluster 0,2017,South Asia,0.0346,2663
+Cluster 0,2017,Sri Lanka,0.0381,1781
+Cluster 0,2017,St. Kitts and Nevis,0.0504,1655
+Cluster 0,2017,St. Lucia,0.0455,1763
+Cluster 0,2017,St. Vincent and the Grenadines,0.0449,3293
+Cluster 0,2017,Sub-Saharan Africa,0.0518,2843
+Cluster 0,2017,Sudan,0.0634,2699
+Cluster 0,2017,Suriname,0.0623,2879
+Cluster 0,2017,Tajikistan,0.0723,3041
+Cluster 0,2017,Tanzania,0.0365,3185
+Cluster 0,2017,Thailand,0.0375,3023
+Cluster 0,2017,Timor-Leste,0.0388,3077
+Cluster 0,2017,Togo,0.062,3005
+Cluster 0,2017,Tonga,0.0527,3095
+Cluster 0,2017,Trinidad and Tobago,0.0698,3113
+Cluster 0,2017,Tunisia,0.0723,3131
+Cluster 0,2017,Turkey,0.0422,3149
+Cluster 0,2017,United Arab Emirates,0.0333,71
+Cluster 0,2017,Uzbekistan,0.0641,3275
+Cluster 0,2017,Vanuatu,0.0332,3347
+Cluster 0,2017,Vietnam,0.0553,3329
+Cluster 0,2017,"Yemen, Rep.",0.0459,3383
+Cluster 0,2017,Zambia,0.0447,3419
+Cluster 1,2000,Cuba,0.0658,720
+Cluster 1,2000,France,0.0958,1026
+Cluster 1,2000,Germany,0.0984,774
+Cluster 1,2000,Kiribati,0.0865,1620
+Cluster 1,2000,"Micronesia, Fed. Sts.",0.0777,1044
+Cluster 1,2000,Nauru,0.135,2304
+Cluster 1,2000,Palau,0.0894,2430
+Cluster 1,2000,Post-demographic dividend,0.0955,2556
+Cluster 1,2000,Sierra Leone,0.1152,2754
+Cluster 1,2000,Switzerland,0.0984,522
+Cluster 1,2001,Cuba,0.0698,721
+Cluster 1,2001,France,0.0971,1027
+Cluster 1,2001,Germany,0.0987,775
+Cluster 1,2001,Kiribati,0.1233,1621
+Cluster 1,2001,"Micronesia, Fed. Sts.",0.0845,1045
+Cluster 1,2001,Nauru,0.1428,2305
+Cluster 1,2001,Palau,0.08,2431
+Cluster 1,2001,Post-demographic dividend,0.1005,2557
+Cluster 1,2001,Sierra Leone,0.1097,2755
+Cluster 1,2001,Switzerland,0.1023,523
+Cluster 1,2002,Cuba,0.0711,722
+Cluster 1,2002,France,0.1002,1028
+Cluster 1,2002,Germany,0.1012,776
+Cluster 1,2002,Kiribati,0.11900000000000001,1622
+Cluster 1,2002,"Micronesia, Fed. Sts.",0.079,1046
+Cluster 1,2002,Nauru,0.1557,2306
+Cluster 1,2002,Palau,0.0807,2432
+Cluster 1,2002,Post-demographic dividend,0.1047,2558
+Cluster 1,2002,Sierra Leone,0.1142,2756
+Cluster 1,2002,Switzerland,0.1064,524
+Cluster 1,2003,Cuba,0.071,723
+Cluster 1,2003,France,0.1008,1029
+Cluster 1,2003,Germany,0.1034,777
+Cluster 1,2003,Kiribati,0.1067,1623
+Cluster 1,2003,"Micronesia, Fed. Sts.",0.0957,1047
+Cluster 1,2003,Nauru,0.1441,2307
+Cluster 1,2003,Palau,0.0908,2433
+Cluster 1,2003,Post-demographic dividend,0.1065,2559
+Cluster 1,2003,Sierra Leone,0.1083,2757
+Cluster 1,2003,Switzerland,0.1094,525
+Cluster 1,2004,Cuba,0.0683,724
+Cluster 1,2004,France,0.1016,1030
+Cluster 1,2004,Germany,0.1008,778
+Cluster 1,2004,Kiribati,0.1242,1624
+Cluster 1,2004,"Micronesia, Fed. Sts.",0.1203,1048
+Cluster 1,2004,Nauru,0.1162,2308
+Cluster 1,2004,Palau,0.1004,2434
+Cluster 1,2004,Post-demographic dividend,0.1059,2560
+Cluster 1,2004,Sierra Leone,0.1096,2758
+Cluster 1,2004,Switzerland,0.11,526
+Cluster 1,2005,Cuba,0.0876,725
+Cluster 1,2005,France,0.1021,1031
+Cluster 1,2005,Germany,0.1023,779
+Cluster 1,2005,Kiribati,0.1151,1625
+Cluster 1,2005,"Micronesia, Fed. Sts.",0.1773,1049
+Cluster 1,2005,Nauru,0.1257,2309
+Cluster 1,2005,Palau,0.0934,2435
+Cluster 1,2005,Post-demographic dividend,0.1067,2561
+Cluster 1,2005,Sierra Leone,0.1104,2759
+Cluster 1,2005,Switzerland,0.1082,527
+Cluster 1,2006,Cuba,0.0827,726
+Cluster 1,2006,France,0.10400000000000001,1032
+Cluster 1,2006,Germany,0.1012,780
+Cluster 1,2006,Kiribati,0.1158,1626
+Cluster 1,2006,"Micronesia, Fed. Sts.",0.1074,1050
+Cluster 1,2006,Nauru,0.1436,2310
+Cluster 1,2006,Palau,0.0972,2436
+Cluster 1,2006,Post-demographic dividend,0.1075,2562
+Cluster 1,2006,Sierra Leone,0.1039,2760
+Cluster 1,2006,Switzerland,0.1021,528
+Cluster 1,2007,Cuba,0.1097,727
+Cluster 1,2007,France,0.1033,1033
+Cluster 1,2007,Germany,0.0997,781
+Cluster 1,2007,Kiribati,0.1135,1627
+Cluster 1,2007,"Micronesia, Fed. Sts.",0.1106,1051
+Cluster 1,2007,Nauru,0.2548,2311
+Cluster 1,2007,Palau,0.0996,2437
+Cluster 1,2007,Post-demographic dividend,0.1074,2563
+Cluster 1,2007,Sierra Leone,0.1004,2761
+Cluster 1,2007,Switzerland,0.1002,529
+Cluster 1,2008,Cuba,0.1131,728
+Cluster 1,2008,France,0.1051,1034
+Cluster 1,2008,Germany,0.1016,782
+Cluster 1,2008,Kiribati,0.1408,1628
+Cluster 1,2008,"Micronesia, Fed. Sts.",0.1199,1052
+Cluster 1,2008,Nauru,0.195,2312
+Cluster 1,2008,Palau,0.095,2438
+Cluster 1,2008,Post-demographic dividend,0.1098,2564
+Cluster 1,2008,Sierra Leone,0.0987,2762
+Cluster 1,2008,Switzerland,0.1015,530
+Cluster 1,2009,Cuba,0.1229,729
+Cluster 1,2009,France,0.113,1035
+Cluster 1,2009,Germany,0.1114,783
+Cluster 1,2009,Kiribati,0.1344,1629
+Cluster 1,2009,"Micronesia, Fed. Sts.",0.1255,1053
+Cluster 1,2009,Nauru,0.1038,2313
+Cluster 1,2009,Palau,0.1036,2439
+Cluster 1,2009,Post-demographic dividend,0.1195,2565
+Cluster 1,2009,Sierra Leone,0.111,2763
+Cluster 1,2009,Switzerland,0.1081,531
+Cluster 1,2010,Cuba,0.1069,730
+Cluster 1,2010,France,0.1124,1036
+Cluster 1,2010,Germany,0.1101,784
+Cluster 1,2010,Kiribati,0.0921,1630
+Cluster 1,2010,"Micronesia, Fed. Sts.",0.1311,1054
+Cluster 1,2010,Nauru,0.1043,2314
+Cluster 1,2010,Palau,0.1161,2440
+Cluster 1,2010,Post-demographic dividend,0.1191,2566
+Cluster 1,2010,Sierra Leone,0.1094,2764
+Cluster 1,2010,Switzerland,0.107,532
+Cluster 1,2011,Cuba,0.1131,731
+Cluster 1,2011,France,0.11199999999999999,1037
+Cluster 1,2011,Germany,0.1072,785
+Cluster 1,2011,Kiribati,0.0858,1631
+Cluster 1,2011,"Micronesia, Fed. Sts.",0.131,1055
+Cluster 1,2011,Nauru,0.0818,2315
+Cluster 1,2011,Palau,0.1082,2441
+Cluster 1,2011,Post-demographic dividend,0.1199,2567
+Cluster 1,2011,Sierra Leone,0.1328,2765
+Cluster 1,2011,Switzerland,0.1077,533
+Cluster 1,2012,Cuba,0.09300000000000001,732
+Cluster 1,2012,France,0.1132,1038
+Cluster 1,2012,Germany,0.1078,786
+Cluster 1,2012,Kiribati,0.086,1632
+Cluster 1,2012,"Micronesia, Fed. Sts.",0.1231,1056
+Cluster 1,2012,Nauru,0.0745,2316
+Cluster 1,2012,Palau,0.1142,2442
+Cluster 1,2012,Post-demographic dividend,0.1214,2568
+Cluster 1,2012,Sierra Leone,0.1059,2766
+Cluster 1,2012,Switzerland,0.1106,534
+Cluster 1,2013,Cuba,0.1043,733
+Cluster 1,2013,France,0.1144,1039
+Cluster 1,2013,Germany,0.1093,787
+Cluster 1,2013,Kiribati,0.0946,1633
+Cluster 1,2013,"Micronesia, Fed. Sts.",0.1218,1057
+Cluster 1,2013,Nauru,0.0843,2317
+Cluster 1,2013,Palau,0.1201,2443
+Cluster 1,2013,Post-demographic dividend,0.1228,2569
+Cluster 1,2013,Sierra Leone,0.1157,2767
+Cluster 1,2013,Switzerland,0.1131,535
+Cluster 1,2014,Cuba,0.1214,734
+Cluster 1,2014,France,0.1157,1040
+Cluster 1,2014,Germany,0.1096,788
+Cluster 1,2014,Kiribati,0.0994,1634
+Cluster 1,2014,"Micronesia, Fed. Sts.",0.11800000000000001,1058
+Cluster 1,2014,Nauru,0.0909,2318
+Cluster 1,2014,Palau,0.1202,2444
+Cluster 1,2014,Post-demographic dividend,0.1244,2570
+Cluster 1,2014,Sierra Leone,0.1973,2768
+Cluster 1,2014,Switzerland,0.1149,536
+Cluster 1,2015,Cuba,0.1281,735
+Cluster 1,2015,France,0.1146,1041
+Cluster 1,2015,Germany,0.1109,789
+Cluster 1,2015,Kiribati,0.0799,1635
+Cluster 1,2015,"Micronesia, Fed. Sts.",0.1253,1059
+Cluster 1,2015,Nauru,0.1325,2319
+Cluster 1,2015,Palau,0.1089,2445
+Cluster 1,2015,Post-demographic dividend,0.1285,2571
+Cluster 1,2015,Sierra Leone,0.2041,2769
+Cluster 1,2015,Switzerland,0.1188,537
+Cluster 1,2016,Cuba,0.1222,736
+Cluster 1,2016,France,0.1148,1042
+Cluster 1,2016,Germany,0.1113,790
+Cluster 1,2016,Kiribati,0.0932,1636
+Cluster 1,2016,"Micronesia, Fed. Sts.",0.1259,1060
+Cluster 1,2016,Nauru,0.1386,2320
+Cluster 1,2016,Palau,0.1184,2446
+Cluster 1,2016,Post-demographic dividend,0.1303,2572
+Cluster 1,2016,Sierra Leone,0.1653,2770
+Cluster 1,2016,Switzerland,0.1222,538
+Cluster 1,2017,Cuba,0.1171,737
+Cluster 1,2017,France,0.1131,1043
+Cluster 1,2017,Germany,0.1125,791
+Cluster 1,2017,Kiribati,0.1076,1637
+Cluster 1,2017,"Micronesia, Fed. Sts.",0.1235,1061
+Cluster 1,2017,Nauru,0.1102,2321
+Cluster 1,2017,Palau,0.1196,2447
+Cluster 1,2017,Post-demographic dividend,0.1297,2573
+Cluster 1,2017,Sierra Leone,0.1342,2771
+Cluster 1,2017,Switzerland,0.1235,539
+Cluster 2,2000,Afghanistan,0.0926,0
+Cluster 2,2000,Andorra,0.0935,36
+Cluster 2,2000,Argentina,0.0847,72
+Cluster 2,2000,Armenia,0.042,90
+Cluster 2,2000,Australia,0.0761,126
+Cluster 2,2000,Austria,0.092,144
+Cluster 2,2000,Barbados,0.0533,414
+Cluster 2,2000,Belgium,0.0794,198
+Cluster 2,2000,Bosnia and Herzegovina,0.0767,324
+Cluster 2,2000,Brazil,0.0833,396
+Cluster 2,2000,Bulgaria,0.0587,270
+Cluster 2,2000,Burundi,0.0618,180
+Cluster 2,2000,Cambodia,0.0654,1602
+Cluster 2,2000,Canada,0.0828,504
+Cluster 2,2000,Chile,0.0704,540
+Cluster 2,2000,Colombia,0.0565,648
+Cluster 2,2000,Comoros,0.1224,666
+Cluster 2,2000,Costa Rica,0.0659,702
+Cluster 2,2000,Croatia,0.0766,1296
+Cluster 2,2000,Cyprus,0.0531,738
+Cluster 2,2000,Czech Republic,0.0572,756
+Cluster 2,2000,Denmark,0.081,828
+Cluster 2,2000,El Salvador,0.0892,2772
+Cluster 2,2000,Eswatini,0.0461,2934
+Cluster 2,2000,Finland,0.0684,990
+Cluster 2,2000,Georgia,0.07400000000000001,1098
+Cluster 2,2000,Greece,0.0835,1206
+Cluster 2,2000,Guatemala,0.0569,1242
+Cluster 2,2000,Guinea-Bissau,0.0771,1170
+Cluster 2,2000,Haiti,0.0688,1314
+Cluster 2,2000,Honduras,0.0642,1278
+Cluster 2,2000,Hungary,0.0676,1332
+Cluster 2,2000,Iceland,0.0895,1440
+Cluster 2,2000,Ireland,0.0591,1386
+Cluster 2,2000,Israel,0.0681,1458
+Cluster 2,2000,Italy,0.0758,1476
+Cluster 2,2000,Japan,0.0715,1530
+Cluster 2,2000,Jordan,0.0963,1512
+Cluster 2,2000,Kyrgyz Republic,0.0441,1584
+Cluster 2,2000,Lebanon,0.1084,1710
+Cluster 2,2000,Lesotho,0.0586,1782
+Cluster 2,2000,Liberia,0.0402,1728
+Cluster 2,2000,Lithuania,0.0619,1818
+Cluster 2,2000,Luxembourg,0.059000000000000004,1836
+Cluster 2,2000,Malawi,0.0335,2142
+Cluster 2,2000,Maldives,0.0774,1944
+Cluster 2,2000,Malta,0.066,2034
+Cluster 2,2000,Moldova,0.0494,1908
+Cluster 2,2000,Namibia,0.0975,2178
+Cluster 2,2000,Netherlands,0.0771,2250
+Cluster 2,2000,New Zealand,0.0747,2322
+Cluster 2,2000,Nicaragua,0.0524,2232
+Cluster 2,2000,Niger,0.07200000000000001,2196
+Cluster 2,2000,North Macedonia,0.0887,1998
+Cluster 2,2000,Norway,0.0771,2268
+Cluster 2,2000,Panama,0.0705,2376
+Cluster 2,2000,Poland,0.053,2466
+Cluster 2,2000,Portugal,0.0837,2502
+Cluster 2,2000,Rwanda,0.0426,2628
+Cluster 2,2000,Sao Tome and Principe,0.1051,2844
+Cluster 2,2000,Serbia,0.065,2808
+Cluster 2,2000,Slovak Republic,0.0531,2880
+Cluster 2,2000,Slovenia,0.0778,2898
+Cluster 2,2000,Solomon Islands,0.0525,2736
+Cluster 2,2000,South Africa,0.0744,3384
+Cluster 2,2000,Spain,0.0682,936
+Cluster 2,2000,Sweden,0.07400000000000001,2916
+Cluster 2,2000,Turkmenistan,0.0689,3042
+Cluster 2,2000,Uganda,0.0756,3186
+Cluster 2,2000,Ukraine,0.0531,3204
+Cluster 2,2000,United Kingdom,0.0597,1080
+Cluster 2,2000,Uruguay,0.1001,3222
+Cluster 2,2000,"Venezuela, RB",0.0733,3294
+Cluster 2,2001,Afghanistan,0.094,1
+Cluster 2,2001,Andorra,0.0936,37
+Cluster 2,2001,Argentina,0.0862,73
+Cluster 2,2001,Armenia,0.0465,91
+Cluster 2,2001,Australia,0.077,127
+Cluster 2,2001,Austria,0.0927,145
+Cluster 2,2001,Barbados,0.0553,415
+Cluster 2,2001,Belgium,0.0811,199
+Cluster 2,2001,Bosnia and Herzegovina,0.0729,325
+Cluster 2,2001,Brazil,0.0855,397
+Cluster 2,2001,Bulgaria,0.0691,271
+Cluster 2,2001,Burundi,0.064,181
+Cluster 2,2001,Cambodia,0.0701,1603
+Cluster 2,2001,Canada,0.0866,505
+Cluster 2,2001,Chile,0.0715,541
+Cluster 2,2001,Colombia,0.0596,649
+Cluster 2,2001,Comoros,0.1093,667
+Cluster 2,2001,Costa Rica,0.065,703
+Cluster 2,2001,Croatia,0.0716,1297
+Cluster 2,2001,Cyprus,0.0534,739
+Cluster 2,2001,Czech Republic,0.0589,757
+Cluster 2,2001,Denmark,0.0845,829
+Cluster 2,2001,El Salvador,0.0882,2773
+Cluster 2,2001,Eswatini,0.0514,2935
+Cluster 2,2001,Finland,0.0699,991
+Cluster 2,2001,Georgia,0.0737,1099
+Cluster 2,2001,Greece,0.083,1207
+Cluster 2,2001,Guatemala,0.064,1243
+Cluster 2,2001,Guinea-Bissau,0.0679,1171
+Cluster 2,2001,Haiti,0.066,1315
+Cluster 2,2001,Honduras,0.0608,1279
+Cluster 2,2001,Hungary,0.0682,1333
+Cluster 2,2001,Iceland,0.0882,1441
+Cluster 2,2001,Ireland,0.064,1387
+Cluster 2,2001,Israel,0.0723,1459
+Cluster 2,2001,Italy,0.0777,1477
+Cluster 2,2001,Japan,0.0736,1531
+Cluster 2,2001,Jordan,0.0989,1513
+Cluster 2,2001,Kyrgyz Republic,0.0428,1585
+Cluster 2,2001,Lebanon,0.1057,1711
+Cluster 2,2001,Lesotho,0.0637,1783
+Cluster 2,2001,Liberia,0.0325,1729
+Cluster 2,2001,Lithuania,0.0601,1819
+Cluster 2,2001,Luxembourg,0.0641,1837
+Cluster 2,2001,Malawi,0.0298,2143
+Cluster 2,2001,Maldives,0.0821,1945
+Cluster 2,2001,Malta,0.0704,2035
+Cluster 2,2001,Moldova,0.0519,1909
+Cluster 2,2001,Namibia,0.0964,2179
+Cluster 2,2001,Netherlands,0.0806,2251
+Cluster 2,2001,New Zealand,0.0758,2323
+Cluster 2,2001,Nicaragua,0.0546,2233
+Cluster 2,2001,Niger,0.0718,2197
+Cluster 2,2001,North Macedonia,0.0838,1999
+Cluster 2,2001,Norway,0.0802,2269
+Cluster 2,2001,Panama,0.0696,2377
+Cluster 2,2001,Poland,0.0568,2467
+Cluster 2,2001,Portugal,0.084,2503
+Cluster 2,2001,Rwanda,0.0391,2629
+Cluster 2,2001,Sao Tome and Principe,0.1083,2845
+Cluster 2,2001,Serbia,0.0687,2809
+Cluster 2,2001,Slovak Republic,0.0534,2881
+Cluster 2,2001,Slovenia,0.0788,2899
+Cluster 2,2001,Solomon Islands,0.0704,2737
+Cluster 2,2001,South Africa,0.0745,3385
+Cluster 2,2001,Spain,0.0678,937
+Cluster 2,2001,Sweden,0.0802,2917
+Cluster 2,2001,Turkmenistan,0.0815,3043
+Cluster 2,2001,Uganda,0.0834,3187
+Cluster 2,2001,Ukraine,0.0573,3205
+Cluster 2,2001,United Kingdom,0.0631,1081
+Cluster 2,2001,Uruguay,0.1064,3223
+Cluster 2,2001,"Venezuela, RB",0.0785,3295
+Cluster 2,2002,Afghanistan,0.0944,2
+Cluster 2,2002,Andorra,0.0912,38
+Cluster 2,2002,Argentina,0.0765,74
+Cluster 2,2002,Armenia,0.0761,92
+Cluster 2,2002,Australia,0.0789,128
+Cluster 2,2002,Austria,0.0939,146
+Cluster 2,2002,Barbados,0.0586,416
+Cluster 2,2002,Belgium,0.0826,200
+Cluster 2,2002,Bosnia and Herzegovina,0.0714,326
+Cluster 2,2002,Brazil,0.087,398
+Cluster 2,2002,Bulgaria,0.0714,272
+Cluster 2,2002,Burundi,0.0647,182
+Cluster 2,2002,Cambodia,0.0723,1604
+Cluster 2,2002,Canada,0.0889,506
+Cluster 2,2002,Chile,0.0727,542
+Cluster 2,2002,Colombia,0.0575,650
+Cluster 2,2002,Comoros,0.1096,668
+Cluster 2,2002,Costa Rica,0.069,704
+Cluster 2,2002,Croatia,0.0619,1298
+Cluster 2,2002,Cyprus,0.0562,740
+Cluster 2,2002,Czech Republic,0.062,758
+Cluster 2,2002,Denmark,0.087,830
+Cluster 2,2002,El Salvador,0.0878,2774
+Cluster 2,2002,Eswatini,0.0552,2936
+Cluster 2,2002,Finland,0.0737,992
+Cluster 2,2002,Georgia,0.0803,1100
+Cluster 2,2002,Greece,0.0838,1208
+Cluster 2,2002,Guatemala,0.0634,1244
+Cluster 2,2002,Guinea-Bissau,0.0633,1172
+Cluster 2,2002,Haiti,0.0599,1316
+Cluster 2,2002,Honduras,0.0643,1280
+Cluster 2,2002,Hungary,0.0711,1334
+Cluster 2,2002,Iceland,0.0949,1442
+Cluster 2,2002,Ireland,0.0667,1388
+Cluster 2,2002,Israel,0.0715,1460
+Cluster 2,2002,Italy,0.0789,1478
+Cluster 2,2002,Japan,0.0747,1532
+Cluster 2,2002,Jordan,0.0966,1514
+Cluster 2,2002,Kyrgyz Republic,0.0459,1586
+Cluster 2,2002,Lebanon,0.0929,1712
+Cluster 2,2002,Lesotho,0.0596,1784
+Cluster 2,2002,Liberia,0.0276,1730
+Cluster 2,2002,Lithuania,0.0614,1820
+Cluster 2,2002,Luxembourg,0.0674,1838
+Cluster 2,2002,Malawi,0.0378,2144
+Cluster 2,2002,Maldives,0.0878,1946
+Cluster 2,2002,Malta,0.0771,2036
+Cluster 2,2002,Moldova,0.0617,1910
+Cluster 2,2002,Namibia,0.0985,2180
+Cluster 2,2002,Netherlands,0.0865,2252
+Cluster 2,2002,New Zealand,0.079,2324
+Cluster 2,2002,Nicaragua,0.0565,2234
+Cluster 2,2002,Niger,0.0734,2198
+Cluster 2,2002,North Macedonia,0.0898,2000
+Cluster 2,2002,Norway,0.0901,2270
+Cluster 2,2002,Panama,0.071,2378
+Cluster 2,2002,Poland,0.0608,2468
+Cluster 2,2002,Portugal,0.0856,2504
+Cluster 2,2002,Rwanda,0.0367,2630
+Cluster 2,2002,Sao Tome and Principe,0.1067,2846
+Cluster 2,2002,Serbia,0.0807,2810
+Cluster 2,2002,Slovak Republic,0.0552,2882
+Cluster 2,2002,Slovenia,0.08,2900
+Cluster 2,2002,Solomon Islands,0.1077,2738
+Cluster 2,2002,South Africa,0.0688,3386
+Cluster 2,2002,Spain,0.068,938
+Cluster 2,2002,Sweden,0.0835,2918
+Cluster 2,2002,Turkmenistan,0.0702,3044
+Cluster 2,2002,Uganda,0.0875,3188
+Cluster 2,2002,Ukraine,0.0599,3206
+Cluster 2,2002,United Kingdom,0.0657,1082
+Cluster 2,2002,Uruguay,0.1052,3224
+Cluster 2,2002,"Venezuela, RB",0.0772,3296
+Cluster 2,2003,Afghanistan,0.0894,3
+Cluster 2,2003,Andorra,0.0846,39
+Cluster 2,2003,Argentina,0.0711,75
+Cluster 2,2003,Armenia,0.0718,93
+Cluster 2,2003,Australia,0.079,129
+Cluster 2,2003,Austria,0.0955,147
+Cluster 2,2003,Barbados,0.0668,417
+Cluster 2,2003,Belgium,0.0911,201
+Cluster 2,2003,Bosnia and Herzegovina,0.0804,327
+Cluster 2,2003,Brazil,0.08199999999999999,399
+Cluster 2,2003,Bulgaria,0.0726,273
+Cluster 2,2003,Burundi,0.0631,183
+Cluster 2,2003,Cambodia,0.0695,1605
+Cluster 2,2003,Canada,0.0904,507
+Cluster 2,2003,Chile,0.0733,543
+Cluster 2,2003,Colombia,0.0579,651
+Cluster 2,2003,Comoros,0.1033,669
+Cluster 2,2003,Costa Rica,0.07,705
+Cluster 2,2003,Croatia,0.0636,1299
+Cluster 2,2003,Cyprus,0.0564,741
+Cluster 2,2003,Czech Republic,0.0655,759
+Cluster 2,2003,Denmark,0.08900000000000001,831
+Cluster 2,2003,El Salvador,0.0841,2775
+Cluster 2,2003,Eswatini,0.0638,2937
+Cluster 2,2003,Finland,0.0767,993
+Cluster 2,2003,Georgia,0.0826,1101
+Cluster 2,2003,Greece,0.0836,1209
+Cluster 2,2003,Guatemala,0.0648,1245
+Cluster 2,2003,Guinea-Bissau,0.0665,1173
+Cluster 2,2003,Haiti,0.0577,1317
+Cluster 2,2003,Honduras,0.0695,1281
+Cluster 2,2003,Hungary,0.0812,1335
+Cluster 2,2003,Iceland,0.0998,1443
+Cluster 2,2003,Ireland,0.0701,1389
+Cluster 2,2003,Israel,0.071,1461
+Cluster 2,2003,Italy,0.0786,1479
+Cluster 2,2003,Japan,0.0761,1533
+Cluster 2,2003,Jordan,0.0912,1515
+Cluster 2,2003,Kyrgyz Republic,0.0582,1587
+Cluster 2,2003,Lebanon,0.0868,1713
+Cluster 2,2003,Lesotho,0.0562,1785
+Cluster 2,2003,Liberia,0.0314,1731
+Cluster 2,2003,Lithuania,0.0618,1821
+Cluster 2,2003,Luxembourg,0.0697,1839
+Cluster 2,2003,Malawi,0.0467,2145
+Cluster 2,2003,Maldives,0.0678,1947
+Cluster 2,2003,Malta,0.0794,2037
+Cluster 2,2003,Moldova,0.0585,1911
+Cluster 2,2003,Namibia,0.0999,2181
+Cluster 2,2003,Netherlands,0.0906,2253
+Cluster 2,2003,New Zealand,0.0772,2325
+Cluster 2,2003,Nicaragua,0.0529,2235
+Cluster 2,2003,Niger,0.07,2199
+Cluster 2,2003,North Macedonia,0.0901,2001
+Cluster 2,2003,Norway,0.0922,2271
+Cluster 2,2003,Panama,0.0675,2379
+Cluster 2,2003,Poland,0.0596,2469
+Cluster 2,2003,Portugal,0.08900000000000001,2505
+Cluster 2,2003,Rwanda,0.0802,2631
+Cluster 2,2003,Sao Tome and Principe,0.1262,2847
+Cluster 2,2003,Serbia,0.0814,2811
+Cluster 2,2003,Slovak Republic,0.0546,2883
+Cluster 2,2003,Slovenia,0.0808,2901
+Cluster 2,2003,Solomon Islands,0.0793,2739
+Cluster 2,2003,South Africa,0.0691,3387
+Cluster 2,2003,Spain,0.0753,939
+Cluster 2,2003,Sweden,0.0845,2919
+Cluster 2,2003,Turkmenistan,0.0851,3045
+Cluster 2,2003,Uganda,0.0865,3189
+Cluster 2,2003,Ukraine,0.0655,3207
+Cluster 2,2003,United Kingdom,0.0683,1083
+Cluster 2,2003,Uruguay,0.1045,3225
+Cluster 2,2003,"Venezuela, RB",0.0751,3297
+Cluster 2,2004,Afghanistan,0.0981,4
+Cluster 2,2004,Andorra,0.0821,40
+Cluster 2,2004,Argentina,0.0723,76
+Cluster 2,2004,Armenia,0.0606,94
+Cluster 2,2004,Australia,0.0811,130
+Cluster 2,2004,Austria,0.0971,148
+Cluster 2,2004,Barbados,0.0732,418
+Cluster 2,2004,Belgium,0.0913,202
+Cluster 2,2004,Bosnia and Herzegovina,0.0906,328
+Cluster 2,2004,Brazil,0.0814,400
+Cluster 2,2004,Bulgaria,0.0694,274
+Cluster 2,2004,Burundi,0.077,184
+Cluster 2,2004,Cambodia,0.0709,1606
+Cluster 2,2004,Canada,0.091,508
+Cluster 2,2004,Chile,0.069,544
+Cluster 2,2004,Colombia,0.0582,652
+Cluster 2,2004,Comoros,0.1032,670
+Cluster 2,2004,Costa Rica,0.0666,706
+Cluster 2,2004,Croatia,0.0658,1300
+Cluster 2,2004,Cyprus,0.0541,742
+Cluster 2,2004,Czech Republic,0.0639,760
+Cluster 2,2004,Denmark,0.0901,832
+Cluster 2,2004,El Salvador,0.085,2776
+Cluster 2,2004,Eswatini,0.0681,2938
+Cluster 2,2004,Finland,0.078,994
+Cluster 2,2004,Georgia,0.0832,1102
+Cluster 2,2004,Greece,0.0815,1210
+Cluster 2,2004,Guatemala,0.0653,1246
+Cluster 2,2004,Guinea-Bissau,0.0805,1174
+Cluster 2,2004,Haiti,0.0585,1318
+Cluster 2,2004,Honduras,0.07,1282
+Cluster 2,2004,Hungary,0.0776,1336
+Cluster 2,2004,Iceland,0.0946,1444
+Cluster 2,2004,Ireland,0.0723,1390
+Cluster 2,2004,Israel,0.0703,1462
+Cluster 2,2004,Italy,0.0819,1480
+Cluster 2,2004,Japan,0.0766,1534
+Cluster 2,2004,Jordan,0.0902,1516
+Cluster 2,2004,Kyrgyz Republic,0.062,1588
+Cluster 2,2004,Lebanon,0.08,1714
+Cluster 2,2004,Lesotho,0.0563,1786
+Cluster 2,2004,Liberia,0.0777,1732
+Cluster 2,2004,Lithuania,0.0551,1822
+Cluster 2,2004,Luxembourg,0.0735,1840
+Cluster 2,2004,Malawi,0.0573,2146
+Cluster 2,2004,Maldives,0.0748,1948
+Cluster 2,2004,Malta,0.0812,2038
+Cluster 2,2004,Moldova,0.0747,1912
+Cluster 2,2004,Namibia,0.10300000000000001,2182
+Cluster 2,2004,Netherlands,0.0911,2254
+Cluster 2,2004,New Zealand,0.079,2326
+Cluster 2,2004,Nicaragua,0.0596,2236
+Cluster 2,2004,Niger,0.0729,2200
+Cluster 2,2004,North Macedonia,0.0847,2002
+Cluster 2,2004,Norway,0.0883,2272
+Cluster 2,2004,Panama,0.0711,2380
+Cluster 2,2004,Poland,0.0587,2470
+Cluster 2,2004,Portugal,0.09300000000000001,2506
+Cluster 2,2004,Rwanda,0.0854,2632
+Cluster 2,2004,Sao Tome and Principe,0.1188,2848
+Cluster 2,2004,Serbia,0.0825,2812
+Cluster 2,2004,Slovak Republic,0.0638,2884
+Cluster 2,2004,Slovenia,0.0793,2902
+Cluster 2,2004,Solomon Islands,0.0859,2740
+Cluster 2,2004,South Africa,0.0681,3388
+Cluster 2,2004,Spain,0.0762,940
+Cluster 2,2004,Sweden,0.0825,2920
+Cluster 2,2004,Turkmenistan,0.1058,3046
+Cluster 2,2004,Uganda,0.1029,3190
+Cluster 2,2004,Ukraine,0.0617,3208
+Cluster 2,2004,United Kingdom,0.0704,1084
+Cluster 2,2004,Uruguay,0.0902,3226
+Cluster 2,2004,"Venezuela, RB",0.0678,3298
+Cluster 2,2005,Afghanistan,0.0995,5
+Cluster 2,2005,Andorra,0.0857,41
+Cluster 2,2005,Argentina,0.0761,77
+Cluster 2,2005,Armenia,0.0586,95
+Cluster 2,2005,Australia,0.0799,131
+Cluster 2,2005,Austria,0.0963,149
+Cluster 2,2005,Barbados,0.0677,419
+Cluster 2,2005,Belgium,0.0901,203
+Cluster 2,2005,Bosnia and Herzegovina,0.0905,329
+Cluster 2,2005,Brazil,0.0804,401
+Cluster 2,2005,Bulgaria,0.0694,275
+Cluster 2,2005,Burundi,0.0842,185
+Cluster 2,2005,Cambodia,0.0685,1607
+Cluster 2,2005,Canada,0.0906,509
+Cluster 2,2005,Chile,0.0659,545
+Cluster 2,2005,Colombia,0.0609,653
+Cluster 2,2005,Comoros,0.0986,671
+Cluster 2,2005,Costa Rica,0.067,707
+Cluster 2,2005,Croatia,0.0691,1301
+Cluster 2,2005,Cyprus,0.0544,743
+Cluster 2,2005,Czech Republic,0.0638,761
+Cluster 2,2005,Denmark,0.0909,833
+Cluster 2,2005,El Salvador,0.0844,2777
+Cluster 2,2005,Eswatini,0.0738,2939
+Cluster 2,2005,Finland,0.08,995
+Cluster 2,2005,Georgia,0.083,1103
+Cluster 2,2005,Greece,0.0863,1211
+Cluster 2,2005,Guatemala,0.0637,1247
+Cluster 2,2005,Guinea-Bissau,0.0768,1175
+Cluster 2,2005,Haiti,0.0551,1319
+Cluster 2,2005,Honduras,0.0768,1283
+Cluster 2,2005,Hungary,0.08,1337
+Cluster 2,2005,Iceland,0.0915,1445
+Cluster 2,2005,Ireland,0.0765,1391
+Cluster 2,2005,Israel,0.0713,1463
+Cluster 2,2005,Italy,0.0836,1481
+Cluster 2,2005,Japan,0.0778,1535
+Cluster 2,2005,Jordan,0.0886,1517
+Cluster 2,2005,Kyrgyz Republic,0.0745,1589
+Cluster 2,2005,Lebanon,0.0755,1715
+Cluster 2,2005,Lesotho,0.0507,1787
+Cluster 2,2005,Liberia,0.0885,1733
+Cluster 2,2005,Lithuania,0.0564,1823
+Cluster 2,2005,Luxembourg,0.0718,1841
+Cluster 2,2005,Malawi,0.0606,2147
+Cluster 2,2005,Maldives,0.0883,1949
+Cluster 2,2005,Malta,0.0868,2039
+Cluster 2,2005,Moldova,0.0796,1913
+Cluster 2,2005,Namibia,0.1031,2183
+Cluster 2,2005,Netherlands,0.091,2255
+Cluster 2,2005,New Zealand,0.0827,2327
+Cluster 2,2005,Nicaragua,0.0608,2237
+Cluster 2,2005,Niger,0.08199999999999999,2201
+Cluster 2,2005,North Macedonia,0.0768,2003
+Cluster 2,2005,Norway,0.0833,2273
+Cluster 2,2005,Panama,0.062,2381
+Cluster 2,2005,Poland,0.0581,2471
+Cluster 2,2005,Portugal,0.0943,2507
+Cluster 2,2005,Rwanda,0.0878,2633
+Cluster 2,2005,Sao Tome and Principe,0.1152,2849
+Cluster 2,2005,Serbia,0.0828,2813
+Cluster 2,2005,Slovak Republic,0.066,2885
+Cluster 2,2005,Slovenia,0.0797,2903
+Cluster 2,2005,Solomon Islands,0.1014,2741
+Cluster 2,2005,South Africa,0.0671,3389
+Cluster 2,2005,Spain,0.0767,941
+Cluster 2,2005,Sweden,0.0827,2921
+Cluster 2,2005,Turkmenistan,0.0956,3047
+Cluster 2,2005,Uganda,0.1136,3191
+Cluster 2,2005,Ukraine,0.0635,3209
+Cluster 2,2005,United Kingdom,0.0717,1085
+Cluster 2,2005,Uruguay,0.0843,3227
+Cluster 2,2005,"Venezuela, RB",0.0606,3299
+Cluster 2,2006,Afghanistan,0.1062,6
+Cluster 2,2006,Andorra,0.0843,42
+Cluster 2,2006,Argentina,0.0755,78
+Cluster 2,2006,Armenia,0.0585,96
+Cluster 2,2006,Australia,0.0799,132
+Cluster 2,2006,Austria,0.0953,150
+Cluster 2,2006,Barbados,0.0658,420
+Cluster 2,2006,Belgium,0.0891,204
+Cluster 2,2006,Bosnia and Herzegovina,0.0917,330
+Cluster 2,2006,Brazil,0.0826,402
+Cluster 2,2006,Bulgaria,0.0657,276
+Cluster 2,2006,Burundi,0.0994,186
+Cluster 2,2006,Cambodia,0.0612,1608
+Cluster 2,2006,Canada,0.0935,510
+Cluster 2,2006,Chile,0.0604,546
+Cluster 2,2006,Colombia,0.0635,654
+Cluster 2,2006,Comoros,0.09699999999999999,672
+Cluster 2,2006,Costa Rica,0.0697,708
+Cluster 2,2006,Croatia,0.0698,1302
+Cluster 2,2006,Cyprus,0.0546,744
+Cluster 2,2006,Czech Republic,0.062,762
+Cluster 2,2006,Denmark,0.0917,834
+Cluster 2,2006,El Salvador,0.0792,2778
+Cluster 2,2006,Eswatini,0.0783,2940
+Cluster 2,2006,Finland,0.0801,996
+Cluster 2,2006,Georgia,0.0785,1104
+Cluster 2,2006,Greece,0.0831,1212
+Cluster 2,2006,Guatemala,0.0659,1248
+Cluster 2,2006,Guinea-Bissau,0.0727,1176
+Cluster 2,2006,Haiti,0.055,1320
+Cluster 2,2006,Honduras,0.0808,1284
+Cluster 2,2006,Hungary,0.0781,1338
+Cluster 2,2006,Iceland,0.0883,1446
+Cluster 2,2006,Ireland,0.0751,1392
+Cluster 2,2006,Israel,0.0691,1464
+Cluster 2,2006,Italy,0.0846,1482
+Cluster 2,2006,Japan,0.0781,1536
+Cluster 2,2006,Jordan,0.0806,1518
+Cluster 2,2006,Kyrgyz Republic,0.0831,1590
+Cluster 2,2006,Lebanon,0.0865,1716
+Cluster 2,2006,Lesotho,0.0569,1788
+Cluster 2,2006,Liberia,0.0738,1734
+Cluster 2,2006,Lithuania,0.0584,1824
+Cluster 2,2006,Luxembourg,0.0671,1842
+Cluster 2,2006,Malawi,0.0692,2148
+Cluster 2,2006,Maldives,0.0805,1950
+Cluster 2,2006,Malta,0.0884,2040
+Cluster 2,2006,Moldova,0.0879,1914
+Cluster 2,2006,Namibia,0.1024,2184
+Cluster 2,2006,Netherlands,0.0908,2256
+Cluster 2,2006,New Zealand,0.0863,2328
+Cluster 2,2006,Nicaragua,0.0605,2238
+Cluster 2,2006,Niger,0.0828,2202
+Cluster 2,2006,North Macedonia,0.0738,2004
+Cluster 2,2006,Norway,0.0792,2274
+Cluster 2,2006,Panama,0.0655,2382
+Cluster 2,2006,Poland,0.057999999999999996,2472
+Cluster 2,2006,Portugal,0.0914,2508
+Cluster 2,2006,Rwanda,0.0907,2634
+Cluster 2,2006,Sao Tome and Principe,0.0828,2850
+Cluster 2,2006,Serbia,0.0849,2814
+Cluster 2,2006,Slovak Republic,0.0686,2886
+Cluster 2,2006,Slovenia,0.078,2904
+Cluster 2,2006,Solomon Islands,0.0928,2742
+Cluster 2,2006,South Africa,0.0659,3390
+Cluster 2,2006,Spain,0.0775,942
+Cluster 2,2006,Sweden,0.0815,2922
+Cluster 2,2006,Turkmenistan,0.0841,3048
+Cluster 2,2006,Uganda,0.1179,3192
+Cluster 2,2006,Ukraine,0.0642,3210
+Cluster 2,2006,United Kingdom,0.0731,1086
+Cluster 2,2006,Uruguay,0.0841,3228
+Cluster 2,2006,"Venezuela, RB",0.081,3300
+Cluster 2,2007,Afghanistan,0.099,7
+Cluster 2,2007,Andorra,0.0843,43
+Cluster 2,2007,Argentina,0.0761,79
+Cluster 2,2007,Armenia,0.055,97
+Cluster 2,2007,Australia,0.0807,133
+Cluster 2,2007,Austria,0.0953,151
+Cluster 2,2007,Barbados,0.0606,421
+Cluster 2,2007,Belgium,0.0895,205
+Cluster 2,2007,Bosnia and Herzegovina,0.0953,331
+Cluster 2,2007,Brazil,0.0821,403
+Cluster 2,2007,Bulgaria,0.0616,277
+Cluster 2,2007,Burundi,0.1058,187
+Cluster 2,2007,Cambodia,0.049,1609
+Cluster 2,2007,Canada,0.0944,511
+Cluster 2,2007,Chile,0.0618,547
+Cluster 2,2007,Colombia,0.0651,655
+Cluster 2,2007,Comoros,0.0934,673
+Cluster 2,2007,Costa Rica,0.0703,709
+Cluster 2,2007,Croatia,0.0747,1303
+Cluster 2,2007,Cyprus,0.0536,745
+Cluster 2,2007,Czech Republic,0.0602,763
+Cluster 2,2007,Denmark,0.0933,835
+Cluster 2,2007,El Salvador,0.0764,2779
+Cluster 2,2007,Eswatini,0.0793,2941
+Cluster 2,2007,Finland,0.0783,997
+Cluster 2,2007,Georgia,0.0764,1105
+Cluster 2,2007,Greece,0.0845,1213
+Cluster 2,2007,Guatemala,0.0636,1249
+Cluster 2,2007,Guinea-Bissau,0.0756,1177
+Cluster 2,2007,Haiti,0.059000000000000004,1321
+Cluster 2,2007,Honduras,0.0816,1285
+Cluster 2,2007,Hungary,0.0722,1339
+Cluster 2,2007,Iceland,0.0863,1447
+Cluster 2,2007,Ireland,0.078,1393
+Cluster 2,2007,Israel,0.0689,1465
+Cluster 2,2007,Italy,0.0816,1483
+Cluster 2,2007,Japan,0.0789,1537
+Cluster 2,2007,Jordan,0.083,1519
+Cluster 2,2007,Kyrgyz Republic,0.0693,1591
+Cluster 2,2007,Lebanon,0.0854,1717
+Cluster 2,2007,Lesotho,0.0677,1789
+Cluster 2,2007,Liberia,0.0928,1735
+Cluster 2,2007,Lithuania,0.0576,1825
+Cluster 2,2007,Luxembourg,0.0623,1843
+Cluster 2,2007,Malawi,0.0766,2149
+Cluster 2,2007,Maldives,0.0831,1951
+Cluster 2,2007,Malta,0.0822,2041
+Cluster 2,2007,Moldova,0.0918,1915
+Cluster 2,2007,Namibia,0.1077,2185
+Cluster 2,2007,Netherlands,0.0905,2257
+Cluster 2,2007,New Zealand,0.0832,2329
+Cluster 2,2007,Nicaragua,0.0691,2239
+Cluster 2,2007,Niger,0.0763,2203
+Cluster 2,2007,North Macedonia,0.0657,2005
+Cluster 2,2007,Norway,0.0805,2275
+Cluster 2,2007,Panama,0.0693,2383
+Cluster 2,2007,Poland,0.0587,2473
+Cluster 2,2007,Portugal,0.0907,2509
+Cluster 2,2007,Rwanda,0.0909,2635
+Cluster 2,2007,Sao Tome and Principe,0.0817,2851
+Cluster 2,2007,Serbia,0.0938,2815
+Cluster 2,2007,Slovak Republic,0.0719,2887
+Cluster 2,2007,Slovenia,0.0749,2905
+Cluster 2,2007,Solomon Islands,0.0875,2743
+Cluster 2,2007,South Africa,0.0643,3391
+Cluster 2,2007,Spain,0.0783,943
+Cluster 2,2007,Sweden,0.0806,2923
+Cluster 2,2007,Turkmenistan,0.0529,3049
+Cluster 2,2007,Uganda,0.1168,3193
+Cluster 2,2007,Ukraine,0.0602,3211
+Cluster 2,2007,United Kingdom,0.0741,1087
+Cluster 2,2007,Uruguay,0.0814,3229
+Cluster 2,2007,"Venezuela, RB",0.0778,3301
+Cluster 2,2008,Afghanistan,0.1026,8
+Cluster 2,2008,Andorra,0.0879,44
+Cluster 2,2008,Argentina,0.0767,80
+Cluster 2,2008,Armenia,0.0664,98
+Cluster 2,2008,Australia,0.0826,134
+Cluster 2,2008,Austria,0.0973,152
+Cluster 2,2008,Barbados,0.0648,422
+Cluster 2,2008,Belgium,0.0934,206
+Cluster 2,2008,Bosnia and Herzegovina,0.0969,332
+Cluster 2,2008,Brazil,0.0802,404
+Cluster 2,2008,Bulgaria,0.0629,278
+Cluster 2,2008,Burundi,0.0924,188
+Cluster 2,2008,Cambodia,0.066,1610
+Cluster 2,2008,Canada,0.096,512
+Cluster 2,2008,Chile,0.0674,548
+Cluster 2,2008,Colombia,0.0686,656
+Cluster 2,2008,Comoros,0.0898,674
+Cluster 2,2008,Costa Rica,0.0751,710
+Cluster 2,2008,Croatia,0.077,1304
+Cluster 2,2008,Cyprus,0.0602,746
+Cluster 2,2008,Czech Republic,0.0636,764
+Cluster 2,2008,Denmark,0.0951,836
+Cluster 2,2008,El Salvador,0.0766,2780
+Cluster 2,2008,Eswatini,0.0886,2942
+Cluster 2,2008,Finland,0.0809,998
+Cluster 2,2008,Georgia,0.0868,1106
+Cluster 2,2008,Greece,0.0889,1214
+Cluster 2,2008,Guatemala,0.0626,1250
+Cluster 2,2008,Guinea-Bissau,0.0728,1178
+Cluster 2,2008,Haiti,0.0602,1322
+Cluster 2,2008,Honduras,0.0862,1286
+Cluster 2,2008,Hungary,0.071,1340
+Cluster 2,2008,Iceland,0.0859,1448
+Cluster 2,2008,Ireland,0.091,1394
+Cluster 2,2008,Israel,0.0697,1466
+Cluster 2,2008,Italy,0.0856,1484
+Cluster 2,2008,Japan,0.08199999999999999,1538
+Cluster 2,2008,Jordan,0.0875,1520
+Cluster 2,2008,Kyrgyz Republic,0.0653,1592
+Cluster 2,2008,Lebanon,0.0779,1718
+Cluster 2,2008,Lesotho,0.0725,1790
+Cluster 2,2008,Liberia,0.0737,1736
+Cluster 2,2008,Lithuania,0.0629,1826
+Cluster 2,2008,Luxembourg,0.0654,1844
+Cluster 2,2008,Malawi,0.086,2150
+Cluster 2,2008,Maldives,0.1147,1952
+Cluster 2,2008,Malta,0.0796,2042
+Cluster 2,2008,Moldova,0.0912,1916
+Cluster 2,2008,Namibia,0.0992,2186
+Cluster 2,2008,Netherlands,0.0928,2258
+Cluster 2,2008,New Zealand,0.0911,2330
+Cluster 2,2008,Nicaragua,0.0701,2240
+Cluster 2,2008,Niger,0.0739,2204
+Cluster 2,2008,North Macedonia,0.0655,2006
+Cluster 2,2008,Norway,0.0796,2276
+Cluster 2,2008,Panama,0.0685,2384
+Cluster 2,2008,Poland,0.0637,2474
+Cluster 2,2008,Portugal,0.0935,2510
+Cluster 2,2008,Rwanda,0.0847,2636
+Cluster 2,2008,Sao Tome and Principe,0.0711,2852
+Cluster 2,2008,Serbia,0.0948,2816
+Cluster 2,2008,Slovak Republic,0.0697,2888
+Cluster 2,2008,Slovenia,0.0785,2906
+Cluster 2,2008,Solomon Islands,0.0807,2744
+Cluster 2,2008,South Africa,0.0655,3392
+Cluster 2,2008,Spain,0.0829,944
+Cluster 2,2008,Sweden,0.083,2924
+Cluster 2,2008,Turkmenistan,0.0591,3050
+Cluster 2,2008,Uganda,0.10400000000000001,3194
+Cluster 2,2008,Ukraine,0.055,3212
+Cluster 2,2008,United Kingdom,0.0765,1088
+Cluster 2,2008,Uruguay,0.0883,3230
+Cluster 2,2008,"Venezuela, RB",0.0641,3302
+Cluster 2,2009,Afghanistan,0.0982,9
+Cluster 2,2009,Andorra,0.0903,45
+Cluster 2,2009,Argentina,0.0901,81
+Cluster 2,2009,Armenia,0.0844,99
+Cluster 2,2009,Australia,0.0856,135
+Cluster 2,2009,Austria,0.1023,153
+Cluster 2,2009,Barbados,0.0715,423
+Cluster 2,2009,Belgium,0.1014,207
+Cluster 2,2009,Bosnia and Herzegovina,0.0902,333
+Cluster 2,2009,Brazil,0.084,405
+Cluster 2,2009,Bulgaria,0.0661,279
+Cluster 2,2009,Burundi,0.1035,189
+Cluster 2,2009,Cambodia,0.0758,1611
+Cluster 2,2009,Canada,0.1071,513
+Cluster 2,2009,Chile,0.0721,549
+Cluster 2,2009,Colombia,0.0731,657
+Cluster 2,2009,Comoros,0.0857,675
+Cluster 2,2009,Costa Rica,0.0791,711
+Cluster 2,2009,Croatia,0.0816,1305
+Cluster 2,2009,Cyprus,0.0647,747
+Cluster 2,2009,Czech Republic,0.0729,765
+Cluster 2,2009,Denmark,0.1067,837
+Cluster 2,2009,El Salvador,0.084,2781
+Cluster 2,2009,Eswatini,0.0863,2943
+Cluster 2,2009,Finland,0.0888,999
+Cluster 2,2009,Georgia,0.0984,1107
+Cluster 2,2009,Greece,0.0947,1215
+Cluster 2,2009,Guatemala,0.0638,1251
+Cluster 2,2009,Guinea-Bissau,0.0718,1179
+Cluster 2,2009,Haiti,0.0617,1323
+Cluster 2,2009,Honduras,0.0894,1287
+Cluster 2,2009,Hungary,0.0725,1341
+Cluster 2,2009,Iceland,0.0887,1449
+Cluster 2,2009,Ireland,0.1049,1395
+Cluster 2,2009,Israel,0.0707,1467
+Cluster 2,2009,Italy,0.0898,1485
+Cluster 2,2009,Japan,0.0906,1539
+Cluster 2,2009,Jordan,0.095,1521
+Cluster 2,2009,Kyrgyz Republic,0.069,1593
+Cluster 2,2009,Lebanon,0.0699,1719
+Cluster 2,2009,Lesotho,0.0838,1791
+Cluster 2,2009,Liberia,0.0942,1737
+Cluster 2,2009,Lithuania,0.0736,1827
+Cluster 2,2009,Luxembourg,0.0734,1845
+Cluster 2,2009,Malawi,0.0827,2151
+Cluster 2,2009,Maldives,0.1009,1953
+Cluster 2,2009,Malta,0.0808,2043
+Cluster 2,2009,Moldova,0.114,1917
+Cluster 2,2009,Namibia,0.0904,2187
+Cluster 2,2009,Netherlands,0.0999,2259
+Cluster 2,2009,New Zealand,0.0962,2331
+Cluster 2,2009,Nicaragua,0.0751,2241
+Cluster 2,2009,Niger,0.0794,2205
+Cluster 2,2009,North Macedonia,0.0653,2007
+Cluster 2,2009,Norway,0.0906,2277
+Cluster 2,2009,Panama,0.0699,2385
+Cluster 2,2009,Poland,0.0659,2475
+Cluster 2,2009,Portugal,0.0988,2511
+Cluster 2,2009,Rwanda,0.0845,2637
+Cluster 2,2009,Sao Tome and Principe,0.0719,2853
+Cluster 2,2009,Serbia,0.0935,2817
+Cluster 2,2009,Slovak Republic,0.0796,2889
+Cluster 2,2009,Slovenia,0.0856,2907
+Cluster 2,2009,Solomon Islands,0.079,2745
+Cluster 2,2009,South Africa,0.0711,3393
+Cluster 2,2009,Spain,0.0898,945
+Cluster 2,2009,Sweden,0.0893,2925
+Cluster 2,2009,Turkmenistan,0.0481,3051
+Cluster 2,2009,Uganda,0.0974,3195
+Cluster 2,2009,Ukraine,0.0661,3213
+Cluster 2,2009,United Kingdom,0.0848,1089
+Cluster 2,2009,Uruguay,0.0864,3231
+Cluster 2,2009,"Venezuela, RB",0.0755,3303
+Cluster 2,2010,Afghanistan,0.0857,10
+Cluster 2,2010,Andorra,0.0945,46
+Cluster 2,2010,Argentina,0.0861,82
+Cluster 2,2010,Armenia,0.0924,100
+Cluster 2,2010,Australia,0.0843,136
+Cluster 2,2010,Austria,0.1022,154
+Cluster 2,2010,Barbados,0.0677,424
+Cluster 2,2010,Belgium,0.0997,208
+Cluster 2,2010,Bosnia and Herzegovina,0.0902,334
+Cluster 2,2010,Brazil,0.0795,406
+Cluster 2,2010,Bulgaria,0.0711,280
+Cluster 2,2010,Burundi,0.1128,190
+Cluster 2,2010,Cambodia,0.0691,1612
+Cluster 2,2010,Canada,0.1068,514
+Cluster 2,2010,Chile,0.0677,550
+Cluster 2,2010,Colombia,0.0708,658
+Cluster 2,2010,Comoros,0.0851,676
+Cluster 2,2010,Costa Rica,0.0811,712
+Cluster 2,2010,Croatia,0.081,1306
+Cluster 2,2010,Cyprus,0.0628,748
+Cluster 2,2010,Czech Republic,0.0693,766
+Cluster 2,2010,Denmark,0.1033,838
+Cluster 2,2010,El Salvador,0.0824,2782
+Cluster 2,2010,Eswatini,0.0859,2944
+Cluster 2,2010,Finland,0.0888,1000
+Cluster 2,2010,Georgia,0.0955,1108
+Cluster 2,2010,Greece,0.0956,1216
+Cluster 2,2010,Guatemala,0.0615,1252
+Cluster 2,2010,Guinea-Bissau,0.0665,1180
+Cluster 2,2010,Haiti,0.0815,1324
+Cluster 2,2010,Honduras,0.0872,1288
+Cluster 2,2010,Hungary,0.0752,1342
+Cluster 2,2010,Iceland,0.0853,1450
+Cluster 2,2010,Ireland,0.105,1396
+Cluster 2,2010,Israel,0.0702,1468
+Cluster 2,2010,Italy,0.0895,1486
+Cluster 2,2010,Japan,0.0916,1540
+Cluster 2,2010,Jordan,0.0839,1522
+Cluster 2,2010,Kyrgyz Republic,0.0695,1594
+Cluster 2,2010,Lebanon,0.0744,1720
+Cluster 2,2010,Lesotho,0.0762,1792
+Cluster 2,2010,Liberia,0.0879,1738
+Cluster 2,2010,Lithuania,0.0682,1828
+Cluster 2,2010,Luxembourg,0.0703,1846
+Cluster 2,2010,Malawi,0.0724,2152
+Cluster 2,2010,Maldives,0.0849,1954
+Cluster 2,2010,Malta,0.0821,2044
+Cluster 2,2010,Moldova,0.1013,1918
+Cluster 2,2010,Namibia,0.0972,2188
+Cluster 2,2010,Netherlands,0.1016,2260
+Cluster 2,2010,New Zealand,0.0959,2332
+Cluster 2,2010,Nicaragua,0.0705,2242
+Cluster 2,2010,Niger,0.0687,2206
+Cluster 2,2010,North Macedonia,0.0671,2008
+Cluster 2,2010,Norway,0.08900000000000001,2278
+Cluster 2,2010,Panama,0.0717,2386
+Cluster 2,2010,Poland,0.0642,2476
+Cluster 2,2010,Portugal,0.0982,2512
+Cluster 2,2010,Rwanda,0.0864,2638
+Cluster 2,2010,Sao Tome and Principe,0.0685,2854
+Cluster 2,2010,Serbia,0.0953,2818
+Cluster 2,2010,Slovak Republic,0.078,2890
+Cluster 2,2010,Slovenia,0.0859,2908
+Cluster 2,2010,Solomon Islands,0.0726,2746
+Cluster 2,2010,South Africa,0.0742,3394
+Cluster 2,2010,Spain,0.0901,946
+Cluster 2,2010,Sweden,0.0848,2926
+Cluster 2,2010,Turkmenistan,0.05,3052
+Cluster 2,2010,Uganda,0.1052,3196
+Cluster 2,2010,Ukraine,0.0681,3214
+Cluster 2,2010,United Kingdom,0.0843,1090
+Cluster 2,2010,Uruguay,0.0859,3232
+Cluster 2,2010,"Venezuela, RB",0.0683,3304
+Cluster 2,2011,Afghanistan,0.0856,11
+Cluster 2,2011,Andorra,0.0977,47
+Cluster 2,2011,Argentina,0.084,83
+Cluster 2,2011,Armenia,0.0938,101
+Cluster 2,2011,Australia,0.0854,137
+Cluster 2,2011,Austria,0.1003,155
+Cluster 2,2011,Barbados,0.069,425
+Cluster 2,2011,Belgium,0.1014,209
+Cluster 2,2011,Bosnia and Herzegovina,0.0918,335
+Cluster 2,2011,Brazil,0.0779,407
+Cluster 2,2011,Bulgaria,0.0713,281
+Cluster 2,2011,Burundi,0.1007,191
+Cluster 2,2011,Cambodia,0.075,1613
+Cluster 2,2011,Canada,0.1035,515
+Cluster 2,2011,Chile,0.0677,551
+Cluster 2,2011,Colombia,0.0679,659
+Cluster 2,2011,Comoros,0.091,677
+Cluster 2,2011,Costa Rica,0.0822,713
+Cluster 2,2011,Croatia,0.0779,1307
+Cluster 2,2011,Cyprus,0.0659,749
+Cluster 2,2011,Czech Republic,0.0698,767
+Cluster 2,2011,Denmark,0.1015,839
+Cluster 2,2011,El Salvador,0.0814,2783
+Cluster 2,2011,Eswatini,0.0847,2945
+Cluster 2,2011,Finland,0.0896,1001
+Cluster 2,2011,Georgia,0.0839,1109
+Cluster 2,2011,Greece,0.091,1217
+Cluster 2,2011,Guatemala,0.0594,1253
+Cluster 2,2011,Guinea-Bissau,0.0603,1181
+Cluster 2,2011,Haiti,0.1023,1325
+Cluster 2,2011,Honduras,0.0879,1289
+Cluster 2,2011,Hungary,0.0754,1343
+Cluster 2,2011,Iceland,0.0825,1451
+Cluster 2,2011,Ireland,0.1069,1397
+Cluster 2,2011,Israel,0.0697,1469
+Cluster 2,2011,Italy,0.0883,1487
+Cluster 2,2011,Japan,0.1062,1541
+Cluster 2,2011,Jordan,0.083,1523
+Cluster 2,2011,Kyrgyz Republic,0.0711,1595
+Cluster 2,2011,Lebanon,0.0815,1721
+Cluster 2,2011,Lesotho,0.08800000000000001,1793
+Cluster 2,2011,Liberia,0.0923,1739
+Cluster 2,2011,Lithuania,0.065,1829
+Cluster 2,2011,Luxembourg,0.0611,1847
+Cluster 2,2011,Malawi,0.0749,2153
+Cluster 2,2011,Maldives,0.0792,1955
+Cluster 2,2011,Malta,0.0856,2045
+Cluster 2,2011,Moldova,0.091,1919
+Cluster 2,2011,Namibia,0.0982,2189
+Cluster 2,2011,Netherlands,0.1023,2261
+Cluster 2,2011,New Zealand,0.0951,2333
+Cluster 2,2011,Nicaragua,0.0742,2243
+Cluster 2,2011,Niger,0.0665,2207
+Cluster 2,2011,North Macedonia,0.0652,2009
+Cluster 2,2011,Norway,0.0878,2279
+Cluster 2,2011,Panama,0.0662,2387
+Cluster 2,2011,Poland,0.0623,2477
+Cluster 2,2011,Portugal,0.0953,2513
+Cluster 2,2011,Rwanda,0.0836,2639
+Cluster 2,2011,Sao Tome and Principe,0.0676,2855
+Cluster 2,2011,Serbia,0.0911,2819
+Cluster 2,2011,Slovak Republic,0.0742,2891
+Cluster 2,2011,Slovenia,0.0857,2909
+Cluster 2,2011,Solomon Islands,0.071,2747
+Cluster 2,2011,South Africa,0.075,3395
+Cluster 2,2011,Spain,0.0908,947
+Cluster 2,2011,Sweden,0.1067,2927
+Cluster 2,2011,Turkmenistan,0.049,3053
+Cluster 2,2011,Uganda,0.0892,3197
+Cluster 2,2011,Ukraine,0.0682,3215
+Cluster 2,2011,United Kingdom,0.0838,1091
+Cluster 2,2011,Uruguay,0.0864,3233
+Cluster 2,2011,"Venezuela, RB",0.0718,3305
+Cluster 2,2012,Afghanistan,0.079,12
+Cluster 2,2012,Andorra,0.1005,48
+Cluster 2,2012,Argentina,0.0846,84
+Cluster 2,2012,Armenia,0.0913,102
+Cluster 2,2012,Australia,0.0868,138
+Cluster 2,2012,Austria,0.102,156
+Cluster 2,2012,Barbados,0.0778,426
+Cluster 2,2012,Belgium,0.1027,210
+Cluster 2,2012,Bosnia and Herzegovina,0.0949,336
+Cluster 2,2012,Brazil,0.0774,408
+Cluster 2,2012,Bulgaria,0.0759,282
+Cluster 2,2012,Burundi,0.0853,192
+Cluster 2,2012,Cambodia,0.0726,1614
+Cluster 2,2012,Canada,0.1035,516
+Cluster 2,2012,Chile,0.0702,552
+Cluster 2,2012,Colombia,0.0675,660
+Cluster 2,2012,Comoros,0.0793,678
+Cluster 2,2012,Costa Rica,0.0791,714
+Cluster 2,2012,Croatia,0.0779,1308
+Cluster 2,2012,Cyprus,0.0669,750
+Cluster 2,2012,Czech Republic,0.0703,768
+Cluster 2,2012,Denmark,0.1024,840
+Cluster 2,2012,El Salvador,0.0754,2784
+Cluster 2,2012,Eswatini,0.0792,2946
+Cluster 2,2012,Finland,0.09300000000000001,1002
+Cluster 2,2012,Georgia,0.0837,1110
+Cluster 2,2012,Greece,0.0888,1218
+Cluster 2,2012,Guatemala,0.0601,1254
+Cluster 2,2012,Guinea-Bissau,0.0569,1182
+Cluster 2,2012,Haiti,0.0967,1326
+Cluster 2,2012,Honduras,0.0865,1290
+Cluster 2,2012,Hungary,0.0747,1344
+Cluster 2,2012,Iceland,0.08199999999999999,1452
+Cluster 2,2012,Ireland,0.1068,1398
+Cluster 2,2012,Israel,0.0711,1470
+Cluster 2,2012,Italy,0.0896,1488
+Cluster 2,2012,Japan,0.1079,1542
+Cluster 2,2012,Jordan,0.0788,1524
+Cluster 2,2012,Kyrgyz Republic,0.0851,1596
+Cluster 2,2012,Lebanon,0.0793,1722
+Cluster 2,2012,Lesotho,0.0858,1794
+Cluster 2,2012,Liberia,0.0859,1740
+Cluster 2,2012,Lithuania,0.0629,1830
+Cluster 2,2012,Luxembourg,0.0657,1848
+Cluster 2,2012,Malawi,0.0848,2154
+Cluster 2,2012,Maldives,0.0867,1956
+Cluster 2,2012,Malta,0.0861,2046
+Cluster 2,2012,Moldova,0.0914,1920
+Cluster 2,2012,Namibia,0.0951,2190
+Cluster 2,2012,Netherlands,0.1054,2262
+Cluster 2,2012,New Zealand,0.0965,2334
+Cluster 2,2012,Nicaragua,0.0765,2244
+Cluster 2,2012,Niger,0.0584,2208
+Cluster 2,2012,North Macedonia,0.0661,2010
+Cluster 2,2012,Norway,0.0877,2280
+Cluster 2,2012,Panama,0.0658,2388
+Cluster 2,2012,Poland,0.062,2478
+Cluster 2,2012,Portugal,0.0935,2514
+Cluster 2,2012,Rwanda,0.0835,2640
+Cluster 2,2012,Sao Tome and Principe,0.0648,2856
+Cluster 2,2012,Serbia,0.0933,2820
+Cluster 2,2012,Slovak Republic,0.0763,2892
+Cluster 2,2012,Slovenia,0.0876,2910
+Cluster 2,2012,Solomon Islands,0.0559,2748
+Cluster 2,2012,South Africa,0.0775,3396
+Cluster 2,2012,Spain,0.0907,948
+Cluster 2,2012,Sweden,0.1093,2928
+Cluster 2,2012,Turkmenistan,0.0478,3054
+Cluster 2,2012,Uganda,0.0787,3198
+Cluster 2,2012,Ukraine,0.0712,3216
+Cluster 2,2012,United Kingdom,0.0829,1092
+Cluster 2,2012,Uruguay,0.0876,3234
+Cluster 2,2012,"Venezuela, RB",0.0645,3306
+Cluster 2,2013,Afghanistan,0.0881,13
+Cluster 2,2013,Andorra,0.1011,49
+Cluster 2,2013,Argentina,0.0837,85
+Cluster 2,2013,Armenia,0.1032,103
+Cluster 2,2013,Australia,0.0876,139
+Cluster 2,2013,Austria,0.1029,157
+Cluster 2,2013,Barbados,0.076,427
+Cluster 2,2013,Belgium,0.1037,211
+Cluster 2,2013,Bosnia and Herzegovina,0.0949,337
+Cluster 2,2013,Brazil,0.0798,409
+Cluster 2,2013,Bulgaria,0.0787,283
+Cluster 2,2013,Burundi,0.0814,193
+Cluster 2,2013,Cambodia,0.071,1615
+Cluster 2,2013,Canada,0.1023,517
+Cluster 2,2013,Chile,0.0744,553
+Cluster 2,2013,Colombia,0.0726,661
+Cluster 2,2013,Comoros,0.0777,679
+Cluster 2,2013,Costa Rica,0.0787,715
+Cluster 2,2013,Croatia,0.0652,1309
+Cluster 2,2013,Cyprus,0.069,751
+Cluster 2,2013,Czech Republic,0.0781,769
+Cluster 2,2013,Denmark,0.1017,841
+Cluster 2,2013,El Salvador,0.0772,2785
+Cluster 2,2013,Eswatini,0.0752,2947
+Cluster 2,2013,Finland,0.0867,1003
+Cluster 2,2013,Georgia,0.084,1111
+Cluster 2,2013,Greece,0.0841,1219
+Cluster 2,2013,Guatemala,0.0617,1255
+Cluster 2,2013,Guinea-Bissau,0.0689,1183
+Cluster 2,2013,Haiti,0.0724,1327
+Cluster 2,2013,Honduras,0.0847,1291
+Cluster 2,2013,Hungary,0.0726,1345
+Cluster 2,2013,Iceland,0.0822,1453
+Cluster 2,2013,Ireland,0.1029,1399
+Cluster 2,2013,Israel,0.0707,1471
+Cluster 2,2013,Italy,0.0895,1489
+Cluster 2,2013,Japan,0.1079,1543
+Cluster 2,2013,Jordan,0.0725,1525
+Cluster 2,2013,Kyrgyz Republic,0.0819,1597
+Cluster 2,2013,Lebanon,0.0758,1723
+Cluster 2,2013,Lesotho,0.0901,1795
+Cluster 2,2013,Liberia,0.0819,1741
+Cluster 2,2013,Lithuania,0.0614,1831
+Cluster 2,2013,Luxembourg,0.0567,1849
+Cluster 2,2013,Malawi,0.1158,2155
+Cluster 2,2013,Maldives,0.0814,1957
+Cluster 2,2013,Malta,0.0883,2047
+Cluster 2,2013,Moldova,0.0868,1921
+Cluster 2,2013,Namibia,0.0893,2191
+Cluster 2,2013,Netherlands,0.1058,2263
+Cluster 2,2013,New Zealand,0.0937,2335
+Cluster 2,2013,Nicaragua,0.0752,2245
+Cluster 2,2013,Niger,0.0594,2209
+Cluster 2,2013,North Macedonia,0.0672,2011
+Cluster 2,2013,Norway,0.0892,2281
+Cluster 2,2013,Panama,0.0665,2389
+Cluster 2,2013,Poland,0.0638,2479
+Cluster 2,2013,Portugal,0.0909,2515
+Cluster 2,2013,Rwanda,0.0676,2641
+Cluster 2,2013,Sao Tome and Principe,0.0794,2857
+Cluster 2,2013,Serbia,0.0931,2821
+Cluster 2,2013,Slovak Republic,0.0753,2893
+Cluster 2,2013,Slovenia,0.0879,2911
+Cluster 2,2013,Solomon Islands,0.055,2749
+Cluster 2,2013,South Africa,0.0772,3397
+Cluster 2,2013,Spain,0.0902,949
+Cluster 2,2013,Sweden,0.1109,2929
+Cluster 2,2013,Turkmenistan,0.0515,3055
+Cluster 2,2013,Uganda,0.0725,3199
+Cluster 2,2013,Ukraine,0.0736,3217
+Cluster 2,2013,United Kingdom,0.0977,1093
+Cluster 2,2013,Uruguay,0.0882,3235
+Cluster 2,2013,"Venezuela, RB",0.0559,3307
+Cluster 2,2014,Afghanistan,0.0953,14
+Cluster 2,2014,Andorra,0.1028,50
+Cluster 2,2014,Argentina,0.0826,86
+Cluster 2,2014,Armenia,0.1018,104
+Cluster 2,2014,Australia,0.0904,140
+Cluster 2,2014,Austria,0.1037,158
+Cluster 2,2014,Barbados,0.0711,428
+Cluster 2,2014,Belgium,0.1041,212
+Cluster 2,2014,Bosnia and Herzegovina,0.0948,338
+Cluster 2,2014,Brazil,0.084,410
+Cluster 2,2014,Bulgaria,0.085,284
+Cluster 2,2014,Burundi,0.0689,194
+Cluster 2,2014,Cambodia,0.067,1616
+Cluster 2,2014,Canada,0.1006,518
+Cluster 2,2014,Chile,0.0781,554
+Cluster 2,2014,Colombia,0.0715,662
+Cluster 2,2014,Comoros,0.0758,680
+Cluster 2,2014,Costa Rica,0.0788,716
+Cluster 2,2014,Croatia,0.067,1310
+Cluster 2,2014,Cyprus,0.0678,752
+Cluster 2,2014,Czech Republic,0.0765,770
+Cluster 2,2014,Denmark,0.1017,842
+Cluster 2,2014,El Salvador,0.0768,2786
+Cluster 2,2014,Eswatini,0.0733,2948
+Cluster 2,2014,Finland,0.0949,1004
+Cluster 2,2014,Georgia,0.0844,1112
+Cluster 2,2014,Greece,0.0795,1220
+Cluster 2,2014,Guatemala,0.0594,1256
+Cluster 2,2014,Guinea-Bissau,0.0949,1184
+Cluster 2,2014,Haiti,0.078,1328
+Cluster 2,2014,Honduras,0.0817,1292
+Cluster 2,2014,Hungary,0.0709,1346
+Cluster 2,2014,Iceland,0.0828,1454
+Cluster 2,2014,Ireland,0.0965,1400
+Cluster 2,2014,Israel,0.0714,1472
+Cluster 2,2014,Italy,0.0901,1490
+Cluster 2,2014,Japan,0.1083,1544
+Cluster 2,2014,Jordan,0.0731,1526
+Cluster 2,2014,Kyrgyz Republic,0.0736,1598
+Cluster 2,2014,Lebanon,0.0785,1724
+Cluster 2,2014,Lesotho,0.0862,1796
+Cluster 2,2014,Liberia,0.0906,1742
+Cluster 2,2014,Lithuania,0.062,1832
+Cluster 2,2014,Luxembourg,0.0556,1850
+Cluster 2,2014,Malawi,0.0971,2156
+Cluster 2,2014,Maldives,0.0791,1958
+Cluster 2,2014,Malta,0.0937,2048
+Cluster 2,2014,Moldova,0.0863,1922
+Cluster 2,2014,Namibia,0.0839,2192
+Cluster 2,2014,Netherlands,0.1057,2264
+Cluster 2,2014,New Zealand,0.0942,2336
+Cluster 2,2014,Nicaragua,0.0801,2246
+Cluster 2,2014,Niger,0.0585,2210
+Cluster 2,2014,North Macedonia,0.0629,2012
+Cluster 2,2014,Norway,0.0933,2282
+Cluster 2,2014,Panama,0.0691,2390
+Cluster 2,2014,Poland,0.0635,2480
+Cluster 2,2014,Portugal,0.0902,2516
+Cluster 2,2014,Rwanda,0.069,2642
+Cluster 2,2014,Sao Tome and Principe,0.0673,2858
+Cluster 2,2014,Serbia,0.0925,2822
+Cluster 2,2014,Slovak Republic,0.0691,2894
+Cluster 2,2014,Slovenia,0.0851,2912
+Cluster 2,2014,Solomon Islands,0.0588,2750
+Cluster 2,2014,South Africa,0.0793,3398
+Cluster 2,2014,Spain,0.0902,950
+Cluster 2,2014,Sweden,0.1113,2930
+Cluster 2,2014,Turkmenistan,0.055,3056
+Cluster 2,2014,Uganda,0.0697,3200
+Cluster 2,2014,Ukraine,0.0664,3218
+Cluster 2,2014,United Kingdom,0.0976,1094
+Cluster 2,2014,Uruguay,0.0877,3236
+Cluster 2,2014,"Venezuela, RB",0.0578,3308
+Cluster 2,2015,Afghanistan,0.1011,15
+Cluster 2,2015,Andorra,0.1025,51
+Cluster 2,2015,Argentina,0.0879,87
+Cluster 2,2015,Armenia,0.1012,105
+Cluster 2,2015,Australia,0.0931,141
+Cluster 2,2015,Austria,0.1037,159
+Cluster 2,2015,Barbados,0.0697,429
+Cluster 2,2015,Belgium,0.1028,213
+Cluster 2,2015,Bosnia and Herzegovina,0.0934,339
+Cluster 2,2015,Brazil,0.0887,411
+Cluster 2,2015,Bulgaria,0.08199999999999999,285
+Cluster 2,2015,Burundi,0.0658,195
+Cluster 2,2015,Cambodia,0.0619,1617
+Cluster 2,2015,Canada,0.1051,519
+Cluster 2,2015,Chile,0.083,555
+Cluster 2,2015,Colombia,0.073,663
+Cluster 2,2015,Comoros,0.0778,681
+Cluster 2,2015,Costa Rica,0.0782,717
+Cluster 2,2015,Croatia,0.0679,1311
+Cluster 2,2015,Cyprus,0.0681,753
+Cluster 2,2015,Czech Republic,0.0724,771
+Cluster 2,2015,Denmark,0.1023,843
+Cluster 2,2015,El Salvador,0.0763,2787
+Cluster 2,2015,Eswatini,0.0713,2949
+Cluster 2,2015,Finland,0.09699999999999999,1005
+Cluster 2,2015,Georgia,0.0793,1113
+Cluster 2,2015,Greece,0.0809,1221
+Cluster 2,2015,Guatemala,0.0596,1257
+Cluster 2,2015,Guinea-Bissau,0.0859,1185
+Cluster 2,2015,Haiti,0.0863,1329
+Cluster 2,2015,Honduras,0.0771,1293
+Cluster 2,2015,Hungary,0.0697,1347
+Cluster 2,2015,Iceland,0.0815,1455
+Cluster 2,2015,Ireland,0.0734,1401
+Cluster 2,2015,Israel,0.0709,1473
+Cluster 2,2015,Italy,0.0899,1491
+Cluster 2,2015,Japan,0.1089,1545
+Cluster 2,2015,Jordan,0.0759,1527
+Cluster 2,2015,Kyrgyz Republic,0.0715,1599
+Cluster 2,2015,Lebanon,0.0768,1725
+Cluster 2,2015,Lesotho,0.084,1797
+Cluster 2,2015,Liberia,0.1029,1743
+Cluster 2,2015,Lithuania,0.0648,1833
+Cluster 2,2015,Luxembourg,0.0548,1851
+Cluster 2,2015,Malawi,0.0933,2157
+Cluster 2,2015,Maldives,0.0869,1959
+Cluster 2,2015,Malta,0.0924,2049
+Cluster 2,2015,Moldova,0.0856,1923
+Cluster 2,2015,Namibia,0.0994,2193
+Cluster 2,2015,Netherlands,0.1032,2265
+Cluster 2,2015,New Zealand,0.0933,2337
+Cluster 2,2015,Nicaragua,0.08,2247
+Cluster 2,2015,Niger,0.0714,2211
+Cluster 2,2015,North Macedonia,0.0634,2013
+Cluster 2,2015,Norway,0.1011,2283
+Cluster 2,2015,Panama,0.0681,2391
+Cluster 2,2015,Poland,0.064,2481
+Cluster 2,2015,Portugal,0.0897,2517
+Cluster 2,2015,Rwanda,0.0652,2643
+Cluster 2,2015,Sao Tome and Principe,0.0539,2859
+Cluster 2,2015,Serbia,0.0882,2823
+Cluster 2,2015,Slovak Republic,0.0685,2895
+Cluster 2,2015,Slovenia,0.085,2913
+Cluster 2,2015,Solomon Islands,0.0525,2751
+Cluster 2,2015,South Africa,0.08199999999999999,3399
+Cluster 2,2015,Spain,0.0911,951
+Cluster 2,2015,Sweden,0.11,2931
+Cluster 2,2015,Turkmenistan,0.063,3057
+Cluster 2,2015,Uganda,0.0648,3201
+Cluster 2,2015,Ukraine,0.0695,3219
+Cluster 2,2015,United Kingdom,0.0969,1095
+Cluster 2,2015,Uruguay,0.0901,3237
+Cluster 2,2015,"Venezuela, RB",0.0513,3309
+Cluster 2,2016,Afghanistan,0.1096,16
+Cluster 2,2016,Andorra,0.1032,52
+Cluster 2,2016,Argentina,0.0754,88
+Cluster 2,2016,Armenia,0.0995,106
+Cluster 2,2016,Australia,0.092,142
+Cluster 2,2016,Austria,0.1042,160
+Cluster 2,2016,Barbados,0.0685,430
+Cluster 2,2016,Belgium,0.10300000000000001,214
+Cluster 2,2016,Bosnia and Herzegovina,0.0923,340
+Cluster 2,2016,Brazil,0.0921,412
+Cluster 2,2016,Bulgaria,0.0823,286
+Cluster 2,2016,Burundi,0.0749,196
+Cluster 2,2016,Cambodia,0.0612,1618
+Cluster 2,2016,Canada,0.1074,520
+Cluster 2,2016,Chile,0.0852,556
+Cluster 2,2016,Colombia,0.0721,664
+Cluster 2,2016,Comoros,0.0749,682
+Cluster 2,2016,Costa Rica,0.0753,718
+Cluster 2,2016,Croatia,0.0683,1312
+Cluster 2,2016,Cyprus,0.0679,754
+Cluster 2,2016,Czech Republic,0.0715,772
+Cluster 2,2016,Denmark,0.1018,844
+Cluster 2,2016,El Salvador,0.0772,2788
+Cluster 2,2016,Eswatini,0.0682,2950
+Cluster 2,2016,Finland,0.0943,1006
+Cluster 2,2016,Georgia,0.0842,1114
+Cluster 2,2016,Greece,0.0828,1222
+Cluster 2,2016,Guatemala,0.0601,1258
+Cluster 2,2016,Guinea-Bissau,0.0804,1186
+Cluster 2,2016,Haiti,0.0844,1330
+Cluster 2,2016,Honduras,0.0817,1294
+Cluster 2,2016,Hungary,0.0713,1348
+Cluster 2,2016,Iceland,0.0813,1456
+Cluster 2,2016,Ireland,0.0738,1402
+Cluster 2,2016,Israel,0.0733,1474
+Cluster 2,2016,Italy,0.0888,1492
+Cluster 2,2016,Japan,0.1083,1546
+Cluster 2,2016,Jordan,0.0717,1528
+Cluster 2,2016,Kyrgyz Republic,0.0641,1600
+Cluster 2,2016,Lebanon,0.0782,1726
+Cluster 2,2016,Lesotho,0.0795,1798
+Cluster 2,2016,Liberia,0.098,1744
+Cluster 2,2016,Lithuania,0.0664,1834
+Cluster 2,2016,Luxembourg,0.0547,1852
+Cluster 2,2016,Malawi,0.0969,2158
+Cluster 2,2016,Maldives,0.102,1960
+Cluster 2,2016,Malta,0.0917,2050
+Cluster 2,2016,Moldova,0.0754,1924
+Cluster 2,2016,Namibia,0.0911,2194
+Cluster 2,2016,Netherlands,0.10300000000000001,2266
+Cluster 2,2016,New Zealand,0.0929,2338
+Cluster 2,2016,Nicaragua,0.0879,2248
+Cluster 2,2016,Niger,0.0616,2212
+Cluster 2,2016,North Macedonia,0.0638,2014
+Cluster 2,2016,Norway,0.1052,2284
+Cluster 2,2016,Panama,0.0724,2392
+Cluster 2,2016,Poland,0.0654,2482
+Cluster 2,2016,Portugal,0.0904,2518
+Cluster 2,2016,Rwanda,0.0676,2644
+Cluster 2,2016,Sao Tome and Principe,0.0622,2860
+Cluster 2,2016,Serbia,0.0865,2824
+Cluster 2,2016,Slovak Republic,0.071,2896
+Cluster 2,2016,Slovenia,0.0848,2914
+Cluster 2,2016,Solomon Islands,0.0517,2752
+Cluster 2,2016,South Africa,0.081,3400
+Cluster 2,2016,Spain,0.0897,952
+Cluster 2,2016,Sweden,0.1098,2932
+Cluster 2,2016,Turkmenistan,0.0662,3058
+Cluster 2,2016,Uganda,0.0633,3202
+Cluster 2,2016,Ukraine,0.0676,3220
+Cluster 2,2016,United Kingdom,0.09699999999999999,1096
+Cluster 2,2016,Uruguay,0.0916,3238
+Cluster 2,2016,"Venezuela, RB",0.0322,3310
+Cluster 2,2017,Afghanistan,0.1178,17
+Cluster 2,2017,Andorra,0.1032,53
+Cluster 2,2017,Argentina,0.0912,89
+Cluster 2,2017,Armenia,0.1036,107
+Cluster 2,2017,Australia,0.0921,143
+Cluster 2,2017,Austria,0.10400000000000001,161
+Cluster 2,2017,Barbados,0.0678,431
+Cluster 2,2017,Belgium,0.1034,215
+Cluster 2,2017,Bosnia and Herzegovina,0.0893,341
+Cluster 2,2017,Brazil,0.0947,413
+Cluster 2,2017,Bulgaria,0.081,287
+Cluster 2,2017,Burundi,0.0752,197
+Cluster 2,2017,Cambodia,0.0592,1619
+Cluster 2,2017,Canada,0.1057,521
+Cluster 2,2017,Chile,0.0898,557
+Cluster 2,2017,Colombia,0.0723,665
+Cluster 2,2017,Comoros,0.0738,683
+Cluster 2,2017,Costa Rica,0.0733,719
+Cluster 2,2017,Croatia,0.0679,1313
+Cluster 2,2017,Cyprus,0.0668,755
+Cluster 2,2017,Czech Republic,0.0723,773
+Cluster 2,2017,Denmark,0.1011,845
+Cluster 2,2017,El Salvador,0.0723,2789
+Cluster 2,2017,Eswatini,0.0693,2951
+Cluster 2,2017,Finland,0.0921,1007
+Cluster 2,2017,Georgia,0.076,1115
+Cluster 2,2017,Greece,0.0804,1223
+Cluster 2,2017,Guatemala,0.0581,1259
+Cluster 2,2017,Guinea-Bissau,0.0724,1187
+Cluster 2,2017,Haiti,0.0804,1331
+Cluster 2,2017,Honduras,0.0786,1295
+Cluster 2,2017,Hungary,0.0688,1349
+Cluster 2,2017,Iceland,0.0833,1457
+Cluster 2,2017,Ireland,0.0718,1403
+Cluster 2,2017,Israel,0.0741,1475
+Cluster 2,2017,Italy,0.0884,1493
+Cluster 2,2017,Japan,0.1094,1547
+Cluster 2,2017,Jordan,0.0812,1529
+Cluster 2,2017,Kyrgyz Republic,0.0619,1601
+Cluster 2,2017,Lebanon,0.08199999999999999,1727
+Cluster 2,2017,Lesotho,0.0876,1799
+Cluster 2,2017,Liberia,0.0816,1745
+Cluster 2,2017,Lithuania,0.0646,1835
+Cluster 2,2017,Luxembourg,0.0548,1853
+Cluster 2,2017,Malawi,0.0965,2159
+Cluster 2,2017,Maldives,0.0903,1961
+Cluster 2,2017,Malta,0.0934,2051
+Cluster 2,2017,Moldova,0.0701,1925
+Cluster 2,2017,Namibia,0.0855,2195
+Cluster 2,2017,Netherlands,0.10099999999999999,2267
+Cluster 2,2017,New Zealand,0.0917,2339
+Cluster 2,2017,Nicaragua,0.0865,2249
+Cluster 2,2017,Niger,0.0774,2213
+Cluster 2,2017,North Macedonia,0.0606,2015
+Cluster 2,2017,Norway,0.1045,2285
+Cluster 2,2017,Panama,0.0732,2393
+Cluster 2,2017,Poland,0.0654,2483
+Cluster 2,2017,Portugal,0.0897,2519
+Cluster 2,2017,Rwanda,0.0657,2645
+Cluster 2,2017,Sao Tome and Principe,0.0623,2861
+Cluster 2,2017,Serbia,0.0843,2825
+Cluster 2,2017,Slovak Republic,0.0674,2897
+Cluster 2,2017,Slovenia,0.0819,2915
+Cluster 2,2017,Solomon Islands,0.0468,2753
+Cluster 2,2017,South Africa,0.0811,3401
+Cluster 2,2017,Spain,0.0887,953
+Cluster 2,2017,Sweden,0.1102,2933
+Cluster 2,2017,Turkmenistan,0.0693,3059
+Cluster 2,2017,Uganda,0.0619,3203
+Cluster 2,2017,Ukraine,0.07,3221
+Cluster 2,2017,United Kingdom,0.0963,1097
+Cluster 2,2017,Uruguay,0.09300000000000001,3239
+Cluster 2,2017,"Venezuela, RB",0.0118,3311
+Cluster 3,2000,Marshall Islands,0.1972,1980
+Cluster 3,2000,Tuvalu,0.2424,3150
+Cluster 3,2000,United States,0.125,3240
+Cluster 3,2001,Marshall Islands,0.1719,1981
+Cluster 3,2001,Tuvalu,0.1919,3151
+Cluster 3,2001,United States,0.1317,3241
+Cluster 3,2002,Marshall Islands,0.1508,1982
+Cluster 3,2002,Tuvalu,0.1328,3152
+Cluster 3,2002,United States,0.1396,3242
+Cluster 3,2003,Marshall Islands,0.1473,1983
+Cluster 3,2003,Tuvalu,0.1542,3153
+Cluster 3,2003,United States,0.1446,3243
+Cluster 3,2004,Marshall Islands,0.1745,1984
+Cluster 3,2004,Tuvalu,0.1057,3154
+Cluster 3,2004,United States,0.1454,3244
+Cluster 3,2005,Marshall Islands,0.2161,1985
+Cluster 3,2005,Tuvalu,0.1136,3155
+Cluster 3,2005,United States,0.1454,3245
+Cluster 3,2006,Marshall Islands,0.2147,1986
+Cluster 3,2006,Tuvalu,0.1338,3156
+Cluster 3,2006,United States,0.1466,3246
+Cluster 3,2007,Marshall Islands,0.1751,1987
+Cluster 3,2007,Tuvalu,0.1127,3157
+Cluster 3,2007,United States,0.149,3247
+Cluster 3,2008,Marshall Islands,0.16899999999999998,1988
+Cluster 3,2008,Tuvalu,0.1074,3158
+Cluster 3,2008,United States,0.153,3248
+Cluster 3,2009,Marshall Islands,0.1606,1989
+Cluster 3,2009,Tuvalu,0.1436,3159
+Cluster 3,2009,United States,0.1634,3249
+Cluster 3,2010,Marshall Islands,0.1525,1990
+Cluster 3,2010,Tuvalu,0.16399999999999998,3160
+Cluster 3,2010,United States,0.1641,3250
+Cluster 3,2011,Marshall Islands,0.1477,1991
+Cluster 3,2011,Tuvalu,0.1539,3161
+Cluster 3,2011,United States,0.1638,3251
+Cluster 3,2012,Marshall Islands,0.1449,1992
+Cluster 3,2012,Tuvalu,0.1533,3162
+Cluster 3,2012,United States,0.1637,3252
+Cluster 3,2013,Marshall Islands,0.1481,1993
+Cluster 3,2013,Tuvalu,0.1813,3163
+Cluster 3,2013,United States,0.1635,3253
+Cluster 3,2014,Marshall Islands,0.1492,1994
+Cluster 3,2014,Tuvalu,0.1686,3164
+Cluster 3,2014,United States,0.1653,3254
+Cluster 3,2015,Marshall Islands,0.1759,1995
+Cluster 3,2015,Tuvalu,0.16699999999999998,3165
+Cluster 3,2015,United States,0.1684,3255
+Cluster 3,2016,Marshall Islands,0.1786,1996
+Cluster 3,2016,Tuvalu,0.1688,3166
+Cluster 3,2016,United States,0.172,3256
+Cluster 3,2017,Marshall Islands,0.16399999999999998,1997
+Cluster 3,2017,Tuvalu,0.1714,3167
+Cluster 3,2017,United States,0.1706,3257
