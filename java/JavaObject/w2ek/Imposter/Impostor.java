@@ -1,6 +1,6 @@
 package w2ek.Imposter;
 
-public interface Imposter {
+public interface Impostor {
     void freeze(Player p);
     void sabotage(Player p);
 

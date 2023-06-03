@@ -1,6 +1,5 @@
 package w2ek.Imposter;
-// import w2ek.Imposter.Imposter;
-// import w2ek.Imposter.Crewmate;
+
 
 /**
  * This class represents the Player class in the Amidst Us game.
@@ -108,7 +107,7 @@ public abstract class Player implements Comparable<Player> {
         for (Player p : players) {
             // for (Player p: Player.getPlayers())
             // if (p instanceof Impostor && !p.frozen) {
-            if (p instanceof Imposter && !p.frozen) {
+            if (p instanceof Impostor && !p.frozen) {
                 impostorCount++;
             } else if (p instanceof Crewmate && !p.frozen) {
                 crewmateCount++;

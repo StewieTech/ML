@@ -1,5 +1,6 @@
 package veterinary;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 
 /**
@@ -8,6 +9,12 @@ import java.io.FileNotFoundException;
 public class ClinicDriver {
 
     public static void main(String[] args) {
+
+        String currentDirectory = System.getProperty("user.dir");
+        System.out.println("Current Directory: " + currentDirectory);
+        File appointmentsFile = new File("Appointments.csv");
+        System.out.println("File exists: " + appointmentsFile.exists());
+
         Clinic clinic = new Clinic("Patients.csv");
         String dayOneReport = "";
         try {

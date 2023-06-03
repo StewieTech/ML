@@ -1,9 +1,10 @@
 package w2ek.Imposter;
 
+
 import java.text.Format;
 import java.util.Arrays;
 
-public class RedAstronaut extends Player implements Imposter {
+public class RedAstronaut extends Player implements Impostor {
 
     private final String skill ; 
 
@@ -76,7 +77,7 @@ public class RedAstronaut extends Player implements Imposter {
 
 
     public void freeze(Player p) {
-        if (!p.isFrozen() || !p.isFrozen() || !(p instanceof Imposter)) {
+        if (!p.isFrozen() || !p.isFrozen() || !(p instanceof Impostor)) {
             if(getSusLevel() < p.getSusLevel() ) {
                 p.setFrozen(true);
                 return ;
@@ -89,7 +90,7 @@ public class RedAstronaut extends Player implements Imposter {
 
     @Override
     public void sabotage(Player p) {
-        if (!isFrozen() || !p.isFrozen() || !(p instanceof Imposter)) {
+        if (!isFrozen() || !p.isFrozen() || !(p instanceof Impostor)) {
             int moreSus;
             if (getSusLevel() < 20) {
                 moreSus = (int) Math.round(p.getSusLevel() * 0.5);

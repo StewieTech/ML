@@ -43,10 +43,10 @@ public abstract class Pet {
 
         public abstract int treat() ;
 
-        String message = "Hello! My name  is " + name;
         // message = System.out.println("Hello! My name  is " + name);
-
+        
         public void speak() {
+            String message = "Hello! My name is " + name;
             if (painLevel > 5) {
                 System.out.println(message.toUpperCase());
             } else {
