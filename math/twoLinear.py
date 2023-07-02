@@ -1,32 +1,34 @@
-# one = x + 2y  -4
-# two = c1x + 6y -1
-
-# 2y = - x -4
-# 6y = -c1x + 1
-
 
 import numpy as np
 
-c1 = 1
-# Coefficient matrix
-A = np.array([[1, 2],
-            #   [1, 1, 1],
-              [c1, 6]])
+
+k = 2
+
+A = np.array([[1, 3, 2],
+              [2, k, 4],
+              [0, 0, 0]])
 
 # Constant vector
-# b = np.array([1, 3, 1])
-b = np.array([4, 1])
+b = np.array([1, 3, 0])
 
 # Solve the linear system
-x = np.linalg.solve(A, b)
+# x = np.linalg.solve(A, b)
+det_A = np.linalg.det(A)
+print(det_A)
+
+if det_A == 0:
+    print("The system is inconsistent.")
+else:
+    print("The system is consistent.")
+print(det_A)
 
 # Retrieve the solutions
-x = x[0]
-y_val = x[1]
-# c1x = x[2]
+# x_val = x[0]
+# y_val = x[1]
+
 
 # Print the solutions
-print("x =", x)
-print("y =", y_val)
-# print("c1x =", x3)
+# print("x =", x_val)
+# print("y =", y_val)
+
 
