@@ -1,27 +1,21 @@
-# one = x1 + x2 - 1
-# two = x2 + x3 - 3
-# three = x3 - 1
+#RREF
 
-import numpy as np
+from sympy import solve, init_printing, Matrix, symbols, Eq
 
-# Coefficient matrix
-A = np.array([[1, 1, 0],
-              [0, 1, 1],
-              [0, 0, 1]])
+init_printing()
 
-# Constant vector
-b = np.array([1, 3, 1])
 
-# Solve the linear system
-x = np.linalg.solve(A, b)
+k = symbols("k")
 
-# Retrieve the solutions
-x1 = x[0]
-x2 = x[1]
-x3 = x[2]
+# I = Matrix(3,3, [1,0,4, -1,2,0, 4,-3,-3])
+I = Matrix(3,3, [1,0,3, 2,3,9, 4,3,k])
 
-# Print the solutions
-print("x1 =", x1)
-print("x2 =", x2)
-print("x3 =", x3)
+determinant = I.det()
+Inverse = I.inv()
+
+solution = solve(Eq(determinant, 0), k)
+
+print("determinant",determinant)
+print("K SolutionL ", solution)
+
 
