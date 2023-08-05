@@ -304,12 +304,19 @@ fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
 
 def fibonacci(n): 
     fibAnswer = [0,1,1]
-    for i in range(64):
-        fibAnswer[i].append(i + (i-1))
-    return fibAnswer 
-   #  if n == 0: 
-   #     return 0
-   #  else:
-   #      n == n[0]
+    if n == 0: 
+       return 0
+    else:
+      for i in range(201):
+         result = fibAnswer[-1] + fibAnswer[-2]
+         fibAnswer.append(result)
+ 
+    return str(fibAnswer[n]) 
     
-print(fibonacci(3))
+print(fibonacci(10))
+
+def fibonacci(n):
+    x, y = 0, 1
+    for i in range(n):
+        x, y = y, x+y
+    return str(x)
