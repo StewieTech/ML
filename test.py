@@ -113,9 +113,9 @@
 # lstTwo = [5, 3, 2] 
 # lstThree = [7, 3, 2]
 
-lstOne = [1, 2, 2, 3]
-lstTwo = [5, 3, 2, 2] 
-lstThree = [7, 3, 2, 2]
+# lstOne = [1, 2, 2, 3]
+# lstTwo = [5, 3, 2, 2] 
+# lstThree = [7, 3, 2, 2]
 
 
 # def sum_common(lst1, lst2, lst3):
@@ -148,36 +148,168 @@ lstThree = [7, 3, 2, 2]
 # 	 return sum(lst)
 # 	return 0
 
-test = [1,2,0,1,0,1,0,3,0,1]    
+# test = [1,2,0,1,0,1,0,3,0,1]    
 
-def move_zeros(lst):
-    countZero = 0
-    for i in lst:
-        if i == 0:
-            countZero += 1
-            lst.remove(0)
-    for i in lst:
-        if i == 0:
-            countZero += 1
-            lst.remove(0)
+# def move_zeros(lst):
+#     countZero = 0
+#     for i in lst:
+#         if i == 0:
+#             countZero += 1
+#             lst.remove(0)
+#     for i in lst:
+#         if i == 0:
+#             countZero += 1
+#             lst.remove(0)
     
-    for i in range(countZero):
-        lst.append(0)
+#     for i in range(countZero):
+#         lst.append(0)
               
-    return lst
+#     return lst
 
-print(move_zeros(test))
+# print(move_zeros(test))
 
-def move_zeros(lst):
-	a = []
-	b = []
-	for i in lst:
-		if i != 0 or i is False:
-			a.append(i)
-		else: 
-			b.append(i)
+# def move_zeros(lst):
+# 	a = []
+# 	b = []
+# 	for i in lst:
+# 		if i != 0 or i is False:
+# 			a.append(i)
+# 		else: 
+# 			b.append(i)
 	
-	return a + b
+# 	return a + b
 
-def move_zeros(lst):
-    return sorted(lst, key=lambda x: x==0 and type(x) is not bool)
+# def move_zeros(lst):
+#     return sorted(lst, key=lambda x: x==0 and type(x) is not bool)
+
+# test = [1, 2, 3]
+# # test = [0, 0, 2]
+
+
+# def simple_pair(lst, n):
+#     answer = []
+#     for i in lst:
+#         for j in lst:
+#             print(lst[i],lst[j-1])
+#             print(lst[i] == lst[j])
+#             # print(i,j)
+#             if i * j == n and lst[i] != lst[j] :
+#                 answer.append(i)
+#                 answer.append(j)
+#                 return answer
+#             else :
+#                 return None
+
+
+# print(simple_pair(test, 3))
+
+# def simple_pair(lst, n):
+#   for i in range(len(lst)):
+#     for j in range(i + 1, len(lst)):
+#       x = lst[i]
+#       y = lst[j]
+#       if x * y == n:
+#         return [x, y]
+#   return None
+
+# def simple_pair(lst, n):
+#     for i, x in enumerate(lst[:-1]):
+#         for y in lst[i + 1:]:
+#             if x * y == n:
+#                 return [x, y]
+            
+# max_time = {'very easy': 5, 'easy': 10, 'medium': 15, 'hard': 20}
+# difficulty = ['very easy', 'very easy', 'easy', 'easy', 'medium', 'medium', 'hard', 'hard']
+# allowed_time = sum(max_time[diff] for diff in difficulty) + 20 
+
+# def interview(lst, tot):
+#     completed = len(lst) == len(difficulty)
+#     in_time = tot <= allowed_time
+#     questions = all(lst[i] <= max_time[difficulty[i]] for i in range(len(lst)))
+#     return "qualified" if completed and in_time and questions else "disqualified"
+
+# dict = {
+#   "Mubashir": "Name",
+#   "31": "Age",
+#   "Male": "Sex",
+#   "Pilot": "Job",
+#   "Matt": "Name",
+#   "40": "Age",
+#   "Programmer": "Job"
+# }
+         
+# result = {}
+# newKey = []
+# newValue = []
+
+# def swap_dict(dic):
+#    for i in dict:
+#       newKey.append(i)
+#       newValue.append(dic[i])
+
+
+#    print(newKey)
+#    print(newValue)
+# #    for key, value in enumerate(dic):
+#    result = dict(list(zip(newKey,newValue)))
+# #    result = result.dict()
+# #    result[i] = value
+
+#    return result
+
+
+# print(swap_dict(dict))
+
+# def swap_dict(dic):
+#     result = {}
+#     for key, value in dic.items():
+#         result.setdefault(value, []).append(key)
+#     return result
+
+
+# def cup_swapping(swaps):
+#     ball = "B"
+#     for move in swaps:
+#         if ball in move:
+#             ball = move[1] if move[0] == ball else move[0]
+#     return ball
+
+# def cup_swapping(swaps):
+# 	cur_cup = "B"
+# 	for swap in swaps:
+# 		if cur_cup in swap:
+# 			cur_cup = swap.replace(cur_cup,"")
+# 	return cur_cup
+
+# test = [1,2,3]
+ 
+# def curr(lst,mul):
+#      newLst = []
+#      for i in lst:
+#           newLst.append(i * mul)
+#      return newLst
+
+# print(curr(test,2))
+      
+          
+# multiply = lambda lst: lambda n: [x * n for x in lst]
+
+# def node_type(_N, _P, n):
+# 	if not n in _N: return "Not exist"
+# 	if not n in _P: return "Leaf"
+# 	if _P[_N.index(n)] == -1: return "Root"
+# 	return "Inner"
+
+fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+
+def fibonacci(n): 
+    fibAnswer = [0,1,1]
+    for i in range(64):
+        fibAnswer[i].append(i + (i-1))
+    return fibAnswer 
+   #  if n == 0: 
+   #     return 0
+   #  else:
+   #      n == n[0]
+    
+print(fibonacci(3))
