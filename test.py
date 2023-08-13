@@ -300,23 +300,118 @@
 # 	if _P[_N.index(n)] == -1: return "Root"
 # 	return "Inner"
 
-fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+# fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
 
-def fibonacci(n): 
-    fibAnswer = [0,1,1]
-    if n == 0: 
-       return 0
-    else:
-      for i in range(201):
-         result = fibAnswer[-1] + fibAnswer[-2]
-         fibAnswer.append(result)
+# def fibonacci(n): 
+#     fibAnswer = [0,1,1]
+#     if n == 0: 
+#        return 0
+#     else:
+#       for i in range(201):
+#          result = fibAnswer[-1] + fibAnswer[-2]
+#          fibAnswer.append(result)
  
-    return str(fibAnswer[n]) 
+#     return str(fibAnswer[n]) 
     
-print(fibonacci(10))
+# print(fibonacci(10))
 
-def fibonacci(n):
-    x, y = 0, 1
-    for i in range(n):
-        x, y = y, x+y
-    return str(x)
+# def fibonacci(n):
+#     x, y = 0, 1
+#     for i in range(n):
+#         x, y = y, x+y
+#     return str(x)
+
+# primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+
+
+
+
+# def is_prime(primes, num, left=0, right=None):
+# 	right = len(primes) - 1
+# 	print("left: ", left)
+# 	print("right: ", right)
+# 	while left <= right:
+# 		mid = (left + right) // 2
+# 		print("mid: ", mid, primes[mid])
+# 		if primes[mid] == num:
+# 			return 'yes'
+# 		elif primes[mid] > num:
+# 			print('mid was greater than num')
+# 			right = mid - 1
+# 			print("right: ", right, primes[right])
+# 		else:
+# 			print('mid was less than num')
+# 			left = mid + 1
+# 			print("left: ", left, primes[left])
+# 	return 'no'
+
+# print(is_prime(primes,79))
+# import numpy as np
+
+
+# test1 = np.array([[1,2,3],[4,5,6],[7,8,9]])
+# test2 = np.array([[1,2,3],[4,5,6],[7,8,9]])
+
+# # def subtract_matrix(lst1, lst2):
+# #     result = np.subtract(lst1, lst2)
+# #     return result
+
+
+# def subtract_matrix(lst1, lst2):
+# 	a, b = np.array(lst1, dtype=float), np.array(lst2, dtype=float)
+# 	return np.subtract(a, b).tolist()
+
+
+# def subtract_matrix(A, B):
+# 	for a,b in zip(A,B):
+# 		return a,b
+
+
+	# return [
+	# 	[float(i) - float(j) for i, j in zip(a, b)]
+	# 	# [float(i) - float(j) for i, j in zip(a, b)]  
+	# 	# for a, b in zip(A, B)
+	# ]
+# print(subtract_matrix(test1, test2))
+
+# test = 'hello'
+
+# def modify(txt):
+#     revWord = txt[::-1]
+#    #  print(revWord)
+#     result =  [ ord(char) - 96 for char in revWord ]
+#     print(result)
+#     word = ""
+#     for i in result:
+        
+#         word += str(i)
+#    #  print(word.strip("0b"))
+#     result2 = bin(int(word))
+#     return int(result2.lstrip("0b"))
+
+
+
+# # def modify(t):
+# # 	return int(bin(int(''.join([str(ord(i)-96) for i in t[::-1]])))[2:])
+
+# def modify(t):
+# 	t = reversed(t)
+# 	t = map(lambda x: str(ord(x) - 96), t)
+# 	t = int(''.join(t))
+# 	print(t)
+# 	t = bin(t)
+# 	t = int(t[2:])
+# 	return t
+# print(modify(test))
+
+# def pos_neg_sort(lst):
+#   pos = sorted([i for i in lst if i>0],reverse=True)
+#   return [pos.pop() if j>0 else j for j in lst]
+# next
+
+
+primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+
+def primorial(n):
+    for i in primes[n]:
+        print(i)
