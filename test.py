@@ -410,8 +410,49 @@
 # next
 
 
-primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+# primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
 
-def primorial(n):
-    for i in primes[n]:
-        print(i)
+# def primorial(n):
+#     result = 1
+#     for i in primes[:n]:
+#         result *= i
+#     return result
+
+# print(primorial(6))
+
+# def primorial(n):
+#   if n==1: return 2
+#   a = []
+#   for i in range(2, n**2):
+#     for j in range(2, i):
+#       if i%j==0:
+#         break
+#     else: a.append(i)
+#   return eval("*".join(str(i) for i in a[:n])) 
+
+# def alpha_clash(str_A, ind_A, str_Z, ind_Z):
+#   left_A = [ord(l) for i,l in enumerate(str_A) if i not in ind_Z]
+#   left_Z = [ord(l) for i,l in enumerate(str_Z) if i not in ind_A]
+#   scores = [left_A[i]-left_Z[i] for i in range(16)]
+#   return {'A':sum(s for s in scores if s>0), 'Z':-sum(s for s in scores if s<0)}
+
+items = {
+  "tv": 30,
+  "timmy": 20,
+  "stereo": 50,
+  }
+
+def find_it(items, name):
+
+    for n, num in (items).items():
+      #   while n != name:
+         print(n,name)
+         if n == name.lower():
+               return "{} is gone...".format(name.title())
+    return "{} is here!".format(name.title())
+
+print(find_it(items,"rambo"))
+
+# def find_it(items, name):
+#     return '{} is {}'.format(name.title(), 'gone...' if name in items else 'here!')
+      
