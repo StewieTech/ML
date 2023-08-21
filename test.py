@@ -436,23 +436,254 @@
 #   scores = [left_A[i]-left_Z[i] for i in range(16)]
 #   return {'A':sum(s for s in scores if s>0), 'Z':-sum(s for s in scores if s<0)}
 
-items = {
-  "tv": 30,
-  "timmy": 20,
-  "stereo": 50,
-  }
+# items = {
+#   "tv": 30,
+#   "timmy": 20,
+#   "stereo": 50,
+#   }
 
-def find_it(items, name):
+# def find_it(items, name):
 
-    for n, num in (items).items():
-      #   while n != name:
-         print(n,name)
-         if n == name.lower():
-               return "{} is gone...".format(name.title())
-    return "{} is here!".format(name.title())
+#     for n, num in (items).items():
+#       #   while n != name:
+#          print(n,name)
+#          if n == name.lower():
+#                return "{} is gone...".format(name.title())
+#     return "{} is here!".format(name.title())
 
-print(find_it(items,"rambo"))
+# print(find_it(items,"rambo"))
 
 # def find_it(items, name):
 #     return '{} is {}'.format(name.title(), 'gone...' if name in items else 'here!')
-      
+
+
+# class Solution:
+#     def containsDuplicate(self, nums):
+#         n = len(nums)
+#         for i in range(n - 1):
+#             for j in range(i + 1 , n):
+#                 print(i,j)
+#                 if nums[i] == nums[j]:
+#                   return True
+#             return False
+# test = [1,2,3,1]
+                
+    
+# class Solution:
+#     def containsDuplicate(self, nums):
+#         seen = {}
+#         for num in nums:
+#             if num in seen and seen[num] >= 1:
+#                 print(f"Found duplicate: {num}")
+#                 return True
+#             seen[num] = seen.get(num, 0) + 1
+#             print(f"Updated count for {num}: {seen[num]}")
+#         return False
+
+    
+s = "anagram"
+t = "nagarams"
+# from collections import defaultdict
+# count = defaultdict(int)
+
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         """
+#         :type s: str
+#         :type t: str
+#         :rtype: bool
+#         """
+
+#         seen = {}
+#         for i in s:
+#             if i in t:
+#                 # seen[i] = seen.get(i, 0) + 1
+#                 seen[i] += defaultdict(int)[i] 
+#                 print(f"Updated count for {i}: {seen[i]}")
+#         # s2 = sorted(list(set(s)))
+#         # t2 = sorted(list(set(t)))
+#         if set(s) == set(t):
+          
+#             return True
+#         return False
+
+
+# print(Solution.isAnagram(1,s,t))
+
+
+# from collections import defaultdict
+
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         """
+#         :type s: str
+#         :type t: str
+#         :rtype: bool
+#         """
+
+#         seen = defaultdict(int)  # Use defaultdict for counting
+
+#         for i in s:
+#             if i in t:
+#                 seen[i] += 1
+#                 print(f"Updated count for {i}: {seen[i]}")
+
+#         # Convert defaultdict to a regular dictionary before comparison
+        
+#         seen_dict = dict(seen)
+#         print(seen_dict)
+#         print(seen)
+
+
+#         if set(s) == set(t) and seen_dict == seen:
+#             return True
+#         return False
+    
+# print(Solution.isAnagram(1,s,t))
+
+# test = [1,2,3,1]
+
+# class Solution:
+#     def containsDuplicate(self, nums):
+#         seen = {}
+#         # n = len(nums)
+#         for num in nums:
+#             print(seen)
+#             if num in seen:
+#                 return True
+#             else:
+#                 seen[num] = seen.get(num,0) + 1
+#         return False
+    
+# print(Solution.containsDuplicate(1,test))
+
+# s2 = "anagram" 
+# t2 = "nagaram"
+
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         """
+#         :type s: str
+#         :type t: str
+#         :rtype: bool
+#         """
+#         # s3 = list(s)
+#         for letter in s:
+#             if letter in t:
+#                 print(s)
+#                 s.pop(letter)
+#                 if s == 0:
+#                     return True
+#         return False
+        
+# print(Solution.isAnagram(1,s2,t2))
+
+# test = [2,5,5,11]
+# target = 10
+
+# class Solution(object):
+#     def twoSum(self, nums, target):
+#         """
+#         :type nums: List[int]
+#         :type target: int
+#         :rtype: List[int]
+#         """
+#         n = len(nums)
+#         result = []
+#         for num in range(n ):
+#             for num2 in range(num + 1, n):
+#                 print(num, num2)
+#                 if nums[num] + nums[num2] == target:
+#                     result.append(num)
+#                     result.append(num2)
+#                     return result
+#         return False
+    
+# solution = Solution()
+# print(solution.twoSum(test,target))
+
+tests = ["eat","tea","tan","ate","nat","bat"]
+
+# class Solution(object):
+#     def groupAnagrams(self, strs):
+#         """
+#         :type strs: List[str]
+#         :rtype: List[List[str]]
+#         """
+#         # dict = {}
+#         lst = []
+#         bigLst = []
+#         for word in strs:
+#             lst.append(sorted(word))
+#         # return lst
+        
+#         n = len(lst)
+#         for i in range(n):
+#             for j in range(i + 1, n):
+#                 if lst[i] == lst[j]:
+#                     bigLst.append(lst[i,j])
+#             # print(lst)
+#         #     print(dict)
+#         #     if lst[sortedWord] != dict:
+#         #         dict[sortedWord] = dict.get(sortedWord, 0) + 1
+#         # return dict
+
+# from collections import defaultdict
+                
+# class Solution:
+#     def groupAnagrams(self, strs):
+#         # anagram_map = defaultdict(list)
+#         # anagram_map = {}.get(sorted_word,0) + 1
+        
+#         for word in strs:
+#             sorted_word = ''.join(sorted(word))
+#             print(sorted_word)
+#             # anagram_map[sorted_word].append(word)
+#             {}.get(sorted_word,0) + 1).append(word)
+        
+#         return list(anagram_map.values())
+        
+    
+# solution = Solution()
+# print(solution.groupAnagrams(tests))
+
+test = "A man, a plan, a canal: Panama"
+
+import re
+
+
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        s = re.sub('[^0-9a-zA-Z]+', '', s)
+        print(s)
+        s = (s.replace(" ","").replace(",","").replace(":",""))
+        s2 = s[::-1].lower()
+        if s.lower() == s2:
+            print(s,s2)
+            return True
+        return False
+    
+solution = Solution()
+print(solution.isPalindrome(test))
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        s = [c.lower() for c in s if c.isalnum()]
+        return all (s[i] == s[~i] for i in range(len(s)//2))
+    
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        i, j = 0, len(s) - 1
+        while i < j:
+            while i < j and not s[i].isalnum(): i += 1
+            while i < j and not s[j].isalnum(): j -= 1
+
+            if s[i].lower() != s[j].lower(): return False
+            i += 1
+            j -= 1
+
+        return True
