@@ -647,43 +647,68 @@ tests = ["eat","tea","tan","ate","nat","bat"]
 # solution = Solution()
 # print(solution.groupAnagrams(tests))
 
-test = "A man, a plan, a canal: Panama"
+# test = "A man, a plan, a canal: Panama"
 
-import re
+# import re
 
 
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        s = re.sub('[^0-9a-zA-Z]+', '', s)
-        print(s)
-        s = (s.replace(" ","").replace(",","").replace(":",""))
-        s2 = s[::-1].lower()
-        if s.lower() == s2:
-            print(s,s2)
-            return True
-        return False
+# class Solution(object):
+#     def isPalindrome(self, s):
+#         """
+#         :type s: str
+#         :rtype: bool
+#         """
+#         s = re.sub('[^0-9a-zA-Z]+', '', s)
+#         print(s)
+#         s = (s.replace(" ","").replace(",","").replace(":",""))
+#         s2 = s[::-1].lower()
+#         if s.lower() == s2:
+#             print(s,s2)
+#             return True
+#         return False
     
-solution = Solution()
-print(solution.isPalindrome(test))
+# solution = Solution()
+# print(solution.isPalindrome(test))
 
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        s = [c.lower() for c in s if c.isalnum()]
-        return all (s[i] == s[~i] for i in range(len(s)//2))
+# class Solution:
+#     def isPalindrome(self, s: str) -> bool:
+#         s = [c.lower() for c in s if c.isalnum()]
+#         return all (s[i] == s[~i] for i in range(len(s)//2))
     
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        i, j = 0, len(s) - 1
-        while i < j:
-            while i < j and not s[i].isalnum(): i += 1
-            while i < j and not s[j].isalnum(): j -= 1
+# class Solution:
+#     def isPalindrome(self, s: str) -> bool:
+#         i, j = 0, len(s) - 1
+#         while i < j:
+#             while i < j and not s[i].isalnum(): i += 1
+#             while i < j and not s[j].isalnum(): j -= 1
 
-            if s[i].lower() != s[j].lower(): return False
-            i += 1
-            j -= 1
+#             if s[i].lower() != s[j].lower(): return False
+#             i += 1
+#             j -= 1
 
-        return True
+#         return True
+
+class MinStack:
+    def __init__(self):
+        self.stack = []
+
+    def push(self, val):
+        if not self.stack:
+            self.stack.append((val, val))
+        else:
+            mn = min(self.stack[-1][1], val)
+            self.stack.append((val, mn))
+
+    def pop(self):
+        if self.stack:
+            self.stack.pop()
+
+    def top(self):
+        if self.stack:
+            return self.stack[-1][0]
+        return 0
+
+    def getMin(self):
+        if self.stack:
+            return self.stack[-1][1]
+        return 0
