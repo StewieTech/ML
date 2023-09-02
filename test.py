@@ -688,27 +688,184 @@ tests = ["eat","tea","tan","ate","nat","bat"]
 
 #         return True
 
-class MinStack:
-    def __init__(self):
-        self.stack = []
+# class MinStack:
+#     def __init__(self):
+#         self.stack = []
 
-    def push(self, val):
-        if not self.stack:
-            self.stack.append((val, val))
-        else:
-            mn = min(self.stack[-1][1], val)
-            self.stack.append((val, mn))
+#     def push(self, val):
+#         if not self.stack:
+#             self.stack.append((val, val))
+#         else:
+#             mn = min(self.stack[-1][1], val)
+#             self.stack.append((val, mn))
 
-    def pop(self):
-        if self.stack:
-            self.stack.pop()
+#     def pop(self):
+#         if self.stack:
+#             self.stack.pop()
 
-    def top(self):
-        if self.stack:
-            return self.stack[-1][0]
-        return 0
+#     def top(self):
+#         if self.stack:
+#             return self.stack[-1][0]
+#         return 0
 
-    def getMin(self):
-        if self.stack:
-            return self.stack[-1][1]
-        return 0
+#     def getMin(self):
+#         if self.stack:
+#             return self.stack[-1][1]
+#         return 0
+
+
+# class Solution(object):
+#     def maxProfit(self, prices):
+#         n = len(prices)
+#         maxReturn = 0
+
+#         for i in range(n):
+#             for j in range(i + 1, n):
+#                 print(i, j)
+#                 if prices[i] < prices[j]:
+#                     maxReturn = max(maxReturn, prices[j] - prices[i])
+#         return maxReturn
+# test = [7,1,5,3,6,4]
+    
+# class Solution(object):
+#     def maxProfit(self, prices):
+    #     n = len(prices)
+    #     maxReturn = 0
+    #     minValue = 100
+    #     dict = {}
+
+    #     for i, value in enumerate(prices):
+    #         # for j in range(i + 1, n):
+    #         print(i, value, minValue)
+    #         dict[i] = value
+    #         minValue = min(minValue, value)
+    #     # print(dict[minValue])
+    #     for i in dict.:
+    #     #     if dict[i] > dict[minValue] :
+    #             # print(dict[i])
+    #     # for i in dict:
+    #     #     if dict[i]:
+    #     #         maxReturn = max(maxReturn, dict[value] - dict[value])
+
+    #     return dict[minValue]
+    
+#         min_price = prices[0]
+#         max_profit = 0
+        
+#         for price in prices[1:]:
+#             max_profit = max(max_profit, price - min_price)
+#             min_price = min(min_price, price)
+            
+#         return max_profit
+
+# solution = Solution()
+# print(solution.maxProfit(test))
+
+# class Solution:
+#     def maxProfit(self,prices):
+#         left = 0 #Buy
+#         right = 1 #Sell
+#         max_profit = 0
+#         while right < len(prices):
+#             currentProfit = prices[right] - prices[left] #our current Profit
+#             if prices[left] < prices[right]:
+#                 max_profit =max(currentProfit,max_profit)
+#             else:
+#                 left = right
+#             right += 1
+#         return max_profit
+# test = [6,2,8,0,4,7,9,None,None,3,5]
+
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+# class Solution:
+#     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+#         small = min(p.val, q.val)
+#         large = max(p.val, q.val)
+#         while root:
+#             print(root, small, large)
+#             if root.val > large:  # p, q belong to the left subtree
+#                 root = root.left
+#             elif root.val < small:  # p, q belong to the right subtree
+#                 root = root.right
+#             else:  # Now, small <= root.val <= large -> This is the LCA between p and q
+#                 return root
+#         return None
+    
+# def constructBST(nums):
+#     if not nums:
+#         return None
+#     mid = len(nums) // 2
+#     root = TreeNode(nums[mid])
+#     root.left = constructBST(nums[:mid])
+#     root.right = constructBST(nums[mid + 1:])
+#     return root
+
+# test = [6, 2, 8, 0, 4, 7, 9, None, None, 3, 5]  # Using None instead of NULL
+# # bst_root = constructBST(test)
+
+# solution = Solution() 
+# p = TreeNode(2)  # Creating TreeNode instances for p and q
+# q = TreeNode(8)
+# ancestor = solution.lowestCommonAncestor(test, p, q) 
+# print(ancestor.val)
+# # print(solution.lowestCommonAncestor(bst_root, p, q)) 
+# # print(solution.lowestCommonAncestor(test, 2, 8)) 
+
+class ListNode:
+    def __init__(self, val = 0, next = None):
+        self.val = val
+        self.next = next
+
+# class Solution:
+#     def reverseList(self, head: ListNode) -> ListNode:
+#         prev, curr = None, head
+
+#         while (curr):
+#             nxt = curr.next # temp = 2
+#             curr.next = prev # 1 -> null
+#             prev = curr # prev = 1 
+#             curr = nxt # 1 = 2 # Head = 2
+#         return prev
+    
+#     # while curr:   # While there are still nodes in the original Linked List
+#     # nxt = curr.next    # Store a reference to the next node in 'nxt'
+#     # curr.next = prev   # Update the 'next' pointer of the current node to point to the previous node, effectively reversing the linkage
+#     # prev = curr        # Move 'prev' to the current node, as we prepare to move to the next node
+#     # curr = nxt         # Move 'curr' to the next node, advancing the traversal of the original Linked List
+
+
+# def print_linked_list(head: ListNode):
+#     prev, curr = None, head
+#     while curr:
+#         print(curr.val, end=" -> ")
+#         # curr = curr.next
+#         nxt = curr.next # temp = 2
+#         curr.next = prev # 1 -> null
+#         prev = curr # prev = 1 
+#         curr = nxt # 1 = 2 # Head = 2
+#     print("None")
+#     print("prev val is:",prev.val)
+#     print("curr val is:",prev.val)
+
+    
+
+# # Create a sample Linked List: 1 -> 2 -> 3 -> 4 -> 5
+# node5 = ListNode(5)
+# node4 = ListNode(4, node5)
+# node3 = ListNode(3, node4)
+# node2 = ListNode(2, node3)
+# node1 = ListNode(1, node2)
+
+# solution = Solution()
+
+# reversed_head = solution.reverseList(node1)
+
+# print_linked_list(reversed_head)
+
+class Solution
+    def reverseList(self, head: ListNode) -> ListNode:
