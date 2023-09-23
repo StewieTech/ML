@@ -855,17 +855,86 @@ class ListNode:
     
 
 # # Create a sample Linked List: 1 -> 2 -> 3 -> 4 -> 5
-# node5 = ListNode(5)
-# node4 = ListNode(4, node5)
-# node3 = ListNode(3, node4)
-# node2 = ListNode(2, node3)
-# node1 = ListNode(1, node2)
+node5 = ListNode(5)
+node4 = ListNode(4, node5)
+node3 = ListNode(3, node4)
+node2 = ListNode(2, node3)
+node1 = ListNode(1, node2)
 
 # solution = Solution()
 
 # reversed_head = solution.reverseList(node1)
 
-# print_linked_list(reversed_head)
+# # print_linked_list(reversed_head)
 
-class Solution
-    def reverseList(self, head: ListNode) -> ListNode:
+# class Solution:
+#     def reverseList(self, head: ListNode) -> ListNode:
+#         if not head:
+#             return None
+        
+#         #List 4,5 
+#         newHead = head # 4
+#         if head.next:
+#             print("Before recursion:", end=" ")
+#             self.print_linked_list(newHead)
+ 
+
+#             newHead = self.reverseList(head.next) # head = 5
+
+#             print("After recursion:", end=" ")
+#             self.print_linked_list(newHead)
+
+
+#             head.next.next = head #  # 5-> 4
+#         head.next = None # 4 -> null
+#         print("im out")
+#         return newHead # 3
+    
+
+#     def print_linked_list(self, head: ListNode):
+#         current = head
+#         while current:
+#             print(current.val, end=" -> ")
+#             current = current.next
+#         print("None")
+
+# solution = Solution()
+# print("Original Linked List:", end=" ")
+# solution.print_linked_list(node1)
+
+# # Reverse the Linked List
+# reversed_head = solution.reverseList(node1)
+
+# # Print the reversed Linked List
+# print("Reversed Linked List:", end=" ")
+# solution.print_linked_list(reversed_head)
+
+class Solution(object):
+    def reverseList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+
+        prev = None
+        curr = head
+
+        if curr == None:
+            return None
+
+        while curr:
+            print(f"Current node: {curr.val}")
+            newHead = curr.next
+            print(f"Next node: {newHead.val if newHead else None}")
+            curr.next = prev
+            print(f"Reversed current node's next: {curr.next.val if curr.next else None}")
+            prev = curr
+            print(f"Previous node: {prev.val}")
+            curr = newHead
+            print("Moving to the next node\n")
+
+        return prev
+
+solution = Solution()
+
+print(solution.reverseList(node1))
