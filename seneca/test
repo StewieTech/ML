@@ -1,0 +1,59 @@
+projectHMS/
+│
+├── src/                        # Source files (.cpp) for implementation
+│   ├── main.cpp                # Entry point of the application
+│   │
+│   ├── scheduling/             # Appointment scheduling implementations
+│   │   └── Appointment.cpp     
+│   │
+│   ├── userInterface/                     # User interface implementations
+│   │   └── userInterface.cpp              
+│   │
+│   ├── patient/                # Patient-related implementations
+│   │   ├── Patient.cpp         
+│   │   ├── Inpatient.cpp       
+│   │   └── Outpatient.cpp      
+│   │
+│   ├── medicalStaff/                  # Medical staff implementations
+│   │   ├── Doctor.cpp          
+│   │   └── Nurse.cpp           
+│   │
+│   ├── exceptions/             # Exception handling implementations
+│   │   ├── InvalidAgeException.cpp
+│   │   └── AppointmentConflictException.cpp
+│   │
+│   └── utils/                  # Utility classes and functions
+│       └── DataValidation.cpp  
+│
+├── include/                    # Header files (.h) for class definitions
+│   │
+│   ├── scheduling/             
+│   │   └── Appointment.h
+│   │
+│   ├── userInterface/                     
+│   │   └── userInterface.h
+│   ├── patient/                
+│   │   ├── Patient.h
+│   │   ├── Inpatient.h
+│   │   └── Outpatient.h
+│   │
+│   ├── medicalStaff/                  
+│   │   ├── Doctor.h
+│   │   └── Nurse.h
+│   │
+│   ├── exceptions/             
+│   │   ├── InvalidAgeException.h
+│   │   └── AppointmentConflictException.h
+│   │
+│   └── utils/                  
+│       └── DataValidation.h    
+│
+├── docs/                       # Documentation files
+│   ├── ProjectReport.md        # Collaborative project report
+│   └── ...                     # Any additional documentation
+│
+└── tests/                      # Unit tests and testing scripts
+    ├── schedulingTests.cpp     
+    └── userInterfaceTests.cpp 
+    ├── patientTests.cpp        
+    ├── medicalStaffTests.cpp                      
