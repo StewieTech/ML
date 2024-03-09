@@ -1,5 +1,5 @@
 #include<iostream>
-#include"HashTable.h"
+#include"hashtable.h"
 
 using namespace std;
 
@@ -8,6 +8,7 @@ void print_menu()
     cout << "\n The following choices are available " << endl;
     cout << "I insert a new record or update an existing record " << endl;
     cout << "S get the number of records(size) " << endl;
+    cout << "F find a record " << endl;
     cout << "D delete a record " << endl;
     cout << "Q quit the program " << endl << endl;
     

@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cassert>
-#include"HashTable.h"
+#include"hashtable.h"
 
 using namespace std;
 
@@ -55,3 +55,9 @@ found = data[i].key == key; // record already exist
 cout<<"found =  " << found << endl;
 
 }
+
+int Table::size() const
+{
+        return used;
+}
+

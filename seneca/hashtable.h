@@ -16,7 +16,8 @@ class Table {
         void insert(const RecordType& entry);
         void find(int key, bool&found, RecordType& result);
         int hash(int key) const;
-        void findIndex(int key, bool &found, int& i);
+        void findIndex(int key, bool& found, int& i);
         int size() const;
 
 };
+
